@@ -87,8 +87,12 @@ with open(msnOutput, 'a+', encoding="utf-8") as f:
         counter=counter+1
         print(listEnd, file=f)
     print('<p class="text-info">', file=f)
-    print("Number of words : " , numberOfWords, file=f)
-    print("Words : ", listOfWords, file=f)
+    res = []
+    for i in listOfWords:
+        if i not in res:
+            res.append(i)
+    print("Number of words : " , len(res), file=f)
+    print("Words : ", res, file=f)
     print("</p>", file=f)
     print('<p class="text-warning">', file=f)
     sorted(wordsHash.items(), key=lambda x: x[1], reverse=True)

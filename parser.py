@@ -92,7 +92,7 @@ with open(msnOutput, 'a+', encoding="utf-8") as f:
     print("</p>", file=f)
     print('<p class="text-warning">', file=f)
     sorted(wordsHash.items(), key=lambda x: x[1], reverse=True)
-    result = json.dumps(wordsHash, ensure_ascii=True, sort_keys=True).encode('utf8')
+    result = json.dumps(wordsHash, ensure_ascii=False)
     print(result, "</p>", file=f)
     print(listOfWords, "</p>", file=f)
     print(htmlEnd, file=f)

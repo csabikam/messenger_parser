@@ -1,0 +1,6 @@
+szar demo file
+
+with open('filename.txt', 'w') as f:
+    sys.stdout = f # Change the standard output to the file we created.
+    print('This message will be written to a file.')
+    sys.stdout = original_stdout

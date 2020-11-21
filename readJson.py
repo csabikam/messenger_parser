@@ -31,21 +31,82 @@ def processDateStat(dateStat, date):
     #print(month)
     #print(day)
     yearMonth = year + "-" + month
+    yearMonthDay = year + "-" + month + "-" + day
 
-    if year in dateStat:
-        recentYear = int(dateStat[year])
-        dateStat[year] = recentYear + 1
-    else:
-        dateStat[year] = 1
+    # if year in dateStat:
+    #     recentYear = int(dateStat[year])
+    #     dateStat[year] = recentYear + 1
+    # else:
+    #     dateStat[year] = 1
     if yearMonth in dateStat:
         recentYearMonth = int(dateStat[yearMonth])
         dateStat[yearMonth] = recentYearMonth + 1
     else:
         dateStat[yearMonth] = 1
+    # if yearMonthDay in dateStat:
+    #     recentYearMonth = int(dateStat[yearMonthDay])
+    #     dateStat[yearMonthDay] = recentYearMonth + 1
+    # else:
+    #     dateStat[yearMonthDay] = 1
 
     #print("\n")
     #print(dateStat)
     return dateStat
+
+
+def generateContent(keys, values):
+    templateStart = """
+    <html>
+    <head> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js" integrity="sha512-d9xgZrVZpmmQlfonhQUvTR7lMPtO7NkZMkA0ABN3PHCbKA5nqylQ/yWlFAyY6hYgdF1Qh6nYiuADWwKB4C2WSw==" crossorigin="anonymous"></script>
+    <title>Template {{ title }}</title>
+    </head>
+    <body>
+    
+    """
+    templateEnd1 = """
+        <script>
+        new Chart(document.getElementById("line-chart"), {
+  type: 'line',
+  data: {
+    labels: 
+        """
+
+    templateEnd2 = """
+            ,
+        datasets: [{ 
+            data: 
+            """
+    templateEnd3 = """
+            ,
+            label: "Africa",
+            borderColor: "#3e95cd",
+            fill: false
+          }
+        ]
+      },
+      options: {
+        title: {
+          display: true,
+          text: 'World population per region (in millions)'
+        }
+      }
+    });
+            </script>
+            </body>
+            </html>
+            """
+    content = templateStart
+    content += '<h1> valami </h1><canvas id="line-chart" width="800" height="450"></canvas>'
+    content += templateEnd1
+    content +=str(list(keys))
+    content += templateEnd2
+    content += str(list(values))
+    content += templateEnd3
+
+
+    return content
+
 
 def processJson(file):
     print(file)
@@ -77,17 +138,18 @@ def processJson(file):
                 #print(data)
                 # print(encodeText(data))
                 # https://stackoverflow.com/questions/26614323/in-what-world-would-u00c3-u00a9-become-%C3%A9
-            if ((m['sender_name'] == STRING_VIDA_CSABA) & ("content" in m)):
+            if ((m['sender_name'] == person2) & ("content" in m)):
                 print(counter)
                 csabauzik = csabauzik + 1
-                print(STRING_VIDA_CSABA + " " + date + " : ")
+                date = getDate(m['timestamp_ms'])
+                print(encodeText(person2) + " " + date + " : ")
                 dateStat = processDateStat(dateStat, date)
                 datam = m['content']
                 print(encodeText(datam))
-            if ((m['sender_name'] == STRING_P) & ("content" in m)):
+            if ((m['sender_name'] == person1) & ("content" in m)):
                 print(counter)
                 date = getDate(m['timestamp_ms'])
-                print(encodeText(STRING_P ) + " " + date + " : ")
+                print(encodeText(person1 ) + " " + date + " : ")
                 dateStat = processDateStat(dateStat, date)
                 datam = m['content']
                 print(encodeText(datam))
@@ -95,12 +157,21 @@ def processJson(file):
 
         print("\n")
         print("All message : " + str(mess_count))
-        print("Csabauzik " + str(csabauzik))
-        print("Patrikuzik "  + str(mess_count -csabauzik))
+        print(person2 + str(csabauzik))
+        print(person1  + str(mess_count -csabauzik))
         print("First mess : " + getDate(firstMess))
         print("Last mess : " + getDate(lastMess))
         print("Date Stats : ")
         print(dateStat)
+        print(dateStat.keys())
+        print(dateStat.values())
+        htmlFilename = encodeText(person1) + "-" + encodeText(person2) + " " + getDate(firstMess).split()[0] + "---" + getDate(lastMess).split()[0] + "_index.html"
+        htmlFilename = htmlFilename.replace(" ", "_")
+        print(htmlFilename)
+        f = open(htmlFilename, "w")
+        content = generateContent(dateStat.keys(), dateStat.values())
+        f.write(content)
+        f.close()
 
 
 

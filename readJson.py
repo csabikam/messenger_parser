@@ -177,7 +177,8 @@ def processJson(file):
 
 
 
-mypath = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail'
+#mypath = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail'
+mypath2 = 'D:\\_code\\python\\messenger_parser\\'
 onlyfiles = [f for f in listdir(mypath2) if isfile(join(mypath2, f))]
 print(onlyfiles)
 for file in onlyfiles:

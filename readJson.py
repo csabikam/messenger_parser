@@ -163,13 +163,16 @@ def processJson(file):
         print("Last mess : " + getDate(lastMess))
         print("Date Stats : ")
         print(dateStat)
-        print(dateStat.keys())
-        print(dateStat.values())
+        print("ODA")
+        dateStatList = list(dateStat.keys())[::-1]
+        dateStatKValues = list(dateStat.values())[::-1]
+        print(dateStatList)
+        print(dateStatKValues)
         htmlFilename = encodeText(person1) + "-" + encodeText(person2) + " " + getDate(firstMess).split()[0] + "---" + getDate(lastMess).split()[0] + "_index.html"
         htmlFilename = htmlFilename.replace(" ", "_")
         print(htmlFilename)
         f = open(htmlFilename, "w")
-        content = generateContent(dateStat.keys(), dateStat.values())
+        content = generateContent(dateStatList, dateStatKValues)
         f.write(content)
         f.close()
 

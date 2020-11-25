@@ -314,8 +314,19 @@ def processWord(words, toProcess):
     wordUnits = map(lambda x: x.lower(), wordUnits)
     words.extend(wordUnits)
     print(wordUnits)
+    print(toProcess)
     ##print(words)
+    with open("test.txt", "w", encoding="utf-8") as f:
+        f.write(str(toProcess))
     return sorted(set(words))
+    exit()
+
+
+def processSumFile(nameOfSumFile, dateStat):
+    print(nameOfSumFile);
+    print(dateStat)
+    print(dateStat.values())
+    #exit()
 
 
 def processJson(file):
@@ -392,19 +403,14 @@ def processJson(file):
                 message = encodeText(person2 + " " + date + " : \n " + datam)
                 myMessages[counter] = message
 
-            print(person1)
-            print(name)
-            print("faszom")
            #exit()
             if ((name == person1) & ("content" in message)):
-                print(person1)
-                print("BEAA")
-                print(data)
-                #exit()
-                print(data)
-                print(name)
-                print("szar p1")
-                #exit()
+                # print(person1)
+                # print("BEAA")
+                # print(data)
+                # #exit()
+                # print(data)
+                # print(name)
                 print(counter)
                 date = getDate(message['timestamp_ms'])
                 print(encodeText(person1 ) + " " + date + " : ")
@@ -417,9 +423,9 @@ def processJson(file):
                 words = processWord(words, toProcess)
                 message = encodeText(person1 + " " + date + " : \n " + datam)
                 myMessages[counter] = message
-                print("==========")
-                print(message)
-                print("__")
+                #print("==========")
+                #print(message)
+                #print("__")
             counter += 1
 
 
@@ -440,7 +446,10 @@ def processJson(file):
         person1Stat = list(person1Stat.values())[::-1]
         person2Stat = list(person2Stat.values())[::-1]
         print(dateStat)
-        exit()
+        nameOfSumFile = (person1 + "_" + person2).replace(" ",  "_")
+        print(nameOfSumFile)
+        processSumFile(nameOfSumFile, dateStat)
+        #exit()
         values = {}
         values["all"] = dateStatKValues
 
@@ -470,6 +479,7 @@ def processJson(file):
         data["name"] = encodeText(person1 + " - " + person2)
         data["count"] = mess_count
         print(htmlFilename)
+        #exit()
         print("ide " + data["last"])
 
         content = generateContent(dateStatList, values, data)
@@ -533,7 +543,7 @@ for file in onlyDirs:
     #exit(0)
     print("\n")
     fileCounter += processJson(path)
-    if fileCounter >= 2:
+    if fileCounter >= 1:
         exit()
     if (os._exists(path2)):
         fileCounter += processJson(path2)

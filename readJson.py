@@ -1,9 +1,11 @@
 import os
 import random
+import re
 from os.path import isfile, join
 import json
 import ftfy
 from datetime import datetime
+import numpy as np
 import io
 
 mypath2 = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail\\buzaspatrik_b9xc2ct-zq\\'
@@ -206,19 +208,25 @@ def getScript(dates, allMessageValues, p1MessageValues, p2MessageValues, person1
 
 def generateContent(keys, values, data1):
     print(len(data1["messages"]))
-    #print(data1["messages"])
-    #exit()
+    changeList = [ "Newline after day separation should be put",
+                   "Extended chart, with 0 months",
+                   "Cleaned words, only a-zA-z0-9"
+
+    ]
+    name = data1["name"]
     templateStart = """
     <!DOCTYPE html>
     <head lang="hu"> 
     <meta charset="UTF-8">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js" integrity="sha512-d9xgZrVZpmmQlfonhQUvTR7lMPtO7NkZMkA0ABN3PHCbKA5nqylQ/yWlFAyY6hYgdF1Qh6nYiuADWwKB4C2WSw==" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-       <title>Template {{ title }}</title>
+       <title> """  + data1["filename"]+ """</title>
     </head>
     <body>
     <div class="container"> 
-    <h1> FIRST </h1>
+    <h1> """ + name + """ </h1>
+    <h6> """ + str(changeList) + """ </h6>
+    
     </div>
     
     """
@@ -226,7 +234,7 @@ def generateContent(keys, values, data1):
     content = templateStart
     stringem = str(data1["first"])
     utso = str(data1["last"])
-    name = data1["name"]
+
     lastMessage = "last" in data1
     myMessages = data1["messages"]
     messCount = data1["count"]
@@ -240,19 +248,19 @@ def generateContent(keys, values, data1):
     listToStr = ', '.join([str(elem) for elem in redWords])
     if lastMessage:
         lastM = str(data1["last"])
-        print(lastMessage)
+        #print(lastMessage)
     else:
         lastM = "UNKNOWN"
     content += """ <div class="container">
   <div class="row">
   
     
-    <div class="col"><p class="text-danger"> Person: """ + name + """</p>  </div>
+    <div class="col"><p class="text-danger"> Converstaion of : """ + name + """</p>  </div>
     <div class="col"><p> Msg count: """ + str(messCount) + """</p>  </div>
     <div class="col"><p> Elso uzi: """ + stringem + """</p>  </div>
     <div class="col"><p> Utolso uzi: """ + lastM + """ </p></div>
-    <div class="col"><p> Eltelt idŐ: """ + timeDiff + """ </p></div>
-    <div class="col"> Piros szavak: """ + listToStr + """ </div>
+    <div class="col"><p> Eltelt idŐ: """ + "todo: timeDiff" + """ </p></div>
+    <div class="col"> Szavak: """ + listToStr + """ </div>
      <div class="col"> Words :  """ +  str(len(words)) + " | " +  str(words) + """ </div>
     <div class="w-100"><table class="table table-striped">
   <thead>
@@ -287,56 +295,107 @@ def generateContent(keys, values, data1):
     <div class="col">Column</div>
     <div class="col"><canvas id="canvas" width="600" height="500"></canvas></div>"""
 
-    for id, mess in myMessages.items():
+
+    countme = 0
+    for mess in myMessages:
+        countme += 1
         content += '<div class="col blue">'
-        print(mess)
-        content += '<a href="#" class="text-light bg-dark"> ' + str(id) + " : </a>"
-        content += mess
+        #print(mess)
+        content += '<a href="#" class="text-light bg-dark"> ' + str(countme) + " : </a>"
+        content += str(mess)
         content += '<div>'
-
-
-    #exit()
 
     content += """"
   </div>
 </div>
 """
-    print(values)
+    #print(values)
     allMessages =  values["all"]
-    print(allMessages)
-    content += getScript(keys, allMessages, values[person1], values[person2], person1, person2)
+    person1Values = values[person1]
+    person2Values = values[person2]
+    keys.sort()
+    content += getScript(keys, allMessages, person1Values, person2Values, person1, person2)
     return content
 
-
 def processWord(words, toProcess):
-    print(words)
     wordUnits = toProcess.split(" ")
     wordUnits = map(lambda x: x.lower(), wordUnits)
+    wordUnits = map(lambda x: re.sub('[^A-Za-z0-9]+', '', x), wordUnits)
+    #re.sub('[^A-Za-z0-9]+', '', x)
     words.extend(wordUnits)
-    print(wordUnits)
-    print(toProcess)
-    ##print(words)
     with open("test.txt", "w", encoding="utf-8") as f:
         f.write(str(toProcess))
     return sorted(set(words))
-    exit()
 
+def processSumFile(nameOfSumFile, dateStat, data):
+    fileName = data["filenameToStore"].split(".html")[0] + "_sum.txt"
+    with open(fileName, "w", encoding="utf-8") as f:
+        f.write(json.dumps(data, indent=4, sort_keys=True))
+    return 0
 
-def processSumFile(nameOfSumFile, dateStat):
-    print(nameOfSumFile);
-    print(dateStat)
-    print(dateStat.values())
-    #exit()
+def getDay(date):
+    day = date.split(" ")[0]
+    day = day.split("-")[2]
+    return int(day)
+
+def extendChartData(dateStat):
+    extendedDates = {'20-05': 63, '19-05': 12, '19-03': 138, '19-02': 44, '19-01': 186, '18-12': 137, '18-11': 33,
+                     '18-10': 321, '18-09': 27, '18-07': 2, '18-06': 140, '18-04': 92, '18-03': 138, '18-02': 361,
+                     '18-01': 156, '15-07': 380, '15-06': 830}
+    #print(extendedDates)
+    extendedDates = dateStat
+    firstDate = min(extendedDates)
+    lastDate = max(extendedDates)
+    #print(firstDate)
+    #print(lastDate)
+    firstYear = int(firstDate.split("-")[0])
+    firstMonth = int(firstDate.split("-")[1])
+    lastYear = int(lastDate.split("-")[0])
+    lastMonth = int(lastDate.split("-")[1])
+    months = []
+
+    for x in range(firstYear, lastYear):
+        month = ""
+        for i in range(1, 13):
+            month = ""
+            if i < 10:
+                month += str(x) + "-" "0"
+                month += str(i)
+            else:
+                month += str(x) + "-" + str(i)
+            # print("month : " + month)
+            months.append(month)
+            # print(months)
+            #print("=")
+
+    for month in months:
+        #print(month)
+        if month in extendedDates:
+            pass
+        else:
+            extendedDates[month] = 0
+
+    #print(extendedDates)
+    # print(firstYear)
+    # print(firstMonth)
+    # print(lastYear)
+    # print(lastMonth)
+
+    # for k in extendedDates:
+    # print(i)
+    # print()
+
+    # exit()
+    return extendedDates
 
 
 def processJson(file):
-    print(file)
+    # print(file)
     dateStat = {}
     person1Stat = {}
     person2Stat = {}
     fileName = file
-    print("fileName = "  + fileName)
-    print(fileName)
+    print("fileName = " + fileName)
     with open(fileName) as f:
         data = json.load(f)
 
@@ -344,20 +403,15 @@ def processJson(file):
         if len(names) == 1:
             print("CSAK EGY")
             return 0
-        print("ITT")
-        print(data)
-        print(names)
-
 
         person1 = names[0]["name"]
         person1 = encodeText(person1)
-
         person2 = names[1]["name"]
         person2 = encodeText(person2)
-
         messages = data['messages']
         firstMess = messages[len(messages)-1]['timestamp_ms']
         lastMess = messages[0]['timestamp_ms']
+
         mess_count = len(messages)
         htmlFilename = str(mess_count) + " " + encodeText(person1) + "-" + encodeText(person2) + " " + getDate(firstMess).split()[0] + "---" + \
                        getDate(lastMess).split()[0]  +".html"
@@ -375,33 +429,52 @@ def processJson(file):
         timeDiff = lastMess - firstMess
         csabauzik = 0
         counter = 0
-        myMessages = {}
+        myMessages = []
+        arrayMessages = np.array([])
         words = []
+        global lastMessageDay
+        lastMessageDay = 0
         for message in messages:
             print("\n")
             name = encodeText(message['sender_name'])
+            fullmessage = ""
             if "content" in message:
                 data = message['content']
-                print(encodeText(data))
+                #print(encodeText(data))
 
                 # https://stackoverflow.com/questions/26614323/in-what-world-would-u00c3-u00a9-become-%C3%A9
             if ((name == person2) & ("content" in message)):
-                print(data)
+
+
+
+                #print(data)
                 #exit()
                 print(counter)
                 csabauzik = csabauzik + 1
                 date = getDate(message['timestamp_ms'])
-                print(encodeText(person2) + " [" + date + "] : ")
+                lastDay = getDay(date)
+                lastDay = lastDay
+
+                if (lastMessageDay != lastDay):
+                    #print("elkélne egy")
+                    myMessages.append("""
+                    ------------------||------------------
+                    |""")
+                lastMessageDay = lastDay
+                #exit()
+                messageContent = ""
+
+                #print(encodeText(person2) + " [" + date + "] : ")
                 dateStat = processDateStat(dateStat, date)
                 person2Stat = processDateStat(person2Stat, date)
-                datam = message['content']
-                #print(encodeText(datam))
-
-                toProcess = encodeText(datam)
-                #
+                dateStat = extendChartData(dateStat)
+                person2Stat = extendChartData(person2Stat)
+                messageContent += message['content']
+                toProcess = encodeText(messageContent)
                 words = processWord(words, toProcess)
-                message = encodeText(person2 + " " + date + " : \n " + datam)
-                myMessages[counter] = message
+                message = encodeText(" [20" + date  + "]" + person2 + " :" + messageContent)
+                lastMessageDay = lastDay
+                myMessages.append(str(counter) + " " + message)
 
            #exit()
             if ((name == person1) & ("content" in message)):
@@ -413,16 +486,20 @@ def processJson(file):
                 # print(name)
                 print(counter)
                 date = getDate(message['timestamp_ms'])
-                print(encodeText(person1 ) + " " + date + " : ")
+                print(encodeText(person1) + " [20" + date + "] : ")
                 dateStat = processDateStat(dateStat, date)
+                dateStat = extendChartData(dateStat)
                 person1Stat = processDateStat(person1Stat, date)
-                datam = message['content']
-                #print(encodeText(datam))
-                toProcess = encodeText(datam)
+                person1Stat = extendChartData(person1Stat)
+                messageContent = message['content']
+                #print(encodeText(messageContent))
+                day = getDay(date)
+                lastMessageDay = int(day)
+                toProcess = encodeText(messageContent)
                 #
                 words = processWord(words, toProcess)
-                message = encodeText(person1 + " " + date + " : \n " + datam)
-                myMessages[counter] = message
+                message = encodeText(person1 + " [20" + date + "] : \n " + messageContent)
+                myMessages.append(str(counter) + " " + message)
                 #print("==========")
                 #print(message)
                 #print("__")
@@ -438,9 +515,13 @@ def processJson(file):
         print(person1  + str(mess_count -csabauzik))
         print("First mess : " + getDate(firstMess))
         print("Last mess : " + getDate(lastMess))
-        print("Date Stats : ")
         print(dateStat)
-        print("ODA")
+        print(dateStat)
+        dateStat = extendChartData(dateStat)
+        person1Stat = extendChartData(person1Stat)
+        person2Stat = extendChartData(person2Stat)
+        print(dateStat)
+        #exit()
         dateStatList = list(dateStat.keys())[::-1]
         dateStatKValues = list(dateStat.values())[::-1]
         person1Stat = list(person1Stat.values())[::-1]
@@ -448,29 +529,37 @@ def processJson(file):
         print(dateStat)
         nameOfSumFile = (person1 + "_" + person2).replace(" ",  "_")
         print(nameOfSumFile)
-        processSumFile(nameOfSumFile, dateStat)
-        #exit()
         values = {}
         values["all"] = dateStatKValues
 
-        #exit()
         values[person1] = person1Stat
         values[person2] = person2Stat
 
         print(htmlFilename)
 
+        myOrigMessages = list(myMessages)
+        myOrigMessages.reverse()
+
+
+        print(arrayMessages)
+        #print(myOrigMessages)
+        #print(myMessages)
+
+        #exit()
 
         data = {}
         data["person1"] = person1
         data["person2"] = person2
         data["words"] = words
-        data["messages"] = myMessages
+        data["messages"] = myOrigMessages
         data["diff"] =  getDate(timeDiff)
         data["first"] = getDate(firstMess)
+        data["filename"] = htmlFilename
         redWords = {
             "fasz", "pina", "szex", "szerelem", "mell", "fasz", "here", "golyo", "tökeim", "bimbó"
 
         }
+        redWords = {}
 
         data["redWords"] = redWords
         print("ide " +  data["first"])
@@ -479,16 +568,22 @@ def processJson(file):
         data["name"] = encodeText(person1 + " - " + person2)
         data["count"] = mess_count
         print(htmlFilename)
-        #exit()
         print("ide " + data["last"])
+        dataToSumFile = {}
+        dataToSumFile["conversationBetween"] = encodeText(name)
+        dataToSumFile["thisFileCreatedAt"] =  str(datetime.now())
+        dataToSumFile["diff"] = getDate(timeDiff)
+        dataToSumFile["firstMessage"] = getDate(firstMess)
+        dataToSumFile["filenameToStore"] = encodeText(htmlFilename)
 
+
+
+        processSumFile(nameOfSumFile, dateStat, dataToSumFile)
         content = generateContent(dateStatList, values, data)
 
         with open(htmlFilename, "w", encoding="utf-8") as f:
             f.write(content)
 
-        #print(content)
-        #exit()
         f.close()
         print(fileName)
         print(htmlFilename)
@@ -511,7 +606,6 @@ for file in onlyfiles:
     if (file.endswith('.json')):
         print("is json")
         processJson(file)
-        print("itt")
         exit()
 counter = 0
 
@@ -543,7 +637,7 @@ for file in onlyDirs:
     #exit(0)
     print("\n")
     fileCounter += processJson(path)
-    if fileCounter >= 1:
-        exit()
     if (os._exists(path2)):
         fileCounter += processJson(path2)
+    if fileCounter >= 1:
+        exit()

@@ -6,7 +6,10 @@ import json
 import ftfy
 from datetime import datetime
 import numpy as np
+import nltk
 import io
+
+#todo creation time in sum file
 
 mypath2 = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail\\buzaspatrik_b9xc2ct-zq\\'
 
@@ -217,6 +220,17 @@ def generateContent(keys, values, data1):
     templateStart = """
     <!DOCTYPE html>
     <head lang="hu"> 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    console.log("pushed");
+    $("#words").toggle();
+  });
+});
+</script>
+</head>
+<body>
     <meta charset="UTF-8">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js" integrity="sha512-d9xgZrVZpmmQlfonhQUvTR7lMPtO7NkZMkA0ABN3PHCbKA5nqylQ/yWlFAyY6hYgdF1Qh6nYiuADWwKB4C2WSw==" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -246,6 +260,12 @@ def generateContent(keys, values, data1):
     #person1Values = data1[person1]
     #person2Values = data1[person2]
     listToStr = ', '.join([str(elem) for elem in redWords])
+    commonWords = nltk.FreqDist(words)
+    #collocations = words.collocations()
+    #print(collocations)
+    #exit()
+
+    commonWList = commonWords.most_common(250)
     if lastMessage:
         lastM = str(data1["last"])
         #print(lastMessage)
@@ -260,8 +280,10 @@ def generateContent(keys, values, data1):
     <div class="col"><p> Elso uzi: """ + stringem + """</p>  </div>
     <div class="col"><p> Utolso uzi: """ + lastM + """ </p></div>
     <div class="col"><p> Eltelt idŐ: """ + "todo: timeDiff" + """ </p></div>
-    <div class="col"> Szavak: """ + listToStr + """ </div>
-     <div class="col"> Words :  """ +  str(len(words)) + " | " +  str(words) + """ </div>
+    <div class="col"> Most common words : """ + str(commonWList) + """   </div>
+    <div class="col"> <button>Toggle "words"</button> </div>
+    
+    <div class="col" id="words"> Words :  """ +  str(len(set(words))) + " | " +  str(set(words)) + """ </div>
     <div class="w-100"><table class="table table-striped">
   <thead>
     <tr>
@@ -325,7 +347,7 @@ def processWord(words, toProcess):
     words.extend(wordUnits)
     with open("test.txt", "w", encoding="utf-8") as f:
         f.write(str(toProcess))
-    return sorted(set(words))
+    return sorted(words)
 
 def processSumFile(nameOfSumFile, dateStat, data):
     fileName = data["filenameToStore"].split(".html")[0] + "_sum.txt"
@@ -509,7 +531,7 @@ def processJson(file):
         print("\n")
         print(words)
         print("All message : " + str(mess_count))
-        if mess_count < 200:
+        if mess_count < 100:
             return 0
         print(str(person2) + str(csabauzik))
         print(person1  + str(mess_count -csabauzik))

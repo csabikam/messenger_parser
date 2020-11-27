@@ -1,4 +1,6 @@
 import numpy
+import nltk
+from nltk.book import *
 
 def extendChartData(dateStat):
     extendedDates = {'20-05': 63, '19-05': 12, '19-03': 138, '19-02': 44, '19-01': 186, '18-12': 137, '18-11': 33, '18-10': 321, '18-09': 27, '18-07': 2, '18-06': 140, '18-04': 92, '18-03': 138, '18-02': 361, '18-01': 156, '15-07': 380, '15-06': 830}
@@ -50,4 +52,24 @@ def extendChartData(dateStat):
     exit()
     return extendedDates
 
-extendChartData(1)
+print(text1)
+print("____")
+print(text1.concordance_list("monstrous"))
+print("____")
+text1.similar("monstrous")
+print("____")
+text2.common_contexts(["monstrous", "very"])
+print("____")
+#text4.dispersion_plot(["nice", "tit", "democracy", "freedom", "duties", "America"])
+print("____")
+print(len(text5))
+text5.generate()
+print("____")
+print("____")
+print("____")
+print("____")
+print("____")
+print("____")
+print("____")
+print("____")
+print("____")

@@ -7,35 +7,35 @@ import ftfy
 from datetime import datetime
 import numpy as np
 import nltk
+import unidecode
 import io
 
 #todo creation time in sum file
+#todo process all json files
 
 mypath2 = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail\\buzaspatrik_b9xc2ct-zq\\'
 
 STRING_VIDA_CSABA = 'Vida Csaba'
 
-def getDate(timestamp) -> str:
+def getDateWithTime(timestamp) -> str:
     dt_obj = datetime.fromtimestamp(timestamp / 1000).strftime('%y-%m-%d %H:%M:%S')
     #print(dt_obj)
     return str(dt_obj)
+
+def getDateOfNow() -> str:
+    dt_obj = datetime.now()
+    result = str(dt_obj).split(" ")[0]
+    return result
 
 def encodeText(text):
     return ftfy.ftfy(text)
     #return text.encode('cp1252').decode('utf8')
 
-
 def processDateStat(dateStat, date):
-    #print(dateStat)
-    #print("====")
     date = date.split()[0]
     year = date.split("-")[0]
     month = date.split("-")[1]
     day = date.split("-")[2]
-    #print(date)
-    #print(year)
-    #print(month)
-    #print(day)
     yearMonth = year + "-" + month
     yearMonthDay = year + "-" + month + "-" + day
 
@@ -46,26 +46,7 @@ def processDateStat(dateStat, date):
         dateStat[yearMonth] = 1
     return dateStat
 
-
 def getScript(dates, allMessageValues, p1MessageValues, p2MessageValues, person1, person2):
-    # print("eleje")
-    # print(allMessageValues)
-    # print(p1MessageValues)
-    # print(p2MessageValues)
-    # print(person1)
-    # print(person2)
-    #exit()
-    # ['January', 'February', 'March', 'April', 'May', 'June', 'July']
-    # [
-    # 	randomScalingFactor(),
-    # 	randomScalingFactor(),
-    # 	randomScalingFactor(),
-    # 	randomScalingFactor(),
-    # 	randomScalingFactor(),
-    # 	randomScalingFactor(),
-    # 	randomScalingFactor()
-    # ]
-
     script = """
     <script>
         window.randomScalingFactor = function() {
@@ -207,7 +188,6 @@ def getScript(dates, allMessageValues, p1MessageValues, p2MessageValues, person1
                 """
     content = script
     return content
-
 
 def generateContent(keys, values, data1):
     print(len(data1["messages"]))
@@ -407,25 +387,33 @@ def extendChartData(dateStat):
     # print(i)
     # print()
 
-    # exit()
+    #
+    # ()
     return extendedDates
 
+def getHtmlFilename(name1, name2, count, dateFrom, dateTo, format):
+    name = ""
+    now = getDateOfNow()
+    if name1 == STRING_VIDA_CSABA:
+        name = name2
+    else:
+        name = name1
+    name = unidecode.unidecode(encodeText(name))
+    htmlFilename = str(count) + "_" + name + "_" + dateFrom + "-" + dateTo + "." + format
+    return htmlFilename
 
-def processJson(file):
-    # print(file)
+def processJson(jsonFile):
     dateStat = {}
     person1Stat = {}
     person2Stat = {}
-    fileName = file
+    fileName = jsonFile
     print("fileName = " + fileName)
     with open(fileName) as f:
         data = json.load(f)
-
         names = data['participants']
         if len(names) == 1:
             print("CSAK EGY")
             return 0
-
         person1 = names[0]["name"]
         person1 = encodeText(person1)
         person2 = names[1]["name"]
@@ -433,19 +421,13 @@ def processJson(file):
         messages = data['messages']
         firstMess = messages[len(messages)-1]['timestamp_ms']
         lastMess = messages[0]['timestamp_ms']
-
         mess_count = len(messages)
-        htmlFilename = str(mess_count) + " " + encodeText(person1) + "-" + encodeText(person2) + " " + getDate(firstMess).split()[0] + "---" + \
-                       getDate(lastMess).split()[0]  +".html"
-        htmlFilename = htmlFilename.replace(" ", "_")
-        print(htmlFilename)
+        dateFrom = getDateWithTime(firstMess).split()[0]
+        dateTo   = getDateWithTime(lastMess).split()[0]
+        htmlFilename = getHtmlFilename(person1, person2, mess_count, dateFrom, dateTo, "html")
+        sumFilename = getHtmlFilename(person1, person2, mess_count, dateFrom, dateTo, "txt")
         if (os.path.exists(htmlFilename)):
             return 0
-        print(person1)
-        print(person2)
-        print("végeee")
-        #exit()
-         #print(messages)
         print("DArab üzenet " + str(mess_count))
         print(messages[0])
         timeDiff = lastMess - firstMess
@@ -466,14 +448,9 @@ def processJson(file):
 
                 # https://stackoverflow.com/questions/26614323/in-what-world-would-u00c3-u00a9-become-%C3%A9
             if ((name == person2) & ("content" in message)):
-
-
-
-                #print(data)
-                #exit()
                 print(counter)
                 csabauzik = csabauzik + 1
-                date = getDate(message['timestamp_ms'])
+                date = getDateWithTime(message['timestamp_ms'])
                 lastDay = getDay(date)
                 lastDay = lastDay
 
@@ -507,7 +484,7 @@ def processJson(file):
                 # print(data)
                 # print(name)
                 print(counter)
-                date = getDate(message['timestamp_ms'])
+                date = getDateWithTime(message['timestamp_ms'])
                 print(encodeText(person1) + " [20" + date + "] : ")
                 dateStat = processDateStat(dateStat, date)
                 dateStat = extendChartData(dateStat)
@@ -535,15 +512,14 @@ def processJson(file):
             return 0
         print(str(person2) + str(csabauzik))
         print(person1  + str(mess_count -csabauzik))
-        print("First mess : " + getDate(firstMess))
-        print("Last mess : " + getDate(lastMess))
+        print("First mess : " + getDateWithTime(firstMess))
+        print("Last mess : " + getDateWithTime(lastMess))
         print(dateStat)
         print(dateStat)
         dateStat = extendChartData(dateStat)
         person1Stat = extendChartData(person1Stat)
         person2Stat = extendChartData(person2Stat)
         print(dateStat)
-        #exit()
         dateStatList = list(dateStat.keys())[::-1]
         dateStatKValues = list(dateStat.values())[::-1]
         person1Stat = list(person1Stat.values())[::-1]
@@ -567,15 +543,13 @@ def processJson(file):
         #print(myOrigMessages)
         #print(myMessages)
 
-        #exit()
-
         data = {}
         data["person1"] = person1
         data["person2"] = person2
         data["words"] = words
         data["messages"] = myOrigMessages
-        data["diff"] =  getDate(timeDiff)
-        data["first"] = getDate(firstMess)
+        data["diff"] =  getDateWithTime(timeDiff)
+        data["first"] = getDateWithTime(firstMess)
         data["filename"] = htmlFilename
         redWords = {
             "fasz", "pina", "szex", "szerelem", "mell", "fasz", "here", "golyo", "tökeim", "bimbó"
@@ -586,7 +560,7 @@ def processJson(file):
         data["redWords"] = redWords
         print("ide " +  data["first"])
 
-        data["last"] = getDate(lastMess)
+        data["last"] = getDateWithTime(lastMess)
         data["name"] = encodeText(person1 + " - " + person2)
         data["count"] = mess_count
         print(htmlFilename)
@@ -594,14 +568,15 @@ def processJson(file):
         dataToSumFile = {}
         dataToSumFile["conversationBetween"] = encodeText(name)
         dataToSumFile["thisFileCreatedAt"] =  str(datetime.now())
-        dataToSumFile["diff"] = getDate(timeDiff)
-        dataToSumFile["firstMessage"] = getDate(firstMess)
+        dataToSumFile["diff"] = getDateWithTime(timeDiff)
+        dataToSumFile["firstMessage"] = getDateWithTime(firstMess)
         dataToSumFile["filenameToStore"] = encodeText(htmlFilename)
 
-
-
+        print(htmlFilename)
         processSumFile(nameOfSumFile, dateStat, dataToSumFile)
         content = generateContent(dateStatList, values, data)
+
+
 
         with open(htmlFilename, "w", encoding="utf-8") as f:
             f.write(content)
@@ -618,17 +593,9 @@ def processJson(file):
 mypath2 = 'c:\\Users\\abasc\\Documents\\_csaba\\_MYFINALBK_MATERIAL_20201124\\emailezesek\\fb_uzik_jso\\fbextracted\messages\inbox\\'
 #mypath = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail'
 #mypath2 = 'D:\\_code\\python\\messenger_parser\\'
-onlyfiles = [f for f in os.listdir(mypath2) if isfile(join(mypath2, f))]
 onlyDirs = os.listdir(mypath2)
-print(onlyDirs)
+print("looking in dirs : " + str(onlyDirs))
 
-print("szar")
-for file in onlyfiles:
-    print(file)
-    if (file.endswith('.json')):
-        print("is json")
-        processJson(file)
-        exit()
 counter = 0
 
 fileCounter = 0
@@ -638,7 +605,6 @@ for file in onlyDirs:
     path3 =mypath2 + file + "\message_3.json"
     path4 =mypath2 + file + "\message_4.json"
     path5 =mypath2 + file + "\message_5.json"
-
 
     with open(path) as json_file:
         print(counter)
@@ -654,8 +620,8 @@ for file in onlyDirs:
 
         last = len(data['messages'])-1
 
-        print("Első üzi: " + getDate(data['messages'][last]["timestamp_ms"]))
-        print("Utolsó üzi : " + getDate(data['messages'][0]["timestamp_ms"]))
+        print("Első üzi: " + getDateWithTime(data['messages'][last]["timestamp_ms"]))
+        print("Utolsó üzi : " + getDateWithTime(data['messages'][0]["timestamp_ms"]))
     #exit(0)
     print("\n")
     fileCounter += processJson(path)

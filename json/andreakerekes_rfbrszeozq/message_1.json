@@ -1,0 +1,2602 @@
+{
+  "participants": [
+    {
+      "name": "Andrea Kerekes"
+    },
+    {
+      "name": "Vida Csaba"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1593336677084,
+      "content": "Az sz\u00c3\u00adv\u00c3\u00a1s akkor f\u00c3\u00a9rjhez kell menj",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Andrea Kerekes"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1592571024925,
+      "content": "K\u00c3\u00b6sz\u00c3\u00b6n\u00c3\u00b6m sz\u00c3\u00a9pen \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592570707349,
+      "content": "\u00f0\u009f\u0098\u0081\u00f0\u009f\u00a4\u0093\u00f0\u009f\u00a5\u0082\u00f0\u009f\u0091\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592570703929,
+      "content": "Isten \u00c3\u00a9ltessen Nagyl\u00c3\u00a1ny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1592121499392,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592121393991,
+      "content": "\u00f0\u009f\u0098\u0081\u00f0\u009f\u00a5\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592121391647,
+      "content": "Ilyen magas k\u00c3\u00b6r\u00c3\u00b6kb\u00c5\u0091l val\u00c3\u00b3k az \u00c3\u00adv\u00c3\u00b3cimbor\u00c3\u00a1i ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1592121358016,
+      "content": "Nem tudom mi az a dtk de val\u00c3\u00b3ban :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1592121346522,
+      "content": "Kedves Csaba :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592119910087,
+      "content": "Nemt\u00c3\u00a1n magacska s\u00c3\u00b6r\u00c3\u00b6zgetett nagy Szab\u00c3\u00b3 Tam\u00c3\u00a1ssal a dtk mellett",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592119884093,
+      "content": "Kedves Andrea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104951950,
+      "content": "Az nem az \u00c3\u00a9n probl\u00c3\u00a9m\u00c3\u00a1m :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582104935809,
+      "content": "h\u00c3\u00a1t nekem nem jelent meg semmi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104924858,
+      "content": "*:D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104922307,
+      "content": "Nem volt ez gyan\u00c3\u00bas? BD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104913342,
+      "content": "R\u00c3\u00a1d\u00c3\u00adrtam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582104884480,
+      "content": "irj r\u00c3\u00a1m jabberen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104869895,
+      "content": "M\u00c3\u00a9g a v\u00c3\u00a9g\u00c3\u00a9n ott ragadok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104863935,
+      "content": "Ilyenekre nem haszn\u00c3\u00a1lom a g\u00c3\u00a9pem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104844775,
+      "content": ":D de nem fogom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582104837301,
+      "content": "a messengert",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582104834128,
+      "content": "nyisd meg a g\u00c3\u00a9pen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104831894,
+      "content": "K\u00c3\u00bcldj l\u00c3\u00a9gyszi jabberen linket",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582104830231,
+      "content": "m\u00c3\u00a9rt ne menn\u00c3\u00a9l :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104822414,
+      "content": "Meg ha itt linket k\u00c3\u00bcldesz, nem megyek vele sokra",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582104818750,
+      "content": "de m\u00c3\u00a9g mindig nem \u00c3\u00a9rtem hogy a jabber hol kapcsol\u00c3\u00b3dik ebbe :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104812309,
+      "content": "L\u00c3\u00a1tod hogy nem :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104801214,
+      "content": "Pont olyan arcod van, mint akinek van a reperto\u00c3\u00a1rban elfekv\u00c5\u0091ben j\u00c3\u00b3 kis diumdisum zen\u00c3\u00a9je",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582104783719,
+      "content": "\u00c3\u00a9s itt nem lehet felteni ezt a k\u00c3\u00a9rd\u00c3\u00a9st ? :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104773150,
+      "content": "Mert konkr\u00c3\u00a9tan zen\u00c3\u00a9t akartam volna k\u00c3\u00a9rni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104762905,
+      "content": "Nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582104757436,
+      "content": "h\u00c3\u00a1t mert h\u00c3\u00a1ny platformon k\u00c3\u00adv\u00c3\u00a1nsz m\u00c3\u00a9g csacsogni, ez itt nem el\u00c3\u00a9g ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104749534,
+      "content": "Pedig direkt le is lass\u00c3\u00adtok, ch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104742077,
+      "content": "Sz\u00c3\u00a9pen vagyunk \u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104732241,
+      "content": "\u00c3\u0089s akkor mi\u00c3\u00a9rt nem \u00c3\u00adrsz vissza? :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582104715633,
+      "content": "van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582104714853,
+      "content": "Te Andrea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104694114,
+      "content": "Van neked jabbered?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104689540,
+      "content": "Csaba figyelj m\u00c3\u00a1r",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582104381911,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104327492,
+      "content": "Csak \u00c3\u00b6ssze ne k\u00c3\u00b6sd vele a bajszod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104310612,
+      "content": "H\u00c3\u00a1t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582104193450,
+      "content": "melyiket v\u00c3\u00a1lasztan\u00c3\u00a1m :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582104188778,
+      "content": "ejha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582104156072,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndreaKerekes_rFbrSZEoZQ/photos/87054860_1383989758429075_7702579148757139456_n_2521556408096042.jpg",
+          "creation_timestamp": 1582104155
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582055020732,
+      "content": "kis bolondos l\u00c3\u00a1ny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582055015221,
+      "content": "nincs veled semmi baj :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582055010336,
+      "content": "j\u00c3\u00b3 az",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582055003805,
+      "content": "\u00c5\u0090szinte",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582054991129,
+      "content": ":D aranyos vagy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582054962392,
+      "content": "Pazarolni emberekre nem szoktam id\u00c5\u0091t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582054287564,
+      "content": ":D oh akkor dupl\u00c3\u00a1n megtisztel\u00c5\u0091 hogy r\u00c3\u00a1mpazarolod a dr\u00c3\u00a1ga id\u00c5\u0091d szokny\u00c3\u00a1ska",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582054264800,
+      "content": "Szeretn\u00c3\u00a9m ha arra a sorozatra lenne id\u00c5\u0091m ami m\u00c3\u00a9g \u00c3\u00a9rdekel is :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582054181990,
+      "content": "de tal\u00c3\u00a1n m\u00c3\u00a9g az\u00c3\u00a9rt tudod \u00c3\u00a9lvezni :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582054176844,
+      "content": "nem vagy ilyen kis csajos limon\u00c3\u00a1d\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582054171531,
+      "content": "n\u00c3\u00a9zd meg a sorozatot amiben a hasonm\u00c3\u00a1sad van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582054163300,
+      "content": "Lemaradt\u00c3\u00a1l r\u00c3\u00b3la \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582054157421,
+      "content": "Ma",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582054156583,
+      "content": ";)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582054151924,
+      "content": ":D mikor fogott ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582054146331,
+      "content": "Nagyon nem fog az agyam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582054137324,
+      "content": "\u00c3\u0089n is \u00c3\u00adgy \u00c3\u00a9rzem :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582051563760,
+      "content": "\u00f0\u009f\u0098\u0081\u00f0\u009f\u00a5\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582051561244,
+      "content": "Ezt a topikot m\u00c3\u00a9g meghagyom egy k\u00c3\u00a9s\u00c5\u0091bbi alkalomra",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582051548101,
+      "content": "Jajj Andii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582049849456,
+      "content": "Tudhatn\u00c3\u00a1d m\u00c3\u00a1r hogy nem vagyok udvarias :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582049839587,
+      "content": "Jajj Csabi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582049195444,
+      "content": "De udvariass\u00c3\u00a1gb\u00c3\u00b3l ne hallgasd meg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582049185285,
+      "content": "Ha \u00c3\u00a9rdekel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582049181813,
+      "content": "Elmondok \u00c3\u00a9n b\u00c3\u00a1rmit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582049176064,
+      "content": "Huh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582048926517,
+      "content": "\u00c3\u0089rdekel, de nem ny\u00c3\u00bazlak \u00c3\u00a9rte :D ha szeretn\u00c3\u00a9d elmondani, sz\u00c3\u00advesen meghallgatom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582048004095,
+      "content": "Ha \u00c3\u00a9rdekel kifejtem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582047999269,
+      "content": "F\u00c3\u00a9lig igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582047882516,
+      "content": "Fair enough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582047878264,
+      "content": "Hogy megunsz mindenkit v\u00c3\u00a9g\u00c3\u00bcl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582047676114,
+      "content": "Mennyi j\u00c3\u00b6tt \u00c3\u00a1t bel\u00c5\u0091le?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582046145807,
+      "content": "Megbesz\u00c3\u00a9lt\u00c3\u00bck, nem? :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582045615098,
+      "content": "Azt tudhatod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582045611248,
+      "content": "Az nem titok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582045413626,
+      "content": "\u00f0\u009f\u00a4\u0094",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582045408499,
+      "content": "\"A Titok - mi\u00c3\u00a9rt vagyok 10 \u00c3\u00a9ve szingli\"",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582045389555,
+      "content": "A titokr\u00c3\u00b3l \u00c3\u00adrsz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582045315872,
+      "content": "Titok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582045295511,
+      "content": "Nem is nyaggattalak volna \u00c3\u00a9rte :D de mir\u00c5\u0091l \u00c3\u00adrsz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582045242260,
+      "content": "Addig te sem olvashatod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582045228948,
+      "content": "Febr v\u00c3\u00a9g\u00c3\u00a9n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582045225163,
+      "content": "Lehet megjelenik egy \u00c3\u00bajs\u00c3\u00a1gban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582045217727,
+      "content": "Meg lecsiszolom a cikkem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582045204384,
+      "content": "Ma zen\u00c3\u00a9t szerkesztek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582045195731,
+      "content": "Nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582045194084,
+      "content": "Jaa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582045184088,
+      "content": "Vagy mi a program ma est\u00c3\u00a9re? :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582045051757,
+      "content": "Ezt :D \u00c3\u00a9s m\u00c3\u00a1r f\u00c3\u00a9lig meg is tal\u00c3\u00a1ltam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582045042304,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndreaKerekes_rFbrSZEoZQ/photos/86992750_623774548449274_4463412481670250496_n_623774541782608.png",
+          "creation_timestamp": 1582045040
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582045036273,
+      "content": "Az is \u00c3\u00a9rdekel igen, de nem azt keresem meg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582045021604,
+      "content": "Melyiket ? Id\u00c5\u0091 r\u00c3\u00b6vid t\u00c3\u00b6rt\u00c3\u00a9nete?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044889717,
+      "content": "Te m\u00c3\u00a9sz edzeni? Gyan\u00c3\u00basan sok\u00c3\u00a1ig vagy bent :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044873606,
+      "content": "Illetve megkeresem Hawking egyik k\u00c3\u00b6nyv\u00c3\u00a9t :D belen\u00c3\u00a9zek, mert nagyon \u00c3\u00a9rdekel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044857517,
+      "content": "K\u00c3\u00b6nyvt\u00c3\u00a1r, ir\u00c3\u00a1ny\u00c3\u00adt\u00c3\u00a1stechnika, PLC \u00c3\u00a9s SCADA rendszerek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044828556,
+      "content": "Mi az esti progi ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044815278,
+      "content": "Vicceske",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044757259,
+      "content": "\u00f0\u009f\u00a4\u00af\u00f0\u009f\u00a4\u00af\u00f0\u009f\u00a4\u00af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044750365,
+      "content": "Pont ugyanolyan, mint azel\u00c5\u0091tt, hogy megmenek\u00c3\u00bclt volna :D",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044698019,
+      "content": "Majd mes\u00c3\u00a9ld el milyen \u00c3\u00a9rz\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044685813,
+      "content": "\u00f0\u009f\u0098\u0081 az emberis\u00c3\u00a9g megmenek\u00c3\u00bclt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044666177,
+      "content": "So much win :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044663141,
+      "content": ":D na",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044654849,
+      "content": "\u00f0\u009f\u0098\u008e\u00f0\u009f\u008c\u008b",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044648381,
+      "content": "Aszexu\u00c3\u00a1lis vagyok, nincs elvon\u00c3\u00a1s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044633340,
+      "content": "Magammal, \u00c3\u00bagy \u00c3\u00a9rted?  \u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044614857,
+      "content": "De gondolom az\u00c3\u00a9rt olyan nagyon elvon\u00c3\u00a1si t\u00c3\u00bcneteid nincsenek, \u00c3\u00bcgyesen j\u00c3\u00a1tszol :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044526635,
+      "content": "Cheers :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044516141,
+      "content": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a5\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044513983,
+      "content": "Hanem mert ez maradt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044508640,
+      "content": "Nem az\u00c3\u00a9rt vagyok 10 \u00c3\u00a9ve szingli mert az akarok lenni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044494596,
+      "content": "Na j\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044492027,
+      "content": "\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044440958,
+      "content": "Nem is \u00c3\u00a9rtem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044434927,
+      "content": "Xdd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044426180,
+      "content": "\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044424007,
+      "content": "Es valami\u00c3\u00a9rt m\u00c3\u00a9g egyszer sem m\u00c5\u00b1k\u00c3\u00b6d\u00c3\u00b6tt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044331247,
+      "content": "Fogadjunk minden l\u00c3\u00a1nyt ezzel pr\u00c3\u00b3b\u00c3\u00a1lsz felszedni :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044321410,
+      "content": "Jajj ezt csak \u00c3\u00bagy mondod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044313854,
+      "sticker": {
+        "uri": "messages/stickers_used/59482490_476352926238694_6827048729732710400_n_476352919572028.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044244888,
+      "content": ":D de szem\u00c3\u00a9t vagy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044238064,
+      "content": "Mindk\u00c3\u00a9t kezemre sz\u00c3\u00bcks\u00c3\u00a9gem van, nem rohasztan\u00c3\u00a1m le \u00c5\u0091ket ilyenekkel :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044180298,
+      "content": "csak a te kedved\u00c3\u00a9rt hogy k\u00c3\u00b6nnyebben csavarj h\u00c3\u00a1tulr\u00c3\u00b3l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044171837,
+      "content": ":D :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044161384,
+      "content": "Na k\u00c3\u00adv\u00c3\u00a1ncsi vagyok, milyen szokny\u00c3\u00a1val rukkolsz el\u00c5\u0091 xd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044149564,
+      "gifs": [
+        {
+          "uri": "messages/inbox/AndreaKerekes_rFbrSZEoZQ/gifs/54002600_1681391015339860_7971420711094845440_n_2232010273773095.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044143840,
+      "content": "holnap \u00c3\u00bajra szoknyanap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044138832,
+      "content": "kerekfenek\u00c5\u00b1k\u00c3\u00a9m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582044129935,
+      "content": ":D r\u00c3\u00b3lad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582044121499,
+      "content": "X",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582043865696,
+      "content": ":D nagy, mocskos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582043844832,
+      "content": "Ch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582043843866,
+      "content": "Kis?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582043674448,
+      "content": "te meg a kis piszkos fant\u00c3\u00a1zi\u00c3\u00a1d a cig\u00c3\u00a1nykerekeiddel :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582043663948,
+      "content": ":D j\u00c3\u00b3 a k\u00c3\u00a9rd\u00c3\u00a9s, nem ugratsz be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582043622179,
+      "content": "Ch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582043618017,
+      "content": "M\u00c3\u00a1r milyet igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582043602238,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582043387983,
+      "content": ":D j\u00c3\u00b3l van akkor olyat nem csin\u00c3\u00a1lok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582043372216,
+      "content": "De, lehet, csak nehezen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582043229871,
+      "content": "bezzeg valaki megr\u00c3\u00a1ntan\u00c3\u00a1 a kis szoknyakiold\u00c3\u00b3dat, v\u00c3\u00b6r\u00c3\u00b6s pofik\u00c3\u00a1val rohang\u00c3\u00a1ln\u00c3\u00a1l fel s al\u00c3\u00a1 mint a m\u00c3\u00a9rgezett eg\u00c3\u00a9r :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582043207475,
+      "content": ":D nem lehet zavarba hozni ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582043197812,
+      "content": "\u00c3\u0089n nem olyan l\u00c3\u00a1ny vagyok :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582043182333,
+      "content": "Nem, t\u00c5\u0091l\u00c3\u00bck sem :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582043139302,
+      "content": "bezzeg a t\u00c3\u00b6bbiekt\u00c5\u0091l igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582043134570,
+      "content": ":D micsoda megk\u00c3\u00bcl\u00c3\u00b6nb\u00c3\u00b6ztet\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582043121173,
+      "content": "Keine Sorge",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582043117022,
+      "content": "T\u00c5\u0091led nem fogok :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582043102073,
+      "content": "Elv\u00c3\u00a1r\u00c3\u00a1sok az\u00c3\u00a9rt l\u00c3\u00a1tom legal\u00c3\u00a1bb vannak :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582043098259,
+      "content": "el ne pirulj :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582043089699,
+      "content": "Na",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582043086574,
+      "content": "Xddd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042988250,
+      "content": "naciban kev\u00c3\u00a9sb\u00c3\u00a9 \u00c3\u00a9rdekes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042974774,
+      "content": ":D szokny\u00c3\u00a1ban ? de",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042968035,
+      "content": "Cig\u00c3\u00a1nykereket ne h\u00c3\u00a1nyjak v\u00c3\u00a9letlen\u00c3\u00bcl? :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042955868,
+      "content": "Hogyne",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042821943,
+      "content": "na l\u00c3\u00a1tod tudsz te lassan menni \u00c3\u00a9s pukedlizni ha kell :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042773963,
+      "content": "majd egyszer lehet hogy majd megb\u00c3\u00adzol annyira hogy magadt\u00c3\u00b3l elmondod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042766978,
+      "content": ":D j\u00c3\u00b3l van, nem akarom \u00c3\u00a9n kiszedni bel\u00c5\u0091led",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042744415,
+      "content": "Nem adn\u00c3\u00a9k zsepit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042730252,
+      "content": "De el ne szomor\u00c3\u00adtson \u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042719142,
+      "content": "H\u00c3\u00bclye is lenn\u00c3\u00a9k :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042700474,
+      "content": ":D nem helyezed a titkaid a markomba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042686352,
+      "content": "Kev\u00c3\u00a9s. :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042618618,
+      "content": "mennyi az es\u00c3\u00a9lye hogy beker\u00c3\u00bcl\u00c3\u00b6k a bizalom ezen sz\u00c5\u00b1k k\u00c3\u00b6r\u00c3\u00a9be ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042596153,
+      "content": "\u00c3\u008dgy nem is nagyon tudnak b\u00c3\u00a1ntani",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042584792,
+      "content": "\u00c3\u0081ltal\u00c3\u00a1ban \u00c3\u00a9rzelmileg nagyon kev\u00c3\u00a9s ember \u00c3\u00a1ll hozz\u00c3\u00a1m k\u00c3\u00b6zel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042583732,
+      "content": ":D nem \u00c3\u00a9lek vissza, j\u00c3\u00b3 add ki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042571882,
+      "content": "Besides",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042567291,
+      "content": "Ha valaki vissza\u00c3\u00a9l vel\u00c3\u00bck, nem engem min\u00c5\u0091s\u00c3\u00adt :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042544153,
+      "content": ":D sose add ki a gyenges\u00c3\u00a9geid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042533980,
+      "content": "De mondjuk \u00c3\u00bagy hogy az \u00c3\u00a9n gyenges\u00c3\u00a9geim m\u00c3\u00a1shol mutatkoznak meg :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042517369,
+      "content": "Pr\u00c3\u00b3b\u00c3\u00a1ltam r\u00c3\u00a1 valami sz\u00c5\u00b1k\u00c3\u00adt\u00c3\u00a9st tolni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042483852,
+      "content": ":D ezzel el\u00c3\u00a9gg\u00c3\u00a9 egy kalap al\u00c3\u00a1 vetted mindet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042451327,
+      "content": "Ugyanannyira vagyok er\u00c5\u0091s mint b\u00c3\u00a1rmilyen m\u00c3\u00a1sik n\u00c5\u0091 :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042421838,
+      "content": ":D az er\u00c5\u0091s n\u00c5\u0091 k\u00c3\u00a9pe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042413145,
+      "content": "Magam ura vagyok :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042408093,
+      "content": "Ugyan m\u00c3\u00a1r",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042343941,
+      "content": ":D m\u00c3\u00a1r ha elengednek bulik\u00c3\u00a1zni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042291452,
+      "content": "J\u00c3\u00b3 h\u00c3\u00a1t kis szerencs\u00c3\u00a9vel tavasszal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042200171,
+      "content": ":D egyszer megn\u00c3\u00a9zem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042169997,
+      "content": "Csak meg kell tal\u00c3\u00a1lni a mennyis\u00c3\u00a9get azt\u00c3\u00a1n bulizok \u00c3\u00a9n :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042141550,
+      "content": ":D bulizni se nagyon tudlak elk\u00c3\u00a9pzelni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042121414,
+      "content": "A vid\u00c3\u00a1ms\u00c3\u00a1gomr\u00c3\u00b3l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042117052,
+      "content": "Arr\u00c3\u00b3l vagyok h\u00c3\u00adres",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042110139,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582042098733,
+      "content": ":D  vid\u00c3\u00a1m le\u00c3\u00a1ny vagy, b\u00c3\u00adrom ezt benned",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582042067652,
+      "content": "Nyilv\u00c3\u00a1n :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582041998713,
+      "content": ":D mindegy, \u00c3\u00a1ldozat vagyok, mindig",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582041986553,
+      "content": "\u00f0\u009f\u00a4\u00b7\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582041917169,
+      "content": "szexista modern n\u00c5\u0091k :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582041896612,
+      "content": "Se a harisny\u00c3\u00a1d, azt ne hagyd ki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582041884425,
+      "content": "se \u00c3\u00a9n se a szokny\u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582041880372,
+      "content": "Mintha nem v\u00c3\u00a1logatn\u00c3\u00a9k :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582041871637,
+      "content": "Mi ez a \"neked nem vagyok el\u00c3\u00a9g j\u00c3\u00b3\" :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582041473076,
+      "content": "neked nem vagyok el\u00c3\u00a9g j\u00c3\u00b3 :O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582041469376,
+      "content": ":O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582041463038,
+      "content": "F\u00c3\u00baj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582041461777,
+      "content": "Dehogy tenn\u00c3\u00a9k olyat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582041036656,
+      "content": ":D nem csapsz le  a suncimra",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582041011748,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582041009911,
+      "content": "Akkor tal\u00c3\u00a1n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582041006937,
+      "content": "Bezzeg ha szokny\u00c3\u00a1ban j\u00c3\u00b6nn\u00c3\u00a9l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582041002250,
+      "content": "F\u00c5\u0091leg a nadr\u00c3\u00a1gjuk ir\u00c3\u00a1nt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582040965488,
+      "content": ":D semmi \u00c3\u00a9rdekl\u00c5\u0091d\u00c3\u00a9s nincs benned a kolleg\u00c3\u00a1k ir\u00c3\u00a1nt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582040855932,
+      "content": "Nem tartok \u00c3\u00a9n a sz\u00c3\u00a1mon semmit :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582040839185,
+      "content": "k\u00c3\u00b6sz\u00c3\u00b6n\u00c3\u00b6m hgogy igy sz\u00c3\u00a1montartod a nacim \u00c3\u00a9s k\u00c3\u00b6rny\u00c3\u00a9k\u00c3\u00a9nek \u00c3\u00a1llapot\u00c3\u00a1t :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582040836400,
+      "content": "Az\u00c3\u00a9rt raztad te akkor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582040827418,
+      "content": "megyek is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582040825639,
+      "content": "kell is rendesen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582040822552,
+      "content": "Hova pisilt\u00c3\u00a9l oO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582040814413,
+      "content": "Nem is ment\u00c3\u00a9l be a wc-be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582040128533,
+      "content": ":D de kedves, kifutok egy viz\u00c3\u00a9rt miut\u00c3\u00a1n pisiltem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582040118007,
+      "content": "Kifutok egy k\u00c3\u00a1v\u00c3\u00a9\u00c3\u00a9rt, ha \u00c3\u00a9rdekel \u00f0\u009f\u0098\u009d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582040094644,
+      "sticker": {
+        "uri": "messages/stickers_used/47193426_2150119601707479_1149641858989686784_n_1841028609283248.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582040075052,
+      "content": "mivel ilyen kis pici \u00c3\u00a9s alamuszi vagy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582040068252,
+      "content": "rendes leszek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582040066399,
+      "content": "j\u00c3\u00b3l van, nem keresem meg a kis \u00c3\u00a9rz\u00c3\u00a9keny r\u00c3\u00a9szeid, hogy viszontcsavarjak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582040056717,
+      "content": "Te viszont rettegj f\u00c3\u00a9lj \u00c3\u00a9s borzadj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582040045049,
+      "content": "Dehogy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582039846846,
+      "content": ":D te f\u00c3\u00a9lsz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582039840298,
+      "content": "Jajj szeg\u00c3\u00a9ny, mit\u00c5\u0091l f\u00c3\u00a9lsz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582039606046,
+      "content": "szeretem ezt a szagot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582039601721,
+      "content": "f\u00c3\u00a9lelemszagot \u00c3\u00a9rzek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582039036390,
+      "sticker": {
+        "uri": "messages/stickers_used/56446038_2379554715402599_4230094301779984384_n_2379554702069267.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582038491035,
+      "content": "megtal\u00c3\u00a1lom a m\u00c3\u00b3dj\u00c3\u00a1t a revansnak :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582038482947,
+      "content": "de ha te csavarsz \u00c3\u00a9n is csavarok :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582038390489,
+      "content": "Xdd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582038379635,
+      "content": "akkor mostant\u00c3\u00b3l nem veszek laza r\u00c3\u00b6vidnacit ha veled dum\u00c3\u00a1lok :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582038305420,
+      "content": "alamuszi nyuszi, megvan honnan van a mond\u00c3\u00a1s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582038295114,
+      "content": "Nagyot tudok ugrani",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582038294448,
+      "content": "ez marad :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582038285020,
+      "content": "h\u00c3\u00a1t, f\u00c5\u0091leg velem szemben nehezebben el\u00c3\u00a9rhet\u00c5\u0091 a f\u00c3\u00bclem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582038273135,
+      "content": "b\u00c3\u00a1r m\u00c3\u00a9g akkor is a szokny\u00c3\u00a1d t\u00c5\u00b1rk\u00c3\u00b6dn\u00c3\u00a9d hogy nehogy bel\u00c3\u00a1sson al\u00c3\u00a1 valaki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582038272002,
+      "content": "K\u00c3\u00bcl\u00c3\u00b6nben is f\u00c3\u00bclet nehezen csavargatn\u00c3\u00a9k, od\u00c3\u00a1ig nem \u00c3\u00a9rek fel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582038259211,
+      "content": ":D hassal lefele",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582038252880,
+      "content": "El k\u00c3\u00a9ne \u00c3\u00a1sni, mi? :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582038246082,
+      "content": "Igazi kincs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582038241419,
+      "content": "Jajaja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582038229385,
+      "content": ":D rendes l\u00c3\u00a1ny vagy te valahol m\u00c3\u00a9lyen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582038222516,
+      "content": "Hogy meglepet\u00c3\u00a9s legyen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582038217239,
+      "content": "H\u00c3\u00a1tulr\u00c3\u00b3l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582038104750,
+      "content": "rohantadban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582038099638,
+      "content": "a folyos\u00c3\u00b3n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582038095725,
+      "content": "akkor m\u00c3\u00a9g \u00c3\u00b6r\u00c3\u00bclj\u00c3\u00bcnk hogy nem csavargatod emberek goly\u00c3\u00b3it sz\u00c3\u00b3rakoz\u00c3\u00a1sb\u00c3\u00b3l, amilyen csib\u00c3\u00a9sz vagy :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582038050236,
+      "content": "Xddd csak hiszed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582038035603,
+      "content": "de m\u00c3\u00a9g gondoom igy az elej\u00c3\u00a9n visszafogod magad :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582038020871,
+      "sticker": {
+        "uri": "messages/stickers_used/59482490_476352926238694_6827048729732710400_n_476352919572028.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582038008526,
+      "content": ":D igen tudom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037997247,
+      "sticker": {
+        "uri": "messages/stickers_used/59077687_476308366243150_6360944636659236864_n_476308362909817.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037982539,
+      "content": "Sz\u00c3\u00advtelenebb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037976336,
+      "content": "Nem vagyok \u00c3\u00a9n ilyen sz\u00c3\u00advtelen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037928998,
+      "content": ":D bel\u00c5\u0091led ki is n\u00c3\u00a9zem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037906481,
+      "content": "Muhaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037904208,
+      "content": "R\u00c3\u00a1d\u00c3\u00adrok hogy gyere ki azt\u00c3\u00a1n \u00c3\u00a9n meg j\u00c3\u00b3l nem megyek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037890800,
+      "content": "Ez am\u00c3\u00bagy csod\u00c3\u00a1latos prank lehet\u00c5\u0091s\u00c3\u00a9g \u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037858563,
+      "content": "Xddd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037858397,
+      "content": "h\u00c3\u00a1t \u00c3\u00adrj r\u00c3\u00a1m, h\u00c3\u00advj ki \u00c3\u00a9s kimegyek \u00c3\u00a9n b\u00c3\u00a1rmikor :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037851935,
+      "content": ":D kev\u00c3\u00a9s az emberek ottmaradt kaj\u00c3\u00a1ja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037842623,
+      "content": "Mostan\u00c3\u00a1ban ritk\u00c3\u00a1n vagy kint a konyh\u00c3\u00a1ban, sok a munka, mi? :d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037821187,
+      "content": ":D  :D szerencs\u00c3\u00a9nkre ezt sanszossan sosem tudjuk meg am\u00c3\u00adg k\u00c3\u00bapert futsz \u00c3\u00a9s napi 2 percre talizunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037801705,
+      "content": "Nem azt jelenti, hogy nem is l\u00c3\u00a9tezik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037793960,
+      "content": "De csak mert m\u00c3\u00a9g nem \u00c3\u00a9rted el azt a szintet, ahol nem :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037783400,
+      "content": "Meh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037781671,
+      "content": "Eeeeeh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037776830,
+      "content": "Na azt\u00c3\u00a1n ha sokat besz\u00c3\u00a9lek emberekkel, morci leszek \u00c3\u00a9s nem \u00c3\u00a9rzem j\u00c3\u00b3l magam, mert egyed\u00c3\u00bcl szeretn\u00c3\u00a9k lenni :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037760412,
+      "content": "kit \u00c3\u00a9rdekel hogy mindenki m\u00c3\u00a1ssal egy h\u00c3\u00a1zs\u00c3\u00a1rtos banya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037748442,
+      "content": "nem baj, velem cuki vagy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037708558,
+      "content": ":D igen azt \u00c3\u00a9szrevettem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037697300,
+      "content": "Antiszoc vagyok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037693061,
+      "content": "Nem \u00c3\u00a9rzek r\u00c3\u00a1 k\u00c3\u00a9sztet\u00c3\u00a9st :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037686700,
+      "content": "H\u00c3\u00a1t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037672214,
+      "content": ":D gyakrabban kell a cigik\u00c3\u00a1v\u00c3\u00a9s n\u00c3\u00a9pekkel pletyizned",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037658049,
+      "content": "Nem vagyok a pletyk\u00c3\u00a1s fajta :D \u00c3\u00adgy hozz\u00c3\u00a1m nem jutnak ilyenek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037633247,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037632708,
+      "content": ":D ugyan, nem \u00c3\u00a9rt m\u00c3\u00a9g el a pletyka t\u00c3\u00a9ged hogy k\u00c5\u0091meleg vagyok ? \u00c3\u00a9n azt\u00c3\u00a1n nem fant\u00c3\u00a1zi\u00c3\u00a1lgatok, hihetsz n ekem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037617649,
+      "content": "*ll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037613260,
+      "content": "Van alatta r\u00c3\u00b6vidnadr\u00c3\u00a1g, nem kel fant\u00c3\u00a1zi\u00c3\u00a1lni :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037592375,
+      "gifs": [
+        {
+          "uri": "messages/inbox/AndreaKerekes_rFbrSZEoZQ/gifs/30190617_10155273591790896_4402452503304601600_n_131949358087244.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037591722,
+      "content": "De legal\u00c3\u00a1bb nem testhez\u00c3\u00a1ll\u00c3\u00b3, akkor nem csak ker\u00c3\u00bclgetne az idegroham",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037584466,
+      "content": "m\u00c3\u00a1ris nem olyan v\u00c3\u00a9szes \u00c3\u00a9lm\u00c3\u00a9ny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037581049,
+      "content": "h\u00c3\u00a1t, fel kell venni al\u00c3\u00a1 valamit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037575125,
+      "content": "\u00c3\u00a9s akkor marad a szoknya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037572906,
+      "content": "Idegroham ker\u00c3\u00bclget ett\u00c5\u0091l a szokny\u00c3\u00a1t\u00c3\u00b3l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037572164,
+      "content": "ha ezt tudom lelopom \u00c5\u0091ket a sz\u00c3\u00a1r\u00c3\u00adt\u00c3\u00b3k\u00c3\u00b6t\u00c3\u00a9lr\u00c5\u0091l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037557111,
+      "content": "Csak \u00c3\u00a9pp a kedvenc nadr\u00c3\u00a1gjaim sz\u00c3\u00a1rad\u00c3\u00b3ban vannak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037553875,
+      "content": "a mekeg\u00c3\u00a9sed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037548421,
+      "content": "b\u00c3\u00a1rmit is jelentsen ez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037545680,
+      "content": "Nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037542580,
+      "content": "Nyeh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037538679,
+      "content": "Meh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037537360,
+      "content": "Eh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037521765,
+      "content": "csak \u00c3\u00adgy tov\u00c3\u00a1bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037519500,
+      "content": "de a szoknya harisnya j\u00c3\u00b3v\u00c3\u00a1laszt\u00c3\u00a1s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037512354,
+      "content": ":D igen, gyakorlatilag lefutsz egy coopert , mire \u00c3\u00a9szreveszem",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Andrea Kerekes"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037495858,
+      "sticker": {
+        "uri": "messages/stickers_used/15945764_157616678064648_691703731401523200_n_157616671397982.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037495711,
+      "content": "megosztom veled",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037495183,
+      "content": "Tehetek \u00c3\u00a9n r\u00c3\u00b3la, hogy a hossz\u00c3\u00ba, szupermodell l\u00c3\u00a1baimmal csak ilyen gyorsan tudok haladni?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037490405,
+      "content": "\u00c3\u00a9lvezd az \u00c3\u00a9n gifjeim",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037479444,
+      "gifs": [
+        {
+          "uri": "messages/inbox/AndreaKerekes_rFbrSZEoZQ/gifs/54797993_448180142587719_527370878132944896_n_484548942226907.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037464595,
+      "content": "m\u00c3\u00a9g gifre se telik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037461852,
+      "content": "cs\u00c3\u00b3ri l\u00c3\u00a1ny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037458604,
+      "content": "\u00c3\u00a9s nem mire meg\u00c3\u00a1llapitom, m\u00c3\u00a1r el is ment\u00c3\u00a9l :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037456340,
+      "content": "Nincsenek gifeim",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037453120,
+      "content": "Most mondd meg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037449845,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndreaKerekes_rFbrSZEoZQ/photos/86746705_206613777383169_8180745283819274240_n_206613767383170.png",
+          "creation_timestamp": 1582037448
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037449737,
+      "content": "meg\u00c3\u00a1llap\u00c3\u00adtani hogy \u00c3\u00a1 ez te vagy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037445695,
+      "content": "akkor lenne id\u00c5\u0091m odan\u00c3\u00a9zni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037440644,
+      "content": ":D mert suhansz, gyorsan m\u00c3\u00a9sz, \u00c3\u00a9s ha lassan menn\u00c3\u00a9l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037437381,
+      "content": "Am\u00c3\u00bagy gifet akartam k\u00c3\u00bcldeni de tegnap \u00c3\u00b3ta nem m\u00c5\u00b1k\u00c3\u00b6dik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1582037426514,
+      "content": "R\u00c3\u00a1dn\u00c3\u00a9ztem most \u00c3\u00a9s nem n\u00c3\u00a9zt\u00c3\u00a9l r\u00c3\u00a1m, kvittek vagyunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037384539,
+      "gifs": [
+        {
+          "uri": "messages/inbox/AndreaKerekes_rFbrSZEoZQ/gifs/54002600_1681391015339860_7971420711094845440_n_801858310325696.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582037374342,
+      "content": "\u00c3\u00a9s v\u00c3\u00a1laszra sem m\u00c3\u00a9ltat a kis szokny\u00c3\u00a1s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1582025111967,
+      "content": "ez a pajkos mosoly :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1581324726208,
+      "content": "igen, b\u00c3\u00a1r eg\u00c3\u00a9sz vas\u00c3\u00a1rnap lustanapot tartottam, amikor nem hagytam el az \u00c3\u00a1gyat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1581324709168,
+      "content": "\u00c3\u0089s neked j\u00c3\u00b3l telt a h\u00c3\u00a9tv\u00c3\u00a9g\u00c3\u00a9d?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1581324699810,
+      "content": "De nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1581324695929,
+      "content": "Igen :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1581324607115,
+      "content": "naps\u00c3\u00bct\u00c3\u00a9s, pillang\u00c3\u00b3k, \u00c3\u00a9tterem, meg \u00c3\u00a1gyb\u00c3\u00b3lmesen\u00c3\u00a9z\u00c3\u00a9s vas\u00c3\u00a1rnap ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1581324593448,
+      "content": "kellemes h\u00c3\u00a9tv\u00c3\u00a9g\u00c3\u00a9d volt ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1581324590351,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1581324570227,
+      "content": "Andrea csatolt f\u00c3\u00a1jlt k\u00c3\u00bcld\u00c3\u00b6tt.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1581324528349,
+      "content": ":D mit meg nem engedtem magamnak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1581324499818,
+      "content": "Mert a birtokos jelz\u00c5\u0091t nem sokallod :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1581324473479,
+      "content": "de ha vid\u00c3\u00a1m vagy, akkor ezt is eln\u00c3\u00a9zem :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1581324467862,
+      "content": "a tegez\u00c3\u00a9st m\u00c3\u00a9g kicsit sokallom a k\u00c3\u00b6zt\u00c3\u00bcnk l\u00c3\u00a9v\u00c5\u0091 kork\u00c3\u00bcl\u00c3\u00b6nbs\u00c3\u00a9get tekintve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1581324456227,
+      "content": "Annyira vid\u00c3\u00a1m vagyunk, amennyire csak lehet :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1581324446071,
+      "content": "ezaz, maradjunk a sz\u00c3\u00a1raz, t\u00c3\u00a1rgyilagos megsz\u00c3\u00b3lit\u00c3\u00a1sn\u00c3\u00a1l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1581324442565,
+      "content": "Szerintem kimondottan nem lefel\u00c3\u00a9 g\u00c3\u00b6rb\u00c3\u00bcl az orrom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1581324430806,
+      "content": "J\u00c3\u00b3 reggelt Csaba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1581324177623,
+      "content": "tudjuk be a h\u00c3\u00a9tf\u00c5\u0091nek, fel a fejjel, vid\u00c3\u00a1ms\u00c3\u00a1g :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1581324169628,
+      "content": "micsoda b\u00c3\u00bas l\u00c3\u00b3g\u00c3\u00b3 orral haladt el irod\u00c3\u00a1m el\u00c5\u0091tt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1581324160534,
+      "content": "J\u00c3\u00b3reggelt Andre\u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580997666429,
+      "content": "te bar\u00c3\u00a1ts\u00c3\u00a1gos l\u00c3\u00a1ny :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580997662758,
+      "content": ":o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580997550451,
+      "content": "Andrea csatolt f\u00c3\u00a1jlt k\u00c3\u00bcld\u00c3\u00b6tt.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580996875161,
+      "gifs": [
+        {
+          "uri": "messages/inbox/AndreaKerekes_rFbrSZEoZQ/gifs/73417863_546305132787425_1298480033622392832_n_1093136817701942.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580996867169,
+      "content": ":D vicceske",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580995976427,
+      "content": "Elhaszn\u00c3\u00a1ltad mind?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580994746642,
+      "content": "nincs t\u00c3\u00b6bb harisnya :O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580982138512,
+      "content": ":D :D haha, zavarba akarsz hozni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580982106579,
+      "content": "Mert m\u00c3\u00a9g mit :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580982100664,
+      "content": "Is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580982065703,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580982065163,
+      "content": "jajj ez a kedves mosoly megmelengeti az ember szivit is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580905002661,
+      "content": "\u00c3\u00a9s pont ekkora",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580904999346,
+      "content": "pont ilyen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580904992878,
+      "sticker": {
+        "uri": "messages/stickers_used/72777826_526220498111382_2011944736520142848_n_526220484778050.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580904848327,
+      "content": ":D te naposcsibe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580904777293,
+      "content": "K\u00c3\u00a9rdezd a vil\u00c3\u00a1got :F",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580904768346,
+      "content": "D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580904767898,
+      "content": ":D nem sok volt rakt\u00c3\u00a1ron akkor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580904767212,
+      "content": "T\u00c3\u00bal nagyok az elv\u00c3\u00a1r\u00c3\u00a1saif",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580904759243,
+      "content": "Beletettem pedig a vil\u00c3\u00a1g \u00c3\u00b6sszes j\u00c3\u00b3kedv\u00c3\u00a9t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580904695942,
+      "content": "\u00c3\u00a9rtsd g\u00c3\u00banyos \"na te meg mit b\u00c3\u00a1mulsz\" mosoly :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580904686171,
+      "content": "oh ez a sz\u00c3\u00advmelenget\u00c5\u0091 kedves mosoly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580829919366,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580829352170,
+      "content": "akkor igyeksz\u00c3\u00bcnk boldogan tartani",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580829309591,
+      "content": "Hm, mondjuk :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580829255040,
+      "content": "szomi lenn\u00c3\u00a9l ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580829243190,
+      "content": "H\u00c3\u00a1t ha nem tetszene, az l\u00c3\u00a1tsz\u00c3\u00b3dna. :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580827280032,
+      "content": "monnya, hogy tetszik az els\u00c5\u0091 3 h\u00c3\u00a9t eddig ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580827273095,
+      "content": "Kerekes Kisasszony",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580801912935,
+      "content": "minek k\u00c3\u00a9sleltetni az elker\u00c3\u00bclhetetlent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580801898930,
+      "content": "Valamit a fejedre is kellett h\u00c3\u00bazni, megf\u00c3\u00a1zna k\u00c3\u00bcl\u00c3\u00b6nben, \u00c3\u00a9s kihullana a hajad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580801879331,
+      "content": "ahogy a profik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580801871752,
+      "content": "Kett\u00c5\u0091ben?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580801829908,
+      "content": "ne agg\u00c3\u00b3dj nem egy tang\u00c3\u00a1ba j\u00c3\u00b6ttem :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580801584132,
+      "content": ":D te b\u00c3\u00b6lcs csibe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580801534671,
+      "content": "\u00f0\u009f\u0098\u0082 \u00f0\u009f\u0098\u0082 Mondtam hogy vegy\u00c3\u00a9l fel kab\u00c3\u00a1tot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580801180260,
+      "content": "k\u00c3\u00b6szi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580801179168,
+      "content": "azt hiszem hogy  most tett\u00c3\u00a9l buziv\u00c3\u00a1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580798613282,
+      "content": "https://www.youtube.com/watch?v=SZMzh8uDJEc&feature=share",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=SZMzh8uDJEc"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580798069590,
+      "content": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580798066337,
+      "content": "Bugyit felvenni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580798060737,
+      "content": "A halad\u00c3\u00b3k tan\u00c3\u00a1csa:",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580798022831,
+      "content": "Aha, a neccharisny\u00c3\u00a1n \u00c3\u00a1tf\u00c3\u00baj a sz\u00c3\u00a9l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580797892863,
+      "content": "Harisnya ellen\u00c3\u00a9re ??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580797860044,
+      "content": "De az\u00c3\u00a9rt egy kab\u00c3\u00a1tot felvenn\u00c3\u00a9k a helyedben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580797841952,
+      "content": "\u00c3\u0089n nem f\u00c3\u00a1zom :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580797723440,
+      "content": "Hideg van kint ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580797680308,
+      "content": "Aki naponta 10 orazik, az nem akar sok\u00c3\u00a1ig bent lenni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580797546875,
+      "content": "\u00f0\u009f\u0098\u00ac te szorgos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580797524057,
+      "content": "\u00c3\u009aton vagyok befel\u00c3\u00a9 :d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580797482264,
+      "content": "(Kiv\u00c3\u00a9ve a mese r\u00c3\u00a9szemr\u00c5\u0091l)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580797460523,
+      "content": "-es siker ? Vagy az \u00c3\u00a1gyban l\u00c3\u00b3gatod  a t\u00c3\u00b6keid mint \u00c3\u00a9n \u00c3\u00a9s mes\u00c3\u00a9t n\u00c3\u00a9zel?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580797411659,
+      "content": "Nem am\u00c3\u00bagy, az volt a terv, hogy h\u00c3\u00a9tre be\u00c3\u00a9rek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580797395204,
+      "content": "Elsz\u00c3\u00a1nt vagyok \u00f0\u009f\u0098\u0086",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580797301262,
+      "content": "\u00f0\u009f\u0099\u0084",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580797296655,
+      "content": "Csak \u00c3\u00a9rtem tettted ? H k\u00c3\u00a9rdezhessek?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580797268076,
+      "content": "L\u00c3\u00a1tod, most nem lenne mit k\u00c3\u00a9rdezned :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580797115371,
+      "content": "Minek kelsz te 5kor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580797108779,
+      "content": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580791141592,
+      "content": "Andrea csatolt f\u00c3\u00a1jlt k\u00c3\u00bcld\u00c3\u00b6tt.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580791051055,
+      "content": "Mindig onnan tudom, hogy valaki m\u00c3\u00a1r el\u00c3\u00a9g \u00c3\u00b6reg, hogy nekem tesz megjegyz\u00c3\u00a9seket, milyen fiatal vagyok :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580767795051,
+      "content": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a5\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580767792427,
+      "content": "Azt sem tudod ez ki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580767788015,
+      "content": "T\u00c3\u00bal fiatal vagy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580767784301,
+      "gifs": [
+        {
+          "uri": "messages/inbox/AndreaKerekes_rFbrSZEoZQ/gifs/68704972_2317964708464701_3336217955720495104_n_3257531197604353.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580767771841,
+      "content": "Ki\u00c3\u00bcr\u00c3\u00adtem a kavegeped",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580767756491,
+      "content": "Majd kapsz ez\u00c3\u00a9rt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580767740550,
+      "content": "Andrea csatolt f\u00c3\u00a1jlt k\u00c3\u00bcld\u00c3\u00b6tt.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580767023716,
+      "gifs": [
+        {
+          "uri": "messages/inbox/AndreaKerekes_rFbrSZEoZQ/gifs/30653849_10157259816295410_5463991066791247872_n_1792078790926390.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580767010459,
+      "content": "Felv\u00c3\u00a1gott nyelv\u00c5\u00b1 l\u00c3\u00a1ny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580767003109,
+      "content": "Te kegyetlen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580765940168,
+      "content": "Mondtam m\u00c3\u00a1r, ott az automata :D",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea Kerekes",
+      "timestamp_ms": 1580765933949,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580763897143,
+      "content": "K\u00c3\u00a9rem  a jutalom kekszet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580763891441,
+      "content": "Ki a sherlock holmes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580763884812,
+      "content": "Hopp\u00c3\u00a1 hopp\u00c3\u00a1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1580760531660,
+      "content": "K\u00c3\u00b6sz\u00c3\u00b6nj r\u00c3\u00a1 \u00c3\u00baj Facebook-ismer\u00c5\u0091s\u00c3\u00b6dre, \u00c3\u00bczenj Andre\u00c3\u00a1nak.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Andrea Kerekes",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AndreaKerekes_rFbrSZEoZQ"
+}

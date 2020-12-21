@@ -1,0 +1,1170 @@
+{
+  "participants": [
+    {
+      "name": "Andrea K\u00c3\u00a9ri"
+    },
+    {
+      "name": "Vida Csaba"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1546093151672,
+      "content": "Koszi :* ez oriasi volt :) :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1546086709562,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/audio/audioclip154608670800014211_991100264411627.mp4",
+          "creation_timestamp": 1546086708
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Andrea K\u00c3\u00a9ri"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1538464524682,
+      "content": "Akkor jo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1538464516378,
+      "content": "\u00f0\u009f\u0098\u0081\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1538464497381,
+      "content": "Koszi :) megjott, es semmi gond nem kenyerre kellett :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1527152459495,
+      "content": "j\u00c3\u00b3 is mert Tild\u00c3\u00a1\u00c3\u00a9k pont annyival j\u00c3\u00b6nnek m\u00c3\u00a9g nekem mint amennyivel te nekik \u00c3\u00bagyhogy pont j\u00c3\u00b3 is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1527152396792,
+      "content": "30 ezer a sz\u00c3\u00a1ll\u00c3\u00a1s, 20 ezer a vonatjegy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1527152346087,
+      "content": "OKHBHUHB",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1527152343477,
+      "content": "HU46104042479240293001370000",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1527152317732,
+      "content": "hello :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527149914729,
+      "content": "Azt is \u00c3\u00adrd meg mennyi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527149909546,
+      "content": "Neked k\u00c3\u00bcld\u00c3\u00b6m majd tild\u00c3\u00a1\u00c3\u00a9t is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527149897754,
+      "content": "\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527149894644,
+      "content": "Meg h mennyi az annxi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527149888365,
+      "content": "Majd k\u00c3\u00bcldd el az ibanos szamlaszamod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527149876852,
+      "content": "Szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526086032137,
+      "content": "Isteni \u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526085975366,
+      "content": "Krumplifozelek fasirtal :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526085958454,
+      "content": "Es haxshozott",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526085951950,
+      "content": "Semmi buli vagy meki ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526085951626,
+      "content": "Vicces volt mert Bandi apja jott Ott egyszer csak taxival",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526085927146,
+      "content": "Hazaertunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526082533583,
+      "content": "igen az alap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526082222168,
+      "content": "En is igy vagyok ezzel de azert soroznek is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526082114223,
+      "content": "de ti igyatok csak :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526082109811,
+      "content": "mint folyton bebaszn\u00c3\u00a9k :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526082105740,
+      "content": "\u00c3\u00a9n ink\u00c3\u00a1bb t\u00c3\u00a9pn\u00c3\u00a9k ott",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526082016593,
+      "content": "Majd csak megtudjuk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526082003095,
+      "content": "Nemtom :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081996822,
+      "content": "Ez a munkajuk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081995653,
+      "content": "az mire j\u00c3\u00b3 a htcs olaj ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081973079,
+      "content": "Szoval biztos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081953380,
+      "content": "Valami templom tetejen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081941910,
+      "content": "Kint",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081938018,
+      "content": "Azok htc-s olajat arulnak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081908766,
+      "content": "\u00c5\u0091 f\u00c3\u00bcvezik ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081896538,
+      "content": "Majd a Zoli o a helyi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081785909,
+      "content": "mondjad matyinak hogy szerezzen f\u00c3\u00bcvet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081779907,
+      "content": "az tuti",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081739428,
+      "content": "Mar varom Pragat tok vicces lesz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081715760,
+      "content": "kibulizz\u00c3\u00a1tok ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081712229,
+      "content": ":D ezt m\u00c3\u00a1r szeretem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081706668,
+      "content": "Basszus rerugtam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081695528,
+      "content": "nyilv\u00c3\u00a1n nem h\u00c3\u00a1tr\u00c3\u00a1ny ha csini is, de nem az a l\u00c3\u00a9nyeg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081686399,
+      "content": "de t\u00c3\u00a9lleg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081679137,
+      "content": "Pff persze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081670664,
+      "content": ":D nem, a bels\u00c5\u0091 a l\u00c3\u00a9nyeg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081666520,
+      "content": "mondjuk jellemz\u00c5\u0091en ink\u00c3\u00a1bb sportosak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081665237,
+      "content": "A tobbi mindegy nem?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081660858,
+      "content": "minfenf\u00c3\u00a9le szokott nekem is lenni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081655801,
+      "content": "de a k\u00c3\u00bcls\u00c5\u0091 nem \u00c3\u00a9rdekes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081650273,
+      "content": "ja csak k\u00c3\u00bcls\u00c5\u0091ben ? :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081639128,
+      "content": "Tudom hogy a kicsi vekony kis melluekre buksz :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081597935,
+      "content": "h\u00c3\u00a1t de kiv\u00c3\u00a1ncsi vagyok hogy mit gondolsz nekem milyen kell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081583739,
+      "content": "Neked mas fele noci",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081563704,
+      "content": "Vegig maszirozott minket Levit Tildat Meg engem is es jol tolta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081517926,
+      "content": "ja, er\u00c5\u0091s kis geci",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081507917,
+      "content": "De hallod nagyon jol masziroz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081499901,
+      "content": "mi\u00c3\u00a9rt, milyen kell nekem szerinted ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081486668,
+      "content": "Mas tipusu no Kell neki mint neked Az biztos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081453146,
+      "content": "j\u00c3\u00b3fej, m\u00c3\u00a9gsem k\u00c3\u00b6nny\u00c3\u00bc k\u00c3\u00b6r n\u00c5\u0091t szerezni neki :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081439220,
+      "content": "Teljesen normalis a srac",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081429100,
+      "content": "Meg mutatta a lakas kepeket",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081421242,
+      "content": "ugye hogy nem rem\u00c3\u00a9nytelen neki csajt tal\u00c3\u00a1lni ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081407289,
+      "content": "Eddig dumaltunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081393334,
+      "content": "dum\u00c3\u00a1lt\u00c3\u00a1l vele ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081389877,
+      "content": "na v\u00c3\u00a9gre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081383991,
+      "content": "Tilda Meg a haverod pisil",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081369742,
+      "content": "h\u00c3\u00adrf\u00c3\u00bcgg\u00c5\u0091 vagyok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081360471,
+      "content": "\u00c3\u00a9n m\u00c3\u00a9g h\u00c3\u00adreket olvasok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526081352055,
+      "content": "akkor j\u00c3\u00b6het egy friss k\u00c3\u00a9p :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081350810,
+      "content": "Te meg mit csinalsz ebren?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526081331989,
+      "content": "Most mar tenyleg mindenki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526078335564,
+      "content": "Mindenki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526078327054,
+      "content": "Senki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526078311524,
+      "content": "Ki r\u00c3\u00a9szeg m\u00c3\u00a1r?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526077985850,
+      "content": "Meg igy is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526077976501,
+      "content": "Kurva nagy buli volt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526077944992,
+      "content": "Nem nagyon Jo volt egyebkent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526077919527,
+      "content": "Fostalicska",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526077875770,
+      "content": "A koncin a hangositoig see allt a tomeg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526077825372,
+      "content": "Nem baszki ma szinte senki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526077352022,
+      "content": "sokan vannak kint ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526077277606,
+      "content": "Mar2ot kuldtem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526077265330,
+      "content": "akkor egyet k\u00c3\u00bcldj vissza",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526077259304,
+      "content": "Mar 2ot kaptam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526077255485,
+      "content": ":D igen eml\u00c3\u00a9kszem, r\u00c3\u00a9gi sz\u00c3\u00a9p id\u00c5\u0091k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526077242298,
+      "content": "Igy szurtalak ki egyszer a zebranal pesten, azt neztem de Jo vadlja van ennek a faszinak es J\u00c3\u00a9  ex a Csabiii",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526077177645,
+      "content": "h\u00c3\u00a1t az is van rakt\u00c3\u00a1ron, de egy nap egy k\u00c3\u00a9p :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526077160606,
+      "content": "En vadli fetisiszta vagyok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526077146499,
+      "content": "\u00c3\u00a9l\u00c5\u0091ben nem m\u00c3\u00a1szk\u00c3\u00a1lok als\u00c3\u00b3gaty\u00c3\u00a1ban :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526077134856,
+      "content": "Majd en megnezem eloben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076942537,
+      "content": "tild\u00c3\u00a1nak mindig is neh\u00c3\u00a9z volt megfelelni :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076933597,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076926538,
+      "content": "Tilda uzeni szedd ossze magad csak igy all jol a labad osszeteve nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076846604,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/32293547_10211874177357286_9119205808477831168_n_10211874177157281.jpg",
+          "creation_timestamp": 1526076845
+        }
+      ],
+      "type": "Generic",
+      "ip": "5.146.199.91"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076845137,
+      "content": "tartom a 95 kil\u00c3\u00b3m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076809785,
+      "content": "\u00c3\u00a9s nem vagyok lefogyva, n\u00c3\u00a9zd meg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076774852,
+      "content": "akkor lehet hogy n\u00c3\u00a1la",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076772633,
+      "content": "ha extr\u00c3\u00a9m j\u00c3\u00b3 lesz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076766861,
+      "content": "de kedden ottalszok egy l\u00c3\u00a1nyn\u00c3\u00a1l pesten",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076759772,
+      "content": "h\u00c3\u00a1t els\u00c5\u0091 k\u00c3\u00b6rben n\u00c3\u00a1latok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076751252,
+      "content": "De nalunk vagy valami ccsajnal :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076740060,
+      "content": "Mert 5:40kor indul a vonat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076727359,
+      "content": "valakin\u00c3\u00a9l ott alszok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076723373,
+      "content": "h\u00c3\u00a1t \u00c3\u00a9n cs\u00c3\u00bct este megyek fel pestre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076714629,
+      "content": "az\u00c3\u00a9rt vagyok lefogyva mert bicikliztem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076712079,
+      "content": "Te hogy jossz egyebkent? Jovoheten penteken",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076689771,
+      "content": "Azigaz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076682256,
+      "content": "hizni mindig k\u00c3\u00b6nnyebb mint fogyni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076679490,
+      "content": "Egyetemi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076676690,
+      "content": "az j\u00c3\u00b3, nem ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076670920,
+      "content": "Le vagy fogyva Csabi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076670422,
+      "content": "ez most borfeszt vagy egyetemi napok ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076652751,
+      "content": "Engemmm??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076634527,
+      "content": "mint ahogy az \u00c3\u00a9n gyomrom t\u00c3\u00a9ged :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076624460,
+      "content": "Tud csak nem veszi a telefonom be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076618499,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/32227136_10211874167077029_487298425239371776_n_10211874166797022.jpg",
+          "creation_timestamp": 1526076617
+        }
+      ],
+      "type": "Generic",
+      "ip": "5.146.199.91"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076577698,
+      "content": "bazmeg nem hiszem el hogy nem tudsz g\u00c3\u00a9pelni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076568249,
+      "content": "milyen pred\u00c3\u00a1tort ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076549637,
+      "content": "Nezd a petty Predatort",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076541699,
+      "content": "micsoda h\u00c3\u00advogat\u00c3\u00b3 szavak :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076530034,
+      "content": "A hal\u00c3\u00a0l var rad idehaza",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076475285,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/32294100_10204660480628589_2024274196057554944_n_10204660480308581.jpg",
+          "creation_timestamp": 1526076474
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076462230,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076461451,
+      "content": "ha j\u00c3\u00b3l \u00c3\u00a9rz\u00c3\u00a9kelem, akkor m\u00c3\u00a9g egy \u00c3\u00b3ra, mire kuk\u00c3\u00a1kat fog borogatni, meg t\u00c3\u00a1bl\u00c3\u00a1kat megt\u00c3\u00a1madni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076436047,
+      "content": "Te k\u00c3\u00b6cs\u00c3\u00b4g",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076428505,
+      "content": "little oda is kell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076417636,
+      "content": "Odamegyek is little hogy nem vagy itt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076399614,
+      "content": "ez grammatikailag sem \u00c3\u00a9rtelmes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076378446,
+      "content": "I just friziu a faszomat te hom\u00c3\u00a1r",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076355685,
+      "content": "l\u00c3\u00a9cci itass\u00c3\u00a1tok le b\u00c3\u00a1ndit \u00c3\u00a9s baszass\u00c3\u00a1tok meg egy homelesszel, csak \u00c3\u00bagy tr\u00c3\u00a9f\u00c3\u00a1b\u00c3\u00b3l :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076331053,
+      "content": "A t\u00c3\u00b6bbieket is puszi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076318918,
+      "content": "\u00c3\u009aj frizu?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526076308042,
+      "content": "Andi de j\u00c3\u00b3l n\u00c3\u00a9zel ki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1526076278572,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/32239742_10204660475508461_806908661384347648_n_10204660475268455.jpg",
+          "creation_timestamp": 1526076277
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1498303551194,
+      "content": "jojjon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1498303502875,
+      "content": "Ahhh nem megy at a kep Gergorol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1498303455772,
+      "content": "Ja semmi Facebook",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1498303286828,
+      "content": "mik ezek a man\u00c3\u00b3k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1498303256639,
+      "content": "Ez a voros",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1498303249416,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/19451663_10203477969746556_1981130980_o_10203477969746556.png",
+          "creation_timestamp": 1498303247
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1498303230046,
+      "content": "vstagabb szemuveg kene\u00f0\u009f\u0098\u0081\u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1498303203194,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1498303199720,
+      "content": "Ez szoke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1498303192090,
+      "content": "Faszt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1498303183460,
+      "content": "\u00f0\u009f\u0098\u0082de ez voros",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1498303173534,
+      "content": "ez ki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1498303171704,
+      "content": "Errol te jutottal eszembe :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1498303155615,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/19457920_10203477966906485_944188102_o_10203477966906485.png",
+          "creation_timestamp": 1498303152
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1497736646573,
+      "content": "aki lemarad kimarad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1497736644816,
+      "content": "now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1497736644113,
+      "content": "parkolo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449340045460,
+      "content": "nekem semmi bajom nem volt , csak kicsit fosul voltam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449340037065,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449330788504,
+      "content": "De szerintem a taxi hibaja, onnantol volt nem okes hogy beultunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449330706966,
+      "content": "En csak egyszer, Lacika reggel is, Tilda meg az ebedet is kirakta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449330678084,
+      "content": "Tyu hallod azert voltak itt gondok :D mindenki rokazott de asszem Tilda nyert",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449312272606,
+      "content": "Ma nem hiszem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449312228578,
+      "content": "mentek bowlingozni meg pingpongozni ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449312053782,
+      "content": "Jah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449312040939,
+      "content": "legal\u00c3\u00a1bb lenyomt\u00c3\u00a1tok a heti pi\u00c3\u00a1l\u00c3\u00a1sotok :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449312014642,
+      "content": "Csak mereven probaltam az ablakon nezni kifele",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449311994259,
+      "content": "De nem volt jo otlet elindulni mert onnantol hogy a taxiban ultunk mar en is tok keszen voltam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449311961837,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449311955011,
+      "content": ":D lehet hogy amig van \u00c3\u00a1ram meg internet meg j\u00c3\u00a1t\u00c3\u00a9k, addig nem is k\u00c3\u00a9rdezn\u00c3\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449311938404,
+      "content": "De gondolom igen mert Levi nem kerdezte hol a Tilda",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449311907543,
+      "content": "Na hat igazabol csak remelem mert a hulye taxis engem vitt haza elobb pedig aszontam neki hogy eloszor a Tildat tesszuk ki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449311762380,
+      "content": "Tilda hazajutott vhogy?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449311726221,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449311722866,
+      "content": "Igy sikerult",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449311691021,
+      "content": "\u00f3\u00be\u008c\u00b0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449311627190,
+      "content": "H\u00c3\u00a1t nem sok \u00c3\u00a9les van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449311552046,
+      "content": "Ihol ni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449311551474,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/12334456_10201172992163557_2041515830_o_10201172992163557.jpg",
+          "creation_timestamp": 1449311541
+        },
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/12356001_10201172992323561_2101382550_o_10201172992323561.jpg",
+          "creation_timestamp": 1449311548
+        },
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/12356104_10201172992123556_1731992863_o_10201172992123556.jpg",
+          "creation_timestamp": 1449311539
+        },
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/12334290_10201172992363562_799795280_o_10201172992363562.jpg",
+          "creation_timestamp": 1449311550
+        },
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/12318445_10201172992243559_1909275942_o_10201172992243559.jpg",
+          "creation_timestamp": 1449311543
+        },
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/12355977_10201172991923551_72658845_o_10201172991923551.jpg",
+          "creation_timestamp": 1449311534
+        },
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/12343054_10201172991803548_549541028_o_10201172991803548.jpg",
+          "creation_timestamp": 1449311532
+        },
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/12333970_10201172992043554_821221274_o_10201172992043554.jpg",
+          "creation_timestamp": 1449311536
+        },
+        {
+          "uri": "messages/inbox/AndreaKeri_U2wbxAR0Pw/photos/12355749_10201172992283560_397991191_o_10201172992283560.jpg",
+          "creation_timestamp": 1449311545
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrea K\u00c3\u00a9ri",
+      "timestamp_ms": 1449311493934,
+      "content": "Most m\u00c3\u00a1r felh\u00c3\u00advhatj\u00c3\u00a1tok egym\u00c3\u00a1st, \u00c3\u00a9s l\u00c3\u00a1thatj\u00c3\u00a1tok egym\u00c3\u00a1s \u00e2\u0080\u009eEl\u00c3\u00a9rhet\u00c5\u0091\u00e2\u0080\u009d \u00c3\u00a1llapot\u00c3\u00a1t, valamint azt is, ha elolvast\u00c3\u00a1tok az \u00c3\u00bczeneteket.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449310902673,
+      "content": "K\u00c3\u00a9peketcsak nekem nem k\u00c3\u00bcld\u00c3\u00b6del ? :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449310884040,
+      "content": "H\u00c3\u00a9\u00c3\u00a9j j\u00c3\u00b3asszony",
+      "type": "Generic"
+    }
+  ],
+  "title": "Andrea K\u00c3\u00a9ri",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AndreaKeri_U2wbxAR0Pw"
+}

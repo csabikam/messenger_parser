@@ -1,0 +1,543 @@
+{
+  "participants": [
+    {
+      "name": "Balazsfi Anna"
+    },
+    {
+      "name": "Vida Csaba"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1546730652006,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1545246916255,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1522448833064,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "ip": "2003:cc:83c8:1e00:a1ef:2a7f:fddf:ec"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561778589,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "ip": "5.62.41.11"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561703702,
+      "content": "Igenis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561689229,
+      "content": "Csak vele. Velem ne",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561685962,
+      "content": "Nyugi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561673754,
+      "content": "Vele is besz\u00c3\u00a9lek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561653596,
+      "content": "Hanem vele",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561649512,
+      "content": "Akkor ne velem beszelgess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561635332,
+      "content": "G\u00c3\u00a1borral",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561628315,
+      "content": "Persze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561608784,
+      "content": "Odajutni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561602624,
+      "content": "Watch?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561591838,
+      "content": "Akarsz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561579987,
+      "content": "Ezek ut\u00c3\u00a1n neh\u00c3\u00a9z lenne oda jutni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561546038,
+      "content": "Majd ha cicicsavar lesz akkor nem h\u00c3\u00advsz majd igy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561524216,
+      "content": "Apuci",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561516323,
+      "content": "Auci",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561493454,
+      "content": "K\u00c3\u00b6sz\u00c3\u00b6n\u00c3\u00b6m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561490157,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561484146,
+      "content": "Sz\u00c3\u00advesen eml\u00c3\u00a9keztetlek a d\u00c3\u00b6nt\u00c3\u00a9sedre barmikor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561445654,
+      "content": "De k\u00c3\u00b6szi a felhom\u00c3\u00a1lyos\u00c3\u00adt\u00c3\u00a1st",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561426533,
+      "content": "Nem gondoltam, H park",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561407700,
+      "content": "Aznigen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561381905,
+      "content": "Ez nem egy park ahova visszaj\u00c3\u00a1rsz amikor kedved van. Te d\u00c3\u00b6nt\u00c3\u00b6tt\u00c3\u00a9l \u00c3\u00adgy. \u00c3\u0089lvezd a k\u00c3\u00b6vetkezm\u00c3\u00a9nyeit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561322886,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561298074,
+      "content": "Szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561295926,
+      "content": "Mir\u00c5\u0091l besz\u00c3\u00a9l\u00c3\u00bcnk Most?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561292655,
+      "content": "Szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561290415,
+      "content": "Igaz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561286699,
+      "content": "Igez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561286623,
+      "content": "Elfogadtam h van pasid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561278960,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561272174,
+      "content": "Max ha hozol egy csajt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561272099,
+      "content": "Beszelni sem kellene",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561262525,
+      "content": "De t\u00c3\u00b6bb\u00c3\u00a9 nem megyek forraltborozni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561236292,
+      "content": "De velem nem lehez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561228920,
+      "content": "Megengedem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561215865,
+      "content": "Megengedett magamnak,  hogy besz\u00c3\u00a9lhessek m\u00c3\u00a1ssal is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561153494,
+      "content": "De m\u00c3\u00a1r ledobt\u00c3\u00a1k ezen l\u00c3\u00a1ncaimat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561125019,
+      "content": "Nem?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561123203,
+      "content": "J\u00c3\u00b6n m\u00c3\u00a1rciusban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561122684,
+      "content": "Most sem k\u00c3\u00a9ne",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561115499,
+      "content": "Ne felejtsd el h miattad \u00c3\u00a9s miatta nem besz\u00c3\u00a9l\u00c3\u00bcnk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561111653,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561109786,
+      "content": "M\u00c3\u00a9rt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561105301,
+      "content": "MindenOk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561094870,
+      "content": "Mizu gabival",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561090793,
+      "content": "Sajnos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518561086773,
+      "content": "Hat\u00c3\u00a1rozottan nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518561008116,
+      "content": "Akkor mostm\u00c3\u00a1r j\u00c3\u00b3?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560958001,
+      "content": "\u00c3\u0089s mizu kint?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560878003,
+      "content": "I",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560875807,
+      "content": "Ogyekszem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560869196,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560863477,
+      "content": "Kb.mint egy 5 \u00c3\u00a9ves",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518560852600,
+      "content": "Engedd el",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518560849434,
+      "content": "Felejtsd el",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560838968,
+      "content": "T\u00c3\u00b6k g\u00c3\u00a1z voltam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560816434,
+      "content": "Ker\u00c3\u00bclt le",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560810202,
+      "content": "Nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560803122,
+      "content": "Nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518560793299,
+      "content": "Leker\u00c3\u00bclt a teher",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560787590,
+      "content": "H\u00c3\u00bclye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518560782517,
+      "content": "Most m\u00c3\u00a1r b\u00c3\u00a9k\u00c3\u00a9ben \u00c3\u00a9lhetsz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518560764458,
+      "content": "Feloldalak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518560761553,
+      "content": "Akkor megbocs\u00c3\u00a1jtok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560755068,
+      "content": "Az\u00c3\u00b3ta ezen em\u00c3\u00a9sztene magam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560740560,
+      "content": "M\u00c3\u00a9rt?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560736452,
+      "content": "Igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560729996,
+      "content": "Mi k\u00c3\u00a9ne m\u00c3\u00a9g?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518560728101,
+      "content": "Ez\u00c3\u00a9rt \u00c3\u00adrt\u00c3\u00a1l?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560720563,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560718002,
+      "content": "M\u00c3\u00a9rt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518560711840,
+      "content": "Ennyi?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560705076,
+      "content": "Sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560667168,
+      "content": "Csak szeretn\u00c3\u00a9k bocs\u00c3\u00a1natot k\u00c3\u00a9rni ha nagy tusk\u00c3\u00b3nak t\u00c5\u00b1ntek volna karikor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518560599902,
+      "content": "Szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518560594832,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "ip": "5.62.41.26"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560594794,
+      "content": "Ciao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1518560586864,
+      "content": "Most m\u00c3\u00a1r felh\u00c3\u00advhatj\u00c3\u00a1tok egym\u00c3\u00a1st, \u00c3\u00a9s l\u00c3\u00a1thatj\u00c3\u00a1tok egym\u00c3\u00a1s \u00e2\u0080\u009eEl\u00c3\u00a9rhet\u00c5\u0091\u00e2\u0080\u009d \u00c3\u00a1llapot\u00c3\u00a1t, valamint azt is, ha elolvast\u00c3\u00a1tok az \u00c3\u00bczeneteket.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560583271,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazsfi Anna",
+      "timestamp_ms": 1518560336351,
+      "content": "Balazsfi felvett a Messengerben.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Balazsfi Anna",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BalazsfiAnna_B06mE5cVHw"
+}

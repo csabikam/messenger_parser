@@ -1,0 +1,37 @@
+
+    <html>
+    <head> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js" integrity="sha512-d9xgZrVZpmmQlfonhQUvTR7lMPtO7NkZMkA0ABN3PHCbKA5nqylQ/yWlFAyY6hYgdF1Qh6nYiuADWwKB4C2WSw==" crossorigin="anonymous"></script>
+    <title>Template {{ title }}</title>
+    </head>
+    <body>
+    
+    <h1> valami </h1><canvas id="line-chart" width="800" height="450"></canvas>
+        <script>
+        new Chart(document.getElementById("line-chart"), {
+  type: 'line',
+  data: {
+    labels: 
+        ['20-04', '20-05', '20-06', '20-07']
+            ,
+        datasets: [{ 
+            data: 
+            [89, 2621, 3173, 2899]
+            ,
+            label: "Africa",
+            borderColor: "#3e95cd",
+            fill: false
+          }
+        ]
+      },
+      options: {
+        title: {
+          display: true,
+          text: 'World population per region (in millions)'
+        }
+      }
+    });
+            </script>
+            </body>
+            </html>
+            

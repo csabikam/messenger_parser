@@ -1,0 +1,1153 @@
+{
+  "participants": [
+    {
+      "name": "Attila Schild"
+    },
+    {
+      "name": "Vida Csaba"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592248386336,
+      "content": "Sz\u00c3\u00a9p nagyon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592239804792,
+      "content": "Sophie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592209752969,
+      "content": "hogy hivj\u00c3\u00a1k ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592209746980,
+      "content": "nagyon sz\u00c3\u00a9p kisl\u00c3\u00a1nyotok van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592209731561,
+      "photos": [
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/photos/103761389_684093825718893_4541778043414651109_n_684093792385563.jpg",
+          "creation_timestamp": 1592209731
+        },
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/photos/83648862_557689018451618_2973706003349526108_n_557688998451620.jpg",
+          "creation_timestamp": 1592209731
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592206304386,
+      "content": "\u00c3\u00a9s te hogy vagy, hogy vagytok ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592206227482,
+      "content": "Jajaja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592206200698,
+      "content": ":D sehol m\u00c3\u00a1shol nem lakn\u00c3\u00a9k",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Attila Schild"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592206190148,
+      "content": "Ujszeged az orok szerelem :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592206111464,
+      "content": "vedres utc\u00c3\u00a1ban van lak\u00c3\u00a1som",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592206057620,
+      "content": "Merre laksz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592201906882,
+      "content": "Sima volt minden",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592201869725,
+      "content": "Igaz\u00c3\u00a1b\u00c3\u00b3l nem volt gond semmivel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592201858719,
+      "content": "Emberekkel is minden ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592201849914,
+      "content": "Alig kellett valamit int\u00c3\u00a9zni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592201841158,
+      "content": "B\u00c3\u00bcrokr\u00c3\u00a1cia nem volt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592167931391,
+      "content": "Embereket burokraciat hogy birod?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592167917622,
+      "content": "Milyen visszailleszkedni?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592154692606,
+      "content": "F\u00c5\u0091leg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592154690664,
+      "content": "Java",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592154163157,
+      "content": "Miben progizol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592154156888,
+      "content": "Akkor nem kellett otthon munkat keresned",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592154147043,
+      "content": "Ah fasza!!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152915769,
+      "content": "t\u00c3\u00a1vb\u00c3\u00b3l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152914109,
+      "content": "n\u00c3\u00a9metorsz\u00c3\u00a1gnak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152909036,
+      "content": "am\u00c3\u00bagy programozok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152905196,
+      "content": "\u00c3\u00a9n vagyok a kir\u00c3\u00a1ly egy csom\u00c3\u00b3 k\u00c3\u00bclf\u00c3\u00b6ldi tapasztalattal meg nyelvekkel :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152892204,
+      "content": "de igy 8 \u00c3\u00a9v k\u00c3\u00bclf\u00c3\u00b6ld ut\u00c3\u00a1n olyan mint egy nyaral\u00c3\u00a1s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152880713,
+      "content": "h\u00c3\u00a1t tudod hogy kb sehol sem maradok \u00c3\u00b6r\u00c3\u00b6kre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592152449979,
+      "content": "Milyen kulfold utan visszailleszkedni?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592152438893,
+      "content": "Mit csinalsz ott?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592152434673,
+      "content": "Uh de reg beszeltunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152358506,
+      "content": "egy \u00c3\u00a9ve most itt lakok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152355738,
+      "content": "aham",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592152351802,
+      "content": "Szegeden vagy?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592152348250,
+      "content": "Wowowow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152290204,
+      "photos": [
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/photos/104192765_198310784716016_1173109482492324922_n_2645610825707128.jpg",
+          "creation_timestamp": 1592152289
+        },
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/photos/82539791_260789805209818_3184507625488966800_n_260789685209830.jpg",
+          "creation_timestamp": 1592152286
+        },
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/photos/104196251_288937202150353_4582699284395693583_n_288937148817025.jpg",
+          "creation_timestamp": 1592152286
+        },
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/photos/104116224_2324754884492506_1765197695467263613_n_2324754831159178.jpg",
+          "creation_timestamp": 1592152287
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Attila Schild"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152259945,
+      "content": "tess\u00c3\u00a9k itt egy p\u00c3\u00a1r friss k\u00c3\u00a9p honv\u00c3\u00a1gyad enyh\u00c3\u00adtend\u00c5\u0091",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152251988,
+      "content": "minny\u00c3\u00a1rt mennyd\u00c3\u00b6rg\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152247606,
+      "content": "ma csod\u00c3\u00a1s ny\u00c3\u00a1ri nap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152244793,
+      "content": "k\u00c3\u00b6szi minden oks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152238927,
+      "content": "nem annyira",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1592152237365,
+      "content": "szeva",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592152064998,
+      "content": "Karanten ervenyben van meg nalatok?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592152054061,
+      "content": "Mi a helyzet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592152045813,
+      "content": "Epp egyik nap jutottal eszembe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1592152027924,
+      "content": "Heeeeelo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1534855464450,
+      "content": "\u00f0\u009f\u0098\u008e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1530030024761,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic",
+      "ip": "82.113.106.48"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1530030021313,
+      "content": "Mindjart megint elmegy a net",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1530030013086,
+      "content": "Igen eszik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1530030007333,
+      "content": "Csak a pittypangja erdekelye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1530030000955,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1530029997645,
+      "content": "Volt hogy energia szelettel dobaltam es le se szart",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1530029997067,
+      "content": "Megeszik ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1530029984525,
+      "content": "Majusban meg vannak veszve a pitypangokert",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1530029980251,
+      "content": "Beszarn\u00c3\u00a9k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1530029971125,
+      "content": "Hat erd9ben sokal talalkoztam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1530029963302,
+      "content": "Melos tabor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1530028609506,
+      "content": "Ha az erd\u00c5\u0091be talizol vele akkor r\u00c3\u00a1baszol?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1530028595826,
+      "content": "Ez milyen t\u00c3\u00a1bor?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1530028590051,
+      "content": "Nagyon men\u00c5\u0091",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1530028499333,
+      "content": "A tobbi eleg normalis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1530028494614,
+      "content": "Azokat nem szabad baszogatni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1530028488855,
+      "content": "...anyamedve 2 bocsaval",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1530028484154,
+      "content": "Nagyon morcos volt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1530028477476,
+      "content": "Egyszer csinaltam olyat hogy mavival selfie de miutan megneztem a kepet eppen higy nem tamadott :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1530028438866,
+      "content": "Macis szelfi ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1530028431482,
+      "content": "Meg lehet simizni?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1530028422167,
+      "content": "Wow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1530028355219,
+      "content": "a tabor kapujaban",
+      "photos": [
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/photos/36289882_10155470611962793_8587376655507390464_n_10155470612657793.jpg",
+          "creation_timestamp": 1530028354
+        },
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/photos/36225067_10155470612072793_4518786721923465216_n_10155470612647793.jpg",
+          "creation_timestamp": 1530028354
+        },
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/photos/36242413_10155470612097793_3168601432450400256_n_10155470612652793.jpg",
+          "creation_timestamp": 1530028354
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527942391062,
+      "content": "N\u00c3\u00a9metet sem lehetetlen megtanulni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527942381921,
+      "content": "J\u00c3\u00b3l \u00c3\u00a9rzem magam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527942377314,
+      "content": "Sztem A n\u00c3\u00a9metorsz\u00c3\u00a1g j\u00c3\u00b3 d\u00c3\u00b6nt\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527942367418,
+      "content": "K\u00c3\u00bcldj k\u00c3\u00a9pet r\u00c3\u00b3latok is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527942358735,
+      "content": "\u00c3\u0096r\u00c3\u00bcl\u00c3\u00b6k nektek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527942354476,
+      "content": "Nagyon j\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881521834,
+      "content": "Sophie lesz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881517566,
+      "content": "De kislany",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881511558,
+      "content": "Durva... en is amikor meglattam azt hittem higy fiu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881478332,
+      "content": "Az asszony mindjart megol hogy potyogok es nem ra figyelek :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881462634,
+      "content": "Ma butort nezunk a gyereknek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881452491,
+      "content": "Aztan majd a doki megmondja mi a palya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881442682,
+      "content": "Kellett",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881435485,
+      "content": "Horkolok...kaptam egy gepet amivel aludnom kell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527881427347,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/audio/audioclip152788142600013696_10212005408157974.mp4",
+          "creation_timestamp": 1527881426
+        }
+      ],
+      "type": "Generic",
+      "ip": "89.204.153.199"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881423472,
+      "photos": [
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/photos/34117263_10155416559992793_1239325603673407488_n_10155416559787793.jpg",
+          "creation_timestamp": 1527881423
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881413250,
+      "content": "Ez meg az enyem...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881408024,
+      "content": "Ez az asszony resze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881397726,
+      "content": "Kicsi schild",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881386434,
+      "photos": [
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/photos/34207287_10155416557567793_6094582129444782080_n_10155416557352793.jpg",
+          "creation_timestamp": 1527881386
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881375051,
+      "content": "Szoval amiota visszajottunk orbosolhoz rohangalunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881362125,
+      "content": "Imadom a munkam de neha utalok a vilag vegen lenni...bar akkor legalabb nem kell paktalnom emberekel...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881306612,
+      "content": "Amiota beszeltunk golyamatosan az jar a fejemben milyen lenne nemetben lakni...asszony is piszkal vele",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881266084,
+      "content": "Sajnalom hogy nem talalkoztunk kivancsi lettem.volna az eletedre hogy kerultel ki nemetbe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881207931,
+      "content": "Amugy nagyon jol ereztem magam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527881198005,
+      "content": "Hat mamamnak nagyon nagy szerencseje volt hogy otthon voltam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527874511372,
+      "content": "de rem\u00c3\u00a9lem az\u00c3\u00a9rt j\u00c3\u00b3l \u00c3\u00a9rezted magd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527874506138,
+      "content": "a ritka \u00c3\u00a9s dr\u00c3\u00a1ga id\u00c5\u0091d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527874492437,
+      "content": "hogy erre kellett elbasznod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527874486463,
+      "content": "\u00c3\u00a9s sajn\u00c3\u00a1lom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527874483373,
+      "content": "j\u00c3\u00b3lvan, megobcs\u00c3\u00a1jtok :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527874426436,
+      "content": "Tesomekat 1.5 orara lattam iden",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527874415210,
+      "content": "Masnap pest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527874410478,
+      "content": "Mamamal vegigjartam az egeszsegugy utvesztoit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527874386873,
+      "content": "Baszod orultem hogy elek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527874371831,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527874285374,
+      "content": "h\u00c3\u00a1t haver, k\u00c3\u00b6szi, hogy megn\u00c3\u00a9zted, \u00c3\u00a9s meghallgattada videom, meg az \u00c3\u00bczeneteim, azt\u00c3\u00a1n meg baszt\u00c3\u00a1l felhivni, vagy v\u00c3\u00a1laszolni, majd m\u00c3\u00a1skor :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527181468478,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/audio/audioclip152718146700019328_10211954081714845.mp4",
+          "creation_timestamp": 1527181467
+        }
+      ],
+      "type": "Generic",
+      "ip": "89.204.154.215"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527181066960,
+      "photos": [
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/photos/33338155_10211954049514040_6086689499973156864_n_10211954049394037.jpg",
+          "creation_timestamp": 1527181065
+        }
+      ],
+      "type": "Generic",
+      "ip": "89.204.154.215"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527178957010,
+      "videos": [
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/videos/video1527178955_10211953804147906.mp4",
+          "creation_timestamp": 1527178945,
+          "thumbnail": {
+            "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/videos/video1527178955_10211953804147906.mp4"
+          }
+        }
+      ],
+      "type": "Generic",
+      "ip": "89.204.154.215"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527178842093,
+      "content": "Megyek at ujszegsde de a szechenyu ter utba esik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527178826949,
+      "content": "Merre vagy most?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527178818273,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527178793254,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/AttilaSchild_PDUW3g_m_Q/audio/audioclip15271787920006656_10211953795387687.mp4",
+          "creation_timestamp": 1527178792
+        }
+      ],
+      "type": "Generic",
+      "ip": "89.204.154.215"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527178782386,
+      "content": "Csak most esik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527178778395,
+      "content": "Isteni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527178777216,
+      "content": "Elvezed?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527178776157,
+      "content": "Ja \u00c3\u00a9rtem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527178774603,
+      "content": "Jo szegeden?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527178759218,
+      "content": "En elmentem es mire visszaertem par orara ra nagyon beteg lett",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527178754879,
+      "content": "\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527178752428,
+      "content": "Sose lehet tudni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527178743460,
+      "content": "83 eves ... nem hiszem hogy elvezte volna :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527178727900,
+      "content": "Oke. Dehogy vittem mamamat evezni :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527177962919,
+      "content": "tegnap voltam kint, ma ha ki is megyek, akkor nem iszok, vagy l\u00c3\u00a1jtosba, de az\u00c3\u00a9rt irj r\u00c3\u00a1m, h\u00c3\u00a1tha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527177773699,
+      "content": "viszonylag gyakran n\u00c3\u00a9zem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527177767211,
+      "content": "internet van meg n\u00c3\u00a9met sz\u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527177762024,
+      "content": "nincs magyar sz\u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527177752020,
+      "content": "elvitted evezni a mam\u00c3\u00a1dat a tisz\u00c3\u00a1ra ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527177679759,
+      "content": "Van magyar szamod?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527177673593,
+      "content": "Ha ott vegzek es meg kint vagy a borfeszten egy poharkaval ihatunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527177660542,
+      "content": "Megyek ejszakai uszasra az anna fursobe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527177652934,
+      "content": "Ma mar jol van de az elmukt 36 oraban nem aludtam szinte semmit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527177640897,
+      "content": "2 orara ra megjottem rogton a mentot hivtam olyan beteg volt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527177626260,
+      "content": "Lementem evezni a tiszra szinte semmi baja nem vokt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527177614145,
+      "content": "Huh tegnap kegyetlen napom volt...nem tudtam irni...egesz ejjel az ugyeletem voltam mamamal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1527177591882,
+      "content": "Heeeelo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527096909995,
+      "content": "Dove stai?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1527096899871,
+      "content": "Szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526647600839,
+      "content": "\u00f0\u009f\u0098\u008e\u00f0\u009f\u0091\u008d\u00f0\u009f\u0095\u00ba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526647597835,
+      "content": "Tuttira",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1526647571723,
+      "content": "Fasza akkor meg latlak!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526647330623,
+      "content": "23",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1526647106299,
+      "content": "Erezd jol magad pragaban!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1526647099758,
+      "content": "Mikor jossz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1526647096851,
+      "content": "24.en delben mar pesten vagyok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526647074179,
+      "content": "Koszo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526647071829,
+      "content": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526647069029,
+      "content": "A szamod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1526647066952,
+      "content": "\u00c3\u008drd meg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1526647064509,
+      "content": "06702696453",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1526647057634,
+      "content": "Majd hivj ha szegeden vagy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1526647052188,
+      "content": "Hali",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1523450339085,
+      "content": "H\u00c3\u00advott f\u00c3\u00a9l: Attila.",
+      "call_duration": 308,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1523450006855,
+      "content": "De van egy kis hazuk 2 guonyoru gyerek auto",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1523450000440,
+      "content": "Sztem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1523449996336,
+      "content": "Nem \u00c3\u00adgy van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1523449996050,
+      "content": "Noverem otthon ovono a ferje autoszerelo...szoval nem penzes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1523449986790,
+      "content": "Ez neked az \u00c3\u00b6n\u00c3\u00a1ll\u00c3\u00b3 \u00c3\u00a9let h nyugd\u00c3\u00adjra \u00c3\u00b6sszej\u00c3\u00b6n tal\u00c3\u00a1n egy lak\u00c3\u00a1s hitellel f\u00c3\u00a9rjjel meg sz\u00c3\u00bcl\u00c5\u0091i seg\u00c3\u00adts\u00c3\u00a9ggel?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1523449980381,
+      "content": "De az se allja meg a hekyet hogy valaki arra panaszkodik higy 22 evesen nincs semmije es 25 ev a torleszto...ez a vilagon mindenhol igy van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1523449952650,
+      "content": "60 ev\u00c3\u00a9sen?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1523449951774,
+      "content": "Nem kell hogy penzes legye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1523449943538,
+      "content": "25 ev lakashitel es elobb utobb lesz egy elete",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1523449940711,
+      "content": "P\u00c3\u00a9nzes t\u00c3\u00a1mogat\u00c3\u00b3 ferj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1523449933040,
+      "content": "Igen ez az egy opci\u00c3\u00b3 van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1523449926659,
+      "content": "Szulok segitenek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1523449920825,
+      "content": "Jah tuti nem sok a havi 120 de elobb utobb talal egy ferjet osszekoktoznek osszerakjak ami van folvesznek lakashitelt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1523449901767,
+      "content": "Magyarorszagon ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1523449890146,
+      "content": "Szia Attila",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1523449890134,
+      "content": "Szoval noverem ovono",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1523449882969,
+      "content": "Nem akartam mar mindenki elott beszelni rola",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Attila Schild",
+      "timestamp_ms": 1523449869161,
+      "content": "Hali",
+      "type": "Generic"
+    }
+  ],
+  "title": "Attila Schild",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AttilaSchild_PDUW3g_m_Q"
+}

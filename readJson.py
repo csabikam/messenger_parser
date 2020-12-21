@@ -5,17 +5,62 @@ from os.path import isfile, join
 import json
 import ftfy
 from datetime import datetime
-import numpy as np
-import nltk
 import unidecode
 import io
 
-#todo creation time in sum file
-#todo process all json files
-
-mypath2 = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail\\buzaspatrik_b9xc2ct-zq\\'
-
+# CONSTANTS AND PATHS _____START
+GEN_HTML = "generated_html"
+SORTED_BY_YEAR = "sorted_by_year"
+SORTED_BY_MONTH = "sorted_by_month"
 STRING_VIDA_CSABA = 'Vida Csaba'
+BIG_FILES = "big_HTML_files"
+pathToJsons = 'd:\\_code\\python\\messenger_parser\\json\\'
+#mypath2 = 'c:\\Users\\abasc\\Documents\\_csaba\\_MYFINALBK_MATERIAL_20201124\\emailezesek\\fb_uzik_jso\\fbextracted\messages\inbox\\'
+#mypath = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail'
+#mypath2 = 'D:\\_code\\python\\messenger_parser\\'
+# CONSTANTS AND PATHS _____END
+
+def prepareFolders():
+    current_dir = os.getcwd()
+    genHtmlDir = current_dir + '\\' + GEN_HTML
+    if not os.path.exists(genHtmlDir):
+        os.makedirs(genHtmlDir)
+        print(genHtmlDir + " created.")
+    else:
+        print(genHtmlDir + " already exists.")
+    bigFiles = genHtmlDir + '\\' + BIG_FILES
+    if not os.path.exists(bigFiles):
+        os.makedirs(bigFiles)
+        print(bigFiles + " created.")
+    else:
+        print(bigFiles + " already exists.")
+
+    startYear = 2007
+    endYear = 2020
+    for year in range(startYear, endYear):
+        actYear = str(year)
+        actYearPath = genHtmlDir + '\\' + actYear
+        if not os.path.exists(actYearPath):
+            os.makedirs(actYearPath)
+            print(actYearPath + " created.")
+        else:
+            print(actYearPath + " already exists.")
+        for month in range(1,13):
+            actMonth = str(month)
+            actMonthPath = actYearPath + '\\' + actMonth
+            if not os.path.exists(actMonthPath):
+                os.makedirs(actMonthPath)
+                print(actMonthPath + " created.")
+            else:
+                print(actMonthPath + " already exists.")
+            for month in range(1, 32):
+                actDay = str(month)
+                actDayPath = actMonthPath + '\\' + actDay
+                if not os.path.exists(actDayPath):
+                    os.makedirs(actDayPath)
+                    print(actDayPath + ' created.')
+                else:
+                    print(actDayPath + ' already exists.')
 
 def getDateWithTime(timestamp) -> str:
     dt_obj = datetime.fromtimestamp(timestamp / 1000).strftime('%y-%m-%d %H:%M:%S')
@@ -240,12 +285,12 @@ $(document).ready(function(){
     #person1Values = data1[person1]
     #person2Values = data1[person2]
     listToStr = ', '.join([str(elem) for elem in redWords])
-    commonWords = nltk.FreqDist(words)
+    #commonWords = nltk.FreqDist(words)
     #collocations = words.collocations()
     #print(collocations)
     #exit()
 
-    commonWList = commonWords.most_common(250)
+    #commonWList = commonWords.most_common(250)
     if lastMessage:
         lastM = str(data1["last"])
         #print(lastMessage)
@@ -260,7 +305,7 @@ $(document).ready(function(){
     <div class="col"><p> Elso uzi: """ + stringem + """</p>  </div>
     <div class="col"><p> Utolso uzi: """ + lastM + """ </p></div>
     <div class="col"><p> Eltelt idŐ: """ + "todo: timeDiff" + """ </p></div>
-    <div class="col"> Most common words : """ + str(commonWList) + """   </div>
+    <div class="col"> Most common words : """ + "str(commonWList)" + """   </div>
     <div class="col"> <button>Toggle "words"</button> </div>
     
     <div class="col" id="words"> Words :  """ +  str(len(set(words))) + " | " +  str(set(words)) + """ </div>
@@ -391,6 +436,25 @@ def extendChartData(dateStat):
     # ()
     return extendedDates
 
+def getHtmlFileNameFromData(data):
+    names = data['participants']
+    if len(names) == 1:
+        print("CSAK EGY")
+        return 0
+    person1 = names[0]["name"]
+    person1 = encodeText(person1)
+    person2 = names[1]["name"]
+    person2 = encodeText(person2)
+    messages = data['messages']
+    firstMess = messages[len(messages) - 1]['timestamp_ms']
+    lastMess = messages[0]['timestamp_ms']
+    mess_count = len(messages)
+    dateFrom = getDateWithTime(firstMess).split()[0]
+    dateTo = getDateWithTime(lastMess).split()[0]
+    htmlFilename = getHtmlFilename(person1, person2, mess_count, dateFrom, dateTo, "html")
+    sumFilename = getHtmlFilename(person1, person2, mess_count, dateFrom, dateTo, "txt")
+    return htmlFilename
+
 def getHtmlFilename(name1, name2, count, dateFrom, dateTo, format):
     name = ""
     now = getDateOfNow()
@@ -399,7 +463,8 @@ def getHtmlFilename(name1, name2, count, dateFrom, dateTo, format):
     else:
         name = name1
     name = unidecode.unidecode(encodeText(name))
-    htmlFilename = str(count) + "_" + name + "_" + dateFrom + "-" + dateTo + "." + format
+    name = name.replace(" ", "")
+    htmlFilename = str(count) + "__" + name + "__[" + dateFrom + "---" + dateTo + "]." + format
     return htmlFilename
 
 def processJson(jsonFile):
@@ -434,7 +499,7 @@ def processJson(jsonFile):
         csabauzik = 0
         counter = 0
         myMessages = []
-        arrayMessages = np.array([])
+        #arrayMessages = np.array([])
         words = []
         global lastMessageDay
         lastMessageDay = 0
@@ -539,7 +604,7 @@ def processJson(jsonFile):
         myOrigMessages.reverse()
 
 
-        print(arrayMessages)
+        #print(arrayMessages)
         #print(myOrigMessages)
         #print(myMessages)
 
@@ -573,12 +638,13 @@ def processJson(jsonFile):
         dataToSumFile["filenameToStore"] = encodeText(htmlFilename)
 
         print(htmlFilename)
-        processSumFile(nameOfSumFile, dateStat, dataToSumFile)
+        #processSumFile(nameOfSumFile, dateStat, dataToSumFile)
         content = generateContent(dateStatList, values, data)
 
 
+        htmlFilenamePath = getBigHtmlFilesPath() + '\\' +  htmlFilename
 
-        with open(htmlFilename, "w", encoding="utf-8") as f:
+        with open(htmlFilenamePath, "w", encoding="utf-8") as f:
             f.write(content)
 
         f.close()
@@ -586,46 +652,222 @@ def processJson(jsonFile):
         print(htmlFilename)
         return 1
 
+def getBigHtmlFilesPath():
+    current_dir = os.getcwd()
+    bigHtmlFilesPath = current_dir + '\\' + GEN_HTML + '\\' + BIG_FILES
+    return bigHtmlFilesPath
 
 
+def processJsonByDay(actualJsonPath):
+    dateStat = {}
+    person1Stat = {}
+    person2Stat = {}
+    fileName = actualJsonPath
+    print("fileName = " + fileName)
+    with open(fileName) as f:
+        data = json.load(f)
+        names = data['participants']
+        if len(names) == 1:
+            print("CSAK EGY")
+            return 0
+        person1 = names[0]["name"]
+        person1 = encodeText(person1)
+        person2 = names[1]["name"]
+        person2 = encodeText(person2)
+        messages = data['messages']
+        firstMess = messages[len(messages) - 1]['timestamp_ms']
+        lastMess = messages[0]['timestamp_ms']
+        mess_count = len(messages)
+        dateFrom = getDateWithTime(firstMess).split()[0]
+        dateTo = getDateWithTime(lastMess).split()[0]
+        htmlFilename = getHtmlFilename(person1, person2, mess_count, dateFrom, dateTo, "html")
+        if (os.path.exists(htmlFilename)):
+            return 0
+        print("DArab üzenet " + str(mess_count))
+        print(messages[0])
+        timeDiff = lastMess - firstMess
+        csabauzik = 0
+        counter = 0
+        myMessages = []
+        # arrayMessages = np.array([])
+        words = []
+        global lastMessageDay
+        lastMessageDay = 0
+        for message in messages:
+            name = encodeText(message['sender_name'])
+            fullmessage = ""
+            if "content" in message:
+                data = message['content']
+                # print(encodeText(data))
+
+                # https://stackoverflow.com/questions/26614323/in-what-world-would-u00c3-u00a9-become-%C3%A9
+            if ((name == person2) & ("content" in message)):
+                print(counter)
+                csabauzik = csabauzik + 1
+                date = getDateWithTime(message['timestamp_ms'])
+                lastDay = getDay(date)
+                lastDay = lastDay
+
+                if (lastMessageDay != lastDay):
+                    # print("elkélne egy")
+                    myMessages.append("""
+                        ------------------||------------------
+                        |""")
+                lastMessageDay = lastDay
+                # exit()
+                messageContent = ""
+
+                # print(encodeText(person2) + " [" + date + "] : ")
+                dateStat = processDateStat(dateStat, date)
+                person2Stat = processDateStat(person2Stat, date)
+                dateStat = extendChartData(dateStat)
+                person2Stat = extendChartData(person2Stat)
+                messageContent += message['content']
+                toProcess = encodeText(messageContent)
+                words = processWord(words, toProcess)
+                message = encodeText(" [20" + date + "]" + person2 + " :" + messageContent)
+                lastMessageDay = lastDay
+                myMessages.append(str(counter) + " " + message)
+
+            # exit()
+            if ((name == person1) & ("content" in message)):
+                # print(person1)
+                # print("BEAA")
+                # print(data)
+                # #exit()
+                # print(data)
+                # print(name)
+                print(counter)
+                date = getDateWithTime(message['timestamp_ms'])
+                print(encodeText(person1) + " [20" + date + "] : ")
+                dateStat = processDateStat(dateStat, date)
+                dateStat = extendChartData(dateStat)
+                person1Stat = processDateStat(person1Stat, date)
+                person1Stat = extendChartData(person1Stat)
+                messageContent = message['content']
+                # print(encodeText(messageContent))
+                day = getDay(date)
+                lastMessageDay = int(day)
+                toProcess = encodeText(messageContent)
+                #
+                words = processWord(words, toProcess)
+                message = encodeText(person1 + " [20" + date + "] : \n " + messageContent)
+                myMessages.append(str(counter) + " " + message)
+                # print("==========")
+                # print(message)
+                # print("__")
+            counter += 1
+
+        print("\n")
+        print(words)
+        print("All message : " + str(mess_count))
+        if mess_count < 100:
+            return 0
+        print(str(person2) + str(csabauzik))
+        print(person1 + str(mess_count - csabauzik))
+        print("First mess : " + getDateWithTime(firstMess))
+        print("Last mess : " + getDateWithTime(lastMess))
+        print(dateStat)
+        print(dateStat)
+        dateStat = extendChartData(dateStat)
+        person1Stat = extendChartData(person1Stat)
+        person2Stat = extendChartData(person2Stat)
+        print(dateStat)
+        dateStatList = list(dateStat.keys())[::-1]
+        dateStatKValues = list(dateStat.values())[::-1]
+        person1Stat = list(person1Stat.values())[::-1]
+        person2Stat = list(person2Stat.values())[::-1]
+        print(dateStat)
+        nameOfSumFile = (person1 + "_" + person2).replace(" ", "_")
+        print(nameOfSumFile)
+        values = {}
+        values["all"] = dateStatKValues
+
+        values[person1] = person1Stat
+        values[person2] = person2Stat
+
+        print(htmlFilename)
+
+        myOrigMessages = list(myMessages)
+        myOrigMessages.reverse()
+
+        # print(arrayMessages)
+        # print(myOrigMessages)
+        # print(myMessages)
+
+        data = {}
+        data["person1"] = person1
+        data["person2"] = person2
+        data["words"] = words
+        data["messages"] = myOrigMessages
+        data["diff"] = getDateWithTime(timeDiff)
+        data["first"] = getDateWithTime(firstMess)
+        data["filename"] = htmlFilename
+        redWords = {
+            "fasz", "pina", "szex", "szerelem", "mell", "fasz", "here", "golyo", "tökeim", "bimbó"
+
+        }
+        redWords = {}
+
+        data["redWords"] = redWords
+        print("ide " + data["first"])
+
+        data["last"] = getDateWithTime(lastMess)
+        data["name"] = encodeText(person1 + " - " + person2)
+        data["count"] = mess_count
+        print(htmlFilename)
+        print("ide " + data["last"])
+        dataToSumFile = {}
+        dataToSumFile["conversationBetween"] = encodeText(name)
+        dataToSumFile["thisFileCreatedAt"] = str(datetime.now())
+        dataToSumFile["diff"] = getDateWithTime(timeDiff)
+        dataToSumFile["firstMessage"] = getDateWithTime(firstMess)
+        dataToSumFile["filenameToStore"] = encodeText(htmlFilename)
+
+        print(htmlFilename)
+        # processSumFile(nameOfSumFile, dateStat, dataToSumFile)
+        content = generateContent(dateStatList, values, data)
+
+        htmlFilenamePath = getBigHtmlFilesPath() + '\\' + htmlFilename
+
+        with open(htmlFilenamePath, "w", encoding="utf-8") as f:
+            f.write(content)
+
+        f.close()
+        print(fileName)
+        print(htmlFilename)
+        return 1
+    pass
 
 
-mypath2 = 'c:\\Users\\abasc\\Documents\\_csaba\\_MYFINALBK_MATERIAL_20201124\\emailezesek\\fb_uzik_jso\\fbextracted\messages\inbox\\'
-#mypath = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail'
-#mypath2 = 'D:\\_code\\python\\messenger_parser\\'
-onlyDirs = os.listdir(mypath2)
-print("looking in dirs : " + str(onlyDirs))
+def processFolder(folderName):
+    #prepareFolders()
+    print("Folders successfully created.")
+    print("Starting to process folder: " + folderName)
+    dirsToProcess = os.listdir(pathToJsons)
+    print("Number of folders : " + str(len(dirsToProcess)))
+    print("looking in dirs : " + str(dirsToProcess))
+    for dir in dirsToProcess:
+        actualPath = pathToJsons + '\\' + dir
+        if os.path.exists(actualPath):
+            print(actualPath + " exists")
+            filesToProcess = os.listdir(actualPath)
+            #print(filesToProcess)
+            filesToProcess = list(filter(lambda x: (str(x).endswith(".json")), filesToProcess))
+            print(filesToProcess)
+            for file in filesToProcess:
+                actualJsonPath = actualPath + '\\' + file
+                with open(actualJsonPath) as json_file:
+                    data = json.load(json_file)
+                    htmlFileName = getHtmlFileNameFromData(data)
+                    htmlFilePath = getBigHtmlFilesPath() + '\\' + htmlFileName
+                    print(htmlFileName)
+                    if not os.path.exists(htmlFilePath):
+                        processJson(actualJsonPath)
+                        processJsonByDay(actualJsonPath)
+                    exit()
+                pass
 
-counter = 0
 
-fileCounter = 0
-for file in onlyDirs:
-    path =mypath2 + file + "\message_1.json"
-    path2 =mypath2 + file + "\message_2.json"
-    path3 =mypath2 + file + "\message_3.json"
-    path4 =mypath2 + file + "\message_4.json"
-    path5 =mypath2 + file + "\message_5.json"
-
-    with open(path) as json_file:
-        print(counter)
-        counter += 1
-        #print(json_file)
-        data = json.load(json_file)
-        for p in data['participants']:
-             print('Name: ' + encodeText(p['name']))
-        #     print('Website: ' + p['website'])
-        #     print('From: ' + p['from'])
-        #     print('')
-        print("Üzenetek száma: " + str(len(data['messages'])))
-
-        last = len(data['messages'])-1
-
-        print("Első üzi: " + getDateWithTime(data['messages'][last]["timestamp_ms"]))
-        print("Utolsó üzi : " + getDateWithTime(data['messages'][0]["timestamp_ms"]))
-    #exit(0)
-    print("\n")
-    fileCounter += processJson(path)
-    if (os._exists(path2)):
-        fileCounter += processJson(path2)
-    if fileCounter >= 1:
-        exit()
+processFolder(pathToJsons)
+exit()

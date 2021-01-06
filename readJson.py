@@ -10,17 +10,19 @@ import nltk
 import unidecode
 import io
 
+#2021-01-06
+
 #todo creation time in sum file
 #todo process all json files
 
-mypath2 = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail\\buzaspatrik_b9xc2ct-zq\\'
+pathToFolders = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail\\buzaspatrik_b9xc2ct-zq\\'
 
 STRING_VIDA_CSABA = 'Vida Csaba'
 
 def getDateWithTime(timestamp) -> str:
     dt_obj = datetime.fromtimestamp(timestamp / 1000).strftime('%y-%m-%d %H:%M:%S')
     #print(dt_obj)
-    return str(dt_obj)
+    return "20" + str(dt_obj)
 
 def getDateOfNow() -> str:
     dt_obj = datetime.now()
@@ -590,42 +592,106 @@ def processJson(jsonFile):
 
 
 
-mypath2 = 'c:\\Users\\abasc\\Documents\\_csaba\\_MYFINALBK_MATERIAL_20201124\\emailezesek\\fb_uzik_jso\\fbextracted\messages\inbox\\'
-#mypath = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail'
-#mypath2 = 'D:\\_code\\python\\messenger_parser\\'
-onlyDirs = os.listdir(mypath2)
+pathToFolders = 'c:\\Users\\abasc\\Documents\\_csaba\\_MYFINALBK_MATERIAL_20201124\\emailezesek\\fb_uzik_jso\\fbextracted\messages\inbox\\'
+#pathToFolders = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail'
+#pathToFolders = 'D:\\_code\\python\\messenger_parser\\'
+onlyDirs = os.listdir(pathToFolders)
 print("looking in dirs : " + str(onlyDirs))
 
 counter = 0
 
 fileCounter = 0
-for file in onlyDirs:
-    path =mypath2 + file + "\message_1.json"
-    path2 =mypath2 + file + "\message_2.json"
-    path3 =mypath2 + file + "\message_3.json"
-    path4 =mypath2 + file + "\message_4.json"
-    path5 =mypath2 + file + "\message_5.json"
 
-    with open(path) as json_file:
-        print(counter)
-        counter += 1
-        #print(json_file)
-        data = json.load(json_file)
-        for p in data['participants']:
-             print('Name: ' + encodeText(p['name']))
-        #     print('Website: ' + p['website'])
-        #     print('From: ' + p['from'])
-        #     print('')
-        print("Üzenetek száma: " + str(len(data['messages'])))
 
-        last = len(data['messages'])-1
+def getNumberOfDays(first, last):
+    startYear = first.split()[0].split("-")[0]
+    lastYear = last.split()[0].split("-")[0]
+    startMonth = first.split()[0].split("-")[1]
+    lastMonth = last.split()[0].split("-")[1]
+    startDay = first.split()[0].split("-")[2]
+    lastDay = last.split()[0].split("-")[2]
+    yearDiff = int(lastYear) - int(startYear)
+    monthDiff = int(lastMonth)- int(startMonth)
+    dayDiff = int(lastDay) - int(startDay)
+    numberOfDays = yearDiff * 365 + monthDiff * 30 + dayDiff
+    #print(dayDiff)
+    #print(numberOfDays)
+    return numberOfDays
 
-        print("Első üzi: " + getDateWithTime(data['messages'][last]["timestamp_ms"]))
-        print("Utolsó üzi : " + getDateWithTime(data['messages'][0]["timestamp_ms"]))
+quotaToNameDict = {}
+messageCountToNameDict = {}
+for folder in onlyDirs:
+    #print(folder)
+    folderPath = pathToFolders + '\\' + folder
+    files = os.listdir(folderPath)
+    files = list(filter(lambda  x: (str(x).endswith('.json')), files))
+    countMessages = 0
+    print(counter)
+    counter += 1
+    person = ""
+    first = ""
+    last = ""
+    for file in files:
+        file =  folderPath + '\\' + file
+        with open(file) as json_file:
+
+            #print(file.split('\\')[-1])
+            data = json.load(json_file)
+            for p in data['participants']:
+                p = encodeText(p['name'])
+                if p == STRING_VIDA_CSABA:
+                    continue
+                else:
+                    person = p
+            countMessages += len(data['messages'])
+            lastIndex = len(data['messages'])-1
+            firstMessageTime = getDateWithTime(data['messages'][lastIndex]["timestamp_ms"])
+            #print("firstm " + firstMessageTime)
+            lastMessageTime = getDateWithTime(data['messages'][0]["timestamp_ms"])
+            #print("lastm " + lastMessageTime)
+            if first == "":
+                first = firstMessageTime
+            else:
+                if first > firstMessageTime:
+                    first = firstMessageTime
+            if last == "":
+                last = lastMessageTime
+            else:
+                #print("last "  + last)
+                #print("lastMessage "  + lastMessageTime)
+                if last < lastMessageTime:
+                    last = lastMessageTime
+    print(person)
+    print("Üzenetek száma: " + str(countMessages))
+    print("First mess: " + first)
+    print("Last mess: " + last)
+    numberOfDaysTalked = getNumberOfDays(first, last)
+    if numberOfDaysTalked == 0:
+        numberOfDaysTalked = 1
+    kvota = countMessages/numberOfDaysTalked
+    kvota = float("{:.3f}".format(kvota))
+    if numberOfDaysTalked > 100:
+        quotaToNameDict[kvota] = person + " " + str(numberOfDaysTalked) + " days, "  + str(countMessages) + " messages"
+        messageCountToNameDict[countMessages] = person + " msgs: " + str(countMessages)
+    print("Quta mess/days : Napi üzik : " + str(kvota))
     #exit(0)
     print("\n")
-    fileCounter += processJson(path)
-    if (os._exists(path2)):
-        fileCounter += processJson(path2)
+    #fileCounter += processJson(file)
+    if (os._exists(file)):
+        pass
+        #fileCounter += processJson(path2)
     if fileCounter >= 1:
         exit()
+counter = 1
+for key in sorted(quotaToNameDict, reverse=True):
+    print(" ")
+    print(counter)
+    counter += 1
+    print("%s: %s" % (key, quotaToNameDict[key]))
+print(" ============= LIST BY MESSAGES =================")
+counter = 1
+for key in sorted(messageCountToNameDict, reverse=True):
+    print(" ")
+    print(counter)
+    counter += 1
+    print("%s: %s" % (key, messageCountToNameDict[key]))

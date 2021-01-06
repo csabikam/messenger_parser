@@ -1,0 +1,567 @@
+{
+  "participants": [
+    {
+      "name": "Anna Boz\u00c3\u00b3ki"
+    },
+    {
+      "name": "Vida Csaba"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1574180363680,
+      "content": "pusziii <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1574180359991,
+      "content": "\u00e2\u0099\u00a5\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1574180356109,
+      "content": ":D your loss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1574180350472,
+      "content": "Eg\u00c3\u00a9sz h\u00c3\u00a9tre nem \u00c3\u00a9rek r\u00c3\u00a1d \u00f0\u009f\u0098\u0080\u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1574180330207,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1574180329123,
+      "content": "nem eg\u00c3\u00a9sz h\u00c3\u00a9tre persze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1574180325251,
+      "content": "j\u00c3\u00b6v\u00c5\u0091 h\u00c3\u00a9ten az eny\u00c3\u00a9m vagy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1574180319867,
+      "content": "akkor hagylak is dolgodra",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1574180316110,
+      "content": ":D sz\u00c3\u00bcpehr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1574180305088,
+      "content": "Nem tudom. \u00f0\u009f\u0098\u0085\u00f0\u009f\u0098\u0085\nFuri k\u00c3\u00a9pz\u00c3\u00a9sben vagyok. De figyuka, majd elmes\u00c3\u00a9lem \u00c3\u00a9l\u00c5\u0091ben. J\u00c3\u00b6v\u00c5\u00917 m\u00c3\u00a1sodik fel\u00c3\u00a9ben valami tali?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1574180234947,
+      "content": ":D \u00c3\u00a9s siker ? hanyad\u00c3\u00a9ves is vagy ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1574180227744,
+      "content": "\u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1574180222488,
+      "content": "Kb nincs szoci\u00c3\u00a1lis \u00c3\u00a9letem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1574180220708,
+      "content": "csak hagytam hogy tanulj kicsit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1574180215882,
+      "content": "h\u00c3\u00a1t nem felejtetttelek \u00c3\u00a9n el :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1574180212310,
+      "content": "Megvagyok. Sok a suli.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1574180204036,
+      "content": "Jaj de cuki vagy. \u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1574176855991,
+      "content": "j\u00c3\u00b3l vagy ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1574176848898,
+      "content": "h\u00c3\u00a1t mi lett veled az\u00c3\u00b3ta hogy Viola emigr\u00c3\u00a1lt ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1574176841929,
+      "content": "\u00c3\u00a9lsz m\u00c3\u00a9g ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1574176839901,
+      "content": "szia csib\u00c3\u00a9m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1564595663645,
+      "content": "Rendk\u00c3\u00adv\u00c3\u00bcli \u00f0\u009f\u0098\u0080\u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1564519453121,
+      "photos": [
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/67310256_886047948419174_4524326027144462336_n_886047928419176.jpg",
+          "creation_timestamp": 1564519452
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1561046499755,
+      "content": "Helpdesk meg festipay felt\u00c3\u00b6lt\u00c3\u00a9s \u00f0\u009f\u0099\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1561030609871,
+      "content": "uh \u00c3\u00a9s mi a dolgod ott ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1561030578941,
+      "content": "De k\u00c3\u00b6szi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1561030573492,
+      "content": "Dolgozni megyek \u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1561030305877,
+      "content": "j\u00c3\u00b3 buliz\u00c3\u00a1st ott",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1561030303525,
+      "content": "rendben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1561030301044,
+      "content": ":D uncsizok az irod\u00c3\u00a1ban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1561030294995,
+      "content": "De csinos vagy \u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1561030285900,
+      "content": "Sorry, nem fog m\u00c3\u00a1r menni. \u00f0\u009f\u0098\u0095 Majd volt meg sound ut\u00c3\u00a1n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1561027016621,
+      "photos": [
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64474060_2367743606832540_5230442865632477184_n_1029276950610701.jpg",
+          "creation_timestamp": 1561027015
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560932651743,
+      "content": "ma nyitott vagyok r\u00c3\u00a1 :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560866633292,
+      "content": "ok\u00c3\u00a9s :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560866630604,
+      "content": "uh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1560866607350,
+      "content": "Hmm, a h\u00c3\u00a9ten lehet r\u00c3\u00b3la sz\u00c3\u00b3, de p\u00c3\u00a9nteken hazamegyek, majd csak 2 h\u00c3\u00a9t m\u00c3\u00balva j\u00c3\u00b6v\u00c3\u00b6k vissza szerintem.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1560866556606,
+      "content": "Te \u00c3\u00adgy teszel szert nemzetk\u00c3\u00b6zi bar\u00c3\u00a1tokra? \u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560866428952,
+      "content": "de lassan majd tarthatunk egy in Memoriam Peti t\u00c3\u00a9p\u00c3\u00a9st :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560866419307,
+      "content": "v\u00c3\u00a9g\u00c3\u00bcl nem ment\u00c3\u00bcnk vissza a v\u00c3\u00a1rosba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560866412179,
+      "content": "szia chilei bar\u00c3\u00a1tom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1560438933729,
+      "content": "Megtisztelsz \u00f0\u009f\u0099\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560435081928,
+      "content": ":D azt csak neked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1560435059795,
+      "content": "Az els\u00c5\u0091 k\u00c3\u00bcl\u00c3\u00b6n\u00c3\u00b6sen.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1560435044057,
+      "content": "Az \u00c3\u00b6sszes.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560434263874,
+      "content": "tetszenek rem\u00c3\u00a9lem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1560434186119,
+      "content": "K\u00c3\u00b6szcsi \u00f0\u009f\u0098\u008a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560434020512,
+      "photos": [
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62398522_921133614888364_4606123610577305600_n_396655520962051.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62603661_622351408241853_2388679644019687424_n_2289100534674067.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62309469_613418369161015_2610790510477967360_n_397780144160673.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64346539_2305432899706886_2511345675225006080_n_383879518900793.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62325714_449896952475222_5804922426831667200_n_484186555517311.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64420406_1198953193612379_776601765826002944_n_665248070589571.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64301117_458532988245004_7266244848401776640_n_457137594850689.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64222786_843100319397376_1046769553935171584_n_2327824244140588.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64300084_2311237502528989_5338503529835266048_n_456336948487885.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64631829_2254973271290243_7512517908082196480_n_2394036867332423.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62603114_643697779375653_8359942194265587712_n_2312938462309070.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62409014_2569515376401286_5055342228705116160_n_499049790634092.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64212091_1088175178053900_1960131084284854272_n_587444095116491.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64525262_1261972217300161_1530780267608801280_n_2009605432482992.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62576772_2353540398251940_6831660871773585408_n_329918381242974.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62372827_2340970702616233_8508645880587354112_n_620158525153883.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62503705_2415226972081612_4571384192805371904_n_397538120851659.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62493416_1355455677912583_668415263376408576_n_476567446441075.jpg",
+          "creation_timestamp": 1560434019
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62384657_562159637521547_3780533950284300288_n_620127898467912.jpg",
+          "creation_timestamp": 1560434019
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560434017874,
+      "photos": [
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62340838_2159052944319652_430798319439052800_n_2241935059230200.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64604486_2279992372079830_5607971710721589248_n_1261243550705446.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64360482_593121304515000_3298923225680969728_n_422980731629269.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62368541_634034683739987_31872119079960576_n_2455995247952604.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64417079_631499744031551_4887237625351503872_n_2280149468905183.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62582211_340983676592181_51314766014054400_n_637320876736781.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62220756_425517484967190_3437927875120988160_n_415587282374397.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62579149_473221746584412_5272135977190555648_n_417590539095704.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64355603_1320646331417165_770883643936604160_n_2392003564379511.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64239712_414629082464294_5581412895683510272_n_2135583173235601.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62576725_326375164950619_2136539345480318976_n_617453905435346.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62375169_394405307836365_4756408085382168576_n_362207771132881.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64328692_1120984424753433_529364773750439936_n_911676592499043.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62552485_1071066826437789_8347742227992150016_n_2149475411817660.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64217004_439945546787418_6880706920097775616_n_2280282238889526.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/64586997_333720974221712_8641439822633762816_n_195020948071531.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62591228_444736509655578_3754765628272017408_n_1335183249963920.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62367619_379689465995710_8488113308392488960_n_436008906982506.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62359882_2424051587824995_5227185141528395776_n_365202681020653.jpg",
+          "creation_timestamp": 1560434016
+        },
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/62494250_676001596157796_2577531555048062976_n_312809756269180.jpg",
+          "creation_timestamp": 1560434016
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1560434016989,
+      "content": "Gy\u00c3\u00b6ny\u00c3\u00b6r\u00c5\u00b1 vagy.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560433982686,
+      "photos": [
+        {
+          "uri": "messages/inbox/AnnaBozoki_SPxRIq2sWQ/photos/63481055_636880723462751_3274363077969051648_n_636880700129420.jpg",
+          "creation_timestamp": 1560433982
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1560433957562,
+      "content": "Az nem.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560433949265,
+      "content": "ok\u00c3\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1560433948665,
+      "content": "Vagyis.. ami tegnap k\u00c3\u00a8sz\u00c3\u00bclt \u00f0\u009f\u0098\u0085",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560433948527,
+      "content": "peti faszos szelfijei is ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1560433936157,
+      "content": "Minden j\u00c3\u00b6het.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560433819688,
+      "content": "csak amin te is rajta vagy ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560433814287,
+      "content": ":D megkapod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1560433782000,
+      "content": "Halika \u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anna Boz\u00c3\u00b3ki",
+      "timestamp_ms": 1560433773689,
+      "content": "Nagyon szeretn\u00c3\u00a9m \u00c5\u0091ket megkapni \u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560431860088,
+      "content": "te is k\u00c3\u00a9red a k\u00c3\u00a9peket vagy Viola elk\u00c3\u00bcldi ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1560431853058,
+      "content": "sziamia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1556189660714,
+      "content": "K\u00c3\u00b6sz\u00c3\u00b6nj r\u00c3\u00a1 \u00c3\u00baj Facebook-ismer\u00c5\u0091s\u00c3\u00b6dre, \u00c3\u00bczenj Ann\u00c3\u00a1nak.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Anna Boz\u00c3\u00b3ki",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AnnaBozoki_SPxRIq2sWQ"
+}

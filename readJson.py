@@ -726,7 +726,8 @@ def processJsonByDay(actualJsonPath):
                 messageContent = ""
 
 
-pathToFolders = 'c:\\Users\\abasc\\Documents\\_csaba\\_MYFINALBK_MATERIAL_20201124\\emailezesek\\fb_uzik_jso\\fbextracted\messages\inbox\\'
+#pathToFolders = 'c:\\Users\\abasc\\Documents\\_csaba\\_MYFINALBK_MATERIAL_20201124\\emailezesek\\fb_uzik_jso\\fbextracted\messages\inbox\\'
+pathToFolders = 'D:\\_code\\python\\messenger_parser\\json'
 #pathToFolders = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail'
 #pathToFolders = 'D:\\_code\\python\\messenger_parser\\'
 onlyDirs = os.listdir(pathToFolders)
@@ -754,6 +755,8 @@ def getNumberOfDays(first, last):
 
 quotaToNameDict = {}
 messageCountToNameDict = {}
+longestConnectionDict = {}
+diagramDataDict = {}
 for folder in onlyDirs:
     #print(folder)
     folderPath = pathToFolders + '\\' + folder
@@ -800,6 +803,7 @@ for folder in onlyDirs:
     print("First mess: " + first)
     print("Last mess: " + last)
     numberOfDaysTalked = getNumberOfDays(first, last)
+    longestConnectionDict[numberOfDaysTalked] = person
     if numberOfDaysTalked == 0:
         numberOfDaysTalked = 1
     kvota = countMessages/numberOfDaysTalked
@@ -816,19 +820,39 @@ for folder in onlyDirs:
         #fileCounter += processJson(path2)
     if fileCounter >= 1:
         exit()
-counter = 1
-for key in sorted(quotaToNameDict, reverse=True):
-    print(" ")
-    print(counter)
-    counter += 1
-    print("%s: %s" % (key, quotaToNameDict[key]))
-print(" ============= LIST BY MESSAGES =================")
-counter = 1
-for key in sorted(messageCountToNameDict, reverse=True):
-    print(" ")
-    print(counter)
-    counter += 1
-    print("%s: %s" % (key, messageCountToNameDict[key]))
+
+
+def displayQuoteToNameDict():
+    print(" ============= LIST OF QUOTE (daysInConnection/messages) =================")
+    counter = 1
+    for key in sorted(quotaToNameDict, reverse=True):
+        print(" ")
+        print(counter)
+        counter += 1
+        print("%s: %s" % (key, quotaToNameDict[key]))
+    print(" ============= END OF LIST OF QUOTE (daysInConnection/messages) =================")
+
+
+def displayMostMessagesDict():
+    print(" ============= LIST OF MessageCount::Name  =================")
+    counter = 1
+    for key in sorted(messageCountToNameDict, reverse=True):
+        print(" ")
+        print(counter)
+        counter += 1
+        print("%s: %s" % (key, messageCountToNameDict[key]))
+    print(" ============= END OF LIST OF MessageCount::Name  =================")
+
+
+displayMostMessagesDict()
+displayQuoteToNameDict()
+
+
+
+
+
+def createTopListLongestConnection():
+    pass
 
 
 def processFolder(folderName):
@@ -862,4 +886,6 @@ def processFolder(folderName):
 
 #processFolder(pathToJsons)
 exit()
+
+
 

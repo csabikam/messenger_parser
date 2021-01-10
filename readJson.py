@@ -6,17 +6,13 @@ import json
 import ftfy
 from datetime import datetime
 import unidecode
-import io
+import time
+import logging
 
-#2021-01-06
-
-#todo creation time in sum file
-#todo process all json files
-
-pathToFolders = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail\\buzaspatrik_b9xc2ct-zq\\'
-
+#2021-01-09
 
 # CONSTANTS AND PATHS _____START
+pathToFolders = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail\\buzaspatrik_b9xc2ct-zq\\'
 GEN_HTML = "generated_html"
 SORTED_BY_YEAR = "sorted_by_year"
 SORTED_BY_MONTH = "sorted_by_month"
@@ -29,47 +25,92 @@ pathToJsons = 'd:\\_code\\python\\messenger_parser\\json\\'
 # CONSTANTS AND PATHS _____END
 
 def prepareFolders():
+    logging.info("===============STARTING TO PREPARE FOLDERS ============")
     current_dir = os.getcwd()
     genHtmlDir = current_dir + '\\' + GEN_HTML
+    logDir = current_dir + '\\' + "log"
     if not os.path.exists(genHtmlDir):
         os.makedirs(genHtmlDir)
-        print(genHtmlDir + " created.")
+        logging.info(genHtmlDir + " created.")
     else:
-        print(genHtmlDir + " already exists.")
+        logging.info(genHtmlDir + " already exists.")
+    if not os.path.exists(logDir):
+        os.makedirs(logDir)
+        logging.info(logDir + " created.")
+    else:
+        logging.info(logDir + " already exists.")
     bigFiles = genHtmlDir + '\\' + BIG_FILES
     if not os.path.exists(bigFiles):
         os.makedirs(bigFiles)
-        print(bigFiles + " created.")
+        logging.info(bigFiles + " created.")
     else:
-        print(bigFiles + " already exists.")
-
+        logging.info(bigFiles + " already exists.")
     startYear = 2007
-    endYear = 2020
+    endYear = 2021
     for year in range(startYear, endYear):
         actYear = str(year)
         actYearPath = genHtmlDir + '\\' + actYear
         if not os.path.exists(actYearPath):
             os.makedirs(actYearPath)
-            print(actYearPath + " created.")
+            logging.info(actYearPath + " created.")
         else:
-            print(actYearPath + " already exists.")
+            logging.info(actYearPath + " already exists.")
         for month in range(1,13):
             actMonth = str(month)
             actMonthPath = actYearPath + '\\' + actMonth
             if not os.path.exists(actMonthPath):
                 os.makedirs(actMonthPath)
-                print(actMonthPath + " created.")
+                logging.info(actMonthPath + " created.")
             else:
-                print(actMonthPath + " already exists.")
+                logging.info(actMonthPath + " already exists.")
             for month in range(1, 32):
                 actDay = str(month)
                 actDayPath = actMonthPath + '\\' + actDay
                 if not os.path.exists(actDayPath):
                     os.makedirs(actDayPath)
-                    print(actDayPath + ' created.')
+                    logging.info(actDayPath + ' created.')
                 else:
-                    print(actDayPath + ' already exists.')
+                    logging.info(actDayPath + ' already exists.')
+    logging.info("===============ENDING OF PREPARING FOLDERS ============")
 
+def getGenHtmlFolderPath():
+    current_dir = os.getcwd()
+    genHtmlDir = current_dir + '\\' + GEN_HTML
+    return genHtmlDir
+
+def deleteEmptyFolders():
+    current_dir = os.getcwd()
+    genHtmlDir = current_dir + '\\' + GEN_HTML
+    if not os.path.exists(genHtmlDir):
+        print(genHtmlDir + " does not exist. Please run prepareFolders() first, and then the program. Returning.")
+        return 0
+
+    startYear = 2007
+    endYear = 2021
+    for year in range(startYear, endYear):
+        actYear = str(year)
+        actYearPath = genHtmlDir + '\\' + actYear
+        if os.path.getsize(actYearPath):
+            os.rmdir(actYearPath)
+            print(actYearPath + " empty, so deleted.")
+        else:
+            print(actYearPath + " is not empty, looking into it..")
+        for month in range(1, 13):
+            actMonth = str(month)
+            actMonthPath = actYearPath + '\\' + actMonth
+            if os.path.getsize(actMonthPath):
+                os.rmdir(actMonthPath)
+                print(actMonthPath + " empty, so deleted.")
+            else:
+                print(actMonthPath + " is not empty, going into it.")
+            for month in range(1, 32):
+                actDay = str(month)
+                actDayPath = actMonthPath + '\\' + actDay
+                if not os.path.getsize(actDayPath):
+                    os.rmdir(actDayPath)
+                    print(actDayPath + ' empty, so deleted.')
+                else:
+                    print(actDayPath + ' is not empty.')
 def getDateWithTime(timestamp) -> str:
     dt_obj = datetime.fromtimestamp(timestamp / 1000).strftime('%y-%m-%d %H:%M:%S')
     #print(dt_obj)
@@ -470,10 +511,17 @@ def getHtmlFilename(name1, name2, count, dateFrom, dateTo, format):
         name = name2
     else:
         name = name1
+    if count % 1000 == 0:
+        c = str(int(count / 1000)) + 'k'
+    else:
+        c = str(count)
     name = unidecode.unidecode(encodeText(name))
     name = name.replace(" ", "")
-    htmlFilename = str(count) + "__" + name + "__[" + dateFrom + "---" + dateTo + "]." + format
+    htmlFilename = "[" + dateFrom + "---" + dateTo + "]_" +str(c) + "__" + name + "." + format
     return htmlFilename
+
+def getHtmlFilename1(name, count, dateFrom, dateTo, format):
+    return getHtmlFilename(name, STRING_VIDA_CSABA, count, dateFrom, dateTo, format)
 
 def processJson(jsonFile):
     dateStat = {}
@@ -689,8 +737,8 @@ def processJsonByDay(actualJsonPath):
         dateFrom = getDateWithTime(firstMess).split()[0]
         dateTo = getDateWithTime(lastMess).split()[0]
         htmlFilename = getHtmlFilename(person1, person2, mess_count, dateFrom, dateTo, "html")
-        if (os.path.exists(htmlFilename)):
-            return 0
+        #if (os.path.exists(htmlFilename)):
+           # return 0
         print("DArab üzenet " + str(mess_count))
         print(messages[0])
         timeDiff = lastMess - firstMess
@@ -725,54 +773,72 @@ def processJsonByDay(actualJsonPath):
                 # exit()
                 messageContent = ""
 
-
-#pathToFolders = 'c:\\Users\\abasc\\Documents\\_csaba\\_MYFINALBK_MATERIAL_20201124\\emailezesek\\fb_uzik_jso\\fbextracted\messages\inbox\\'
-pathToFolders = 'D:\\_code\\python\\messenger_parser\\json'
-#pathToFolders = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail'
-#pathToFolders = 'D:\\_code\\python\\messenger_parser\\'
-onlyDirs = os.listdir(pathToFolders)
-print("looking in dirs : " + str(onlyDirs))
-
-counter = 0
-
-fileCounter = 0
-
+def createClearJson(fileName, htmlFileName):
+    print()
+    print("Processing " + fileName)
+    htmlFileNameWithPath = os.path.dirname(fileName) + "\\" + htmlFileName
+    if os.path.exists(htmlFileNameWithPath):
+        print("Already exists, returning. File:  " + htmlFileName)
+        return 0
+    print(htmlFileNameWithPath)
+    print(htmlFileName)
+    print()
+    jsonData = {}
+    with open(fileName) as f:
+        data = json.load(f)
+        messages = data['messages']
+        if (os.path.exists(htmlFileName)):
+            return 0
+        counter = 0
+        for message in messages:
+            name = encodeText(message['sender_name'])
+            if "content" in message:
+                msg = encodeText(message['content'])
+                #print(msg)
+                # https://stackoverflow.com/questions/26614323/in-what-world-would-u00c3-u00a9-become-%C3%A9
+                date = getDateWithTime(message['timestamp_ms'])
+                #print(date)
+                jsonData[date] = name + ": "+ msg
+    res = dict(reversed(list(jsonData.items())))
+    #print(res)
+    #exit()
+    with open(htmlFileNameWithPath, "w", encoding="utf-8") as newFile:
+        for i in res.keys():
+            newFile.write(i + " " + res.get(i))
+            newFile.write('\n')
+    newFile.close()
+    print("Generating file " + htmlFileName)
 
 def getNumberOfDays(first, last):
-    startYear = first.split()[0].split("-")[0]
-    lastYear = last.split()[0].split("-")[0]
-    startMonth = first.split()[0].split("-")[1]
-    lastMonth = last.split()[0].split("-")[1]
-    startDay = first.split()[0].split("-")[2]
-    lastDay = last.split()[0].split("-")[2]
-    yearDiff = int(lastYear) - int(startYear)
-    monthDiff = int(lastMonth)- int(startMonth)
-    dayDiff = int(lastDay) - int(startDay)
-    numberOfDays = yearDiff * 365 + monthDiff * 30 + dayDiff
-    #print(dayDiff)
-    #print(numberOfDays)
-    return numberOfDays
+    if (first != "") & (last != "") :
+        startYear = first.split()[0].split("-")[0]
+        lastYear = last.split()[0].split("-")[0]
+        startMonth = first.split()[0].split("-")[1]
+        lastMonth = last.split()[0].split("-")[1]
+        startDay = first.split()[0].split("-")[2]
+        lastDay = last.split()[0].split("-")[2]
+        yearDiff = int(lastYear) - int(startYear)
+        monthDiff = int(lastMonth)- int(startMonth)
+        dayDiff = int(lastDay) - int(startDay)
+        numberOfDays = yearDiff * 365 + monthDiff * 30 + dayDiff
+        #print(dayDiff)
+        #print(numberOfDays)
+        return numberOfDays
+    else:
+        return 0
 
-quotaToNameDict = {}
-messageCountToNameDict = {}
-longestConnectionDict = {}
-diagramDataDict = {}
-for folder in onlyDirs:
-    #print(folder)
-    folderPath = pathToFolders + '\\' + folder
-    files = os.listdir(folderPath)
-    files = list(filter(lambda  x: (str(x).endswith('.json')), files))
+def createSumTxtFileFromJsonFromFolder(folderPath, fileCounter):
+    filesOrFoldersInFolder = os.listdir(folderPath)
+    jsonFiles = list(filter(lambda x: (str(x).endswith('.json')), filesOrFoldersInFolder))
     countMessages = 0
-    print(counter)
-    counter += 1
     person = ""
     first = ""
     last = ""
-    for file in files:
-        file =  folderPath + '\\' + file
+    for file in jsonFiles:
+        file = folderPath + '\\' + file
         with open(file) as json_file:
 
-            #print(file.split('\\')[-1])
+            # print(file.split('\\')[-1])
             data = json.load(json_file)
             for p in data['participants']:
                 p = encodeText(p['name'])
@@ -780,12 +846,15 @@ for folder in onlyDirs:
                     continue
                 else:
                     person = p
-            countMessages += len(data['messages'])
-            lastIndex = len(data['messages'])-1
+            countRecentFile = len(data['messages'])
+            countMessages += countRecentFile
+            lastIndex = len(data['messages']) - 1
             firstMessageTime = getDateWithTime(data['messages'][lastIndex]["timestamp_ms"])
-            #print("firstm " + firstMessageTime)
+            dateFrom = firstMessageTime.split()[0]
+            # print("firstm " + firstMessageTime)
             lastMessageTime = getDateWithTime(data['messages'][0]["timestamp_ms"])
-            #print("lastm " + lastMessageTime)
+            dateTo = lastMessageTime.split()[0]
+            # print("lastm " + lastMessageTime)
             if first == "":
                 first = firstMessageTime
             else:
@@ -794,35 +863,33 @@ for folder in onlyDirs:
             if last == "":
                 last = lastMessageTime
             else:
-                #print("last "  + last)
-                #print("lastMessage "  + lastMessageTime)
+                # print("last "  + last)
+                # print("lastMessage "  + lastMessageTime)
                 if last < lastMessageTime:
                     last = lastMessageTime
+            htmlFileName = getHtmlFilename1(person, countRecentFile, dateFrom, dateTo, 'txt')
+            createClearJson(file, htmlFileName)
+            print("Person processed count : " + str(fileCounter))
+            fileCounter += 1
     print(person)
     print("Üzenetek száma: " + str(countMessages))
     print("First mess: " + first)
     print("Last mess: " + last)
+    return first, last, person, countMessages, fileCounter
+
+def addToQuotaList(quotaToNameDict, person, first, last, countMessages):
     numberOfDaysTalked = getNumberOfDays(first, last)
-    longestConnectionDict[numberOfDaysTalked] = person
     if numberOfDaysTalked == 0:
         numberOfDaysTalked = 1
-    kvota = countMessages/numberOfDaysTalked
+    kvota = countMessages / numberOfDaysTalked
     kvota = float("{:.3f}".format(kvota))
     if numberOfDaysTalked > 100:
-        quotaToNameDict[kvota] = person + " " + str(numberOfDaysTalked) + " days, "  + str(countMessages) + " messages"
+        quotaToNameDict[kvota] = person + " " + str(numberOfDaysTalked) + " days, " + str(countMessages) + " messages"
         messageCountToNameDict[countMessages] = person + " msgs: " + str(countMessages)
     print("Quta mess/days : Napi üzik : " + str(kvota))
-    #exit(0)
-    print("\n")
-    #fileCounter += processJson(file)
-    if (os._exists(file)):
-        pass
-        #fileCounter += processJson(path2)
-    if fileCounter >= 1:
-        exit()
+    return quotaToNameDict
 
-
-def displayQuoteToNameDict():
+def displayQuoteToNameDict(quotaToNameDict):
     print(" ============= LIST OF QUOTE (daysInConnection/messages) =================")
     counter = 1
     for key in sorted(quotaToNameDict, reverse=True):
@@ -832,8 +899,7 @@ def displayQuoteToNameDict():
         print("%s: %s" % (key, quotaToNameDict[key]))
     print(" ============= END OF LIST OF QUOTE (daysInConnection/messages) =================")
 
-
-def displayMostMessagesDict():
+def displayMostMessagesDict(messageCountToNameDict):
     print(" ============= LIST OF MessageCount::Name  =================")
     counter = 1
     for key in sorted(messageCountToNameDict, reverse=True):
@@ -844,16 +910,9 @@ def displayMostMessagesDict():
     print(" ============= END OF LIST OF MessageCount::Name  =================")
 
 
-displayMostMessagesDict()
-displayQuoteToNameDict()
-
-
-
-
 
 def createTopListLongestConnection():
     pass
-
 
 def processFolder(folderName):
     #prepareFolders()
@@ -883,9 +942,124 @@ def processFolder(folderName):
                     exit()
                 pass
 
-
+# STARTING PROGRAM HERE
 #processFolder(pathToJsons)
-exit()
+#pathToFolders = 'c:\\Users\\abasc\\Documents\\_csaba\\_MYFINALBK_MATERIAL_20201124\\emailezesek\\fb_uzik_jso\\fbextracted\messages\inbox\\'
+#pathToFolders = 'D:\\_code\\python\\messenger_parser\\json'
+pathToFolders = 'D:\\_code\\readJson\\messenger_parser\\json'
+#pathToFolders = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail'
+#pathToFolders = 'D:\\_code\\python\\messenger_parser\\'
+startingTime = time.time()
+now = datetime.now()
+dt_string = now.strftime("%Y%m%d_%Hh%Mm%Ss")
+loggingFileName = "logfile_" + dt_string + ".log"
+#f= open(loggingFileName,"x")
+#f.close()
+logging.basicConfig(filename="log\\" + loggingFileName, encoding='utf-8', level=logging.DEBUG)
+onlyDirs = os.listdir(pathToFolders)
+logging.info("looking in dirs : " + str(onlyDirs))
+#prepareFolders()
+counter = 0
+fileCounter = 0
+quotaToNameDict = {}
+messageCountToNameDict = {}
+diagramDataDict = {}
 
+
+def createDailyFileFromName(person):
+    fileName = person + ".day"
+    fileName = unidecode.unidecode(encodeText(fileName))
+    fileName = fileName.replace(" ", "")
+    return fileName
+
+
+def createDatePath(recentDate):
+    genHtml = getGenHtmlFolderPath()
+    print(recentDate)
+    if len(recentDate.split("-")) == 3:
+        print("in")
+        year = recentDate.split("-")[0]
+        month = str(int(recentDate.split("-")[1]))
+        day = str(int(recentDate.split("-")[2]))
+        result = genHtml + '\\' + year + '\\' + month + '\\' + day + '\\'
+        return result
+    else:
+        return False
+
+def processTxtFilesToDailyFiles(folderPath, person):
+    filesOrFoldersInFolder = os.listdir(folderPath)
+    txtFiles = list(filter(lambda x: (str(x).endswith('.txt')), filesOrFoldersInFolder))
+    print(person)
+    fileName = createDailyFileFromName(person)
+    print(fileName)
+    for actualTxt in txtFiles:
+        file = folderPath + '\\' + actualTxt
+        print(file)
+        if os.path.exists(file):
+            print("exists")
+        #exit()
+        linesToDayFile = []
+        tempRecentDate = ""
+        fileCounter = 0
+        with open(file, 'r', encoding="utf-8") as reader:
+            for line in reader.readlines():
+                if (line.startswith("200") or line.startswith("201")) and line[4] == '-':
+                    recentDate = line.split()[0]
+                    if tempRecentDate == "":
+                        tempRecentDate = recentDate
+                    print(tempRecentDate)
+                    datedPath = createDatePath(tempRecentDate)
+                    datedPathAndFilename = datedPath + fileName
+                    print(datedPathAndFilename)
+                    if (recentDate != tempRecentDate) & (tempRecentDate != ""):
+                        print(linesToDayFile)
+                        print(datedPathAndFilename)
+                        print(line)
+                        if not os.path.exists(datedPathAndFilename):
+                            with open(datedPathAndFilename, "w", encoding="utf-8") as newFile:
+                                newFile.write("Message count:" + str(len(linesToDayFile)))
+                                newFile.write("\n")
+                                for i in linesToDayFile:
+                                    newFile.write(i)
+                            newFile.close()
+                            logging.info(str(fileCounter) + "Creating file : " + datedPathAndFilename)
+                            fileCounter += 1
+                        else:
+                            logging.info("File exists already : " + datedPathAndFilename)
+                        linesToDayFile = []
+
+                    tempRecentDate = recentDate
+                    linesToDayFile.append(line)
+    #exit()
+
+
+for folder in onlyDirs:
+    logging.info("Start processing " + folder)
+    folderPath = pathToFolders + '\\' + folder
+    logging.info("Path to this folder "  + folderPath)
+    filesOrFoldersInFolder = os.listdir(folderPath)
+    logging.info("Files in: " + folderPath)
+    logging.info(filesOrFoldersInFolder)
+    first, last, person, countMessages, fileCounter = createSumTxtFileFromJsonFromFolder(folderPath, fileCounter)
+    processTxtFilesToDailyFiles(folderPath, person)
+    logging.info("Conversation with: " + person)
+    logging.info("Number of messages: " + str(countMessages))
+    logging.info("First conversation  at: " + first)
+    logging.info("Last conversation started at: " + last)
+    logging.info(str(fileCounter) + ".th processed file")
+    logging.info("Starting ")
+    quotaToNameDict = addToQuotaList(quotaToNameDict, person, first, last, countMessages)
+    txtFiles = list(filter(lambda x: (str(x).endswith('.txt')), filesOrFoldersInFolder))
+    logging.info(txtFiles)
+    #exit(0)
+    print("\n")
+# AFTER PROCESSING ALL FOLDER, PRINT TOP LISTS
+displayQuoteToNameDict(quotaToNameDict)
+displayMostMessagesDict(messageCountToNameDict)
+#deleteEmptyFolders()
+endTime = time.time()
+spentTime = endTime - startingTime
+logging.info("Program runned for " + str(spentTime) + " seconds.")
+#todo logging system
 
 

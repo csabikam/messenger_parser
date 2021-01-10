@@ -78,39 +78,66 @@ def getGenHtmlFolderPath():
     genHtmlDir = current_dir + '\\' + GEN_HTML
     return genHtmlDir
 
+
+def getPath(genHtmlDir, folderName):
+    foldernameWithPath = genHtmlDir + '\\' + folderName
+    return foldernameWithPath
+
+
 def deleteEmptyFolders():
     current_dir = os.getcwd()
-    genHtmlDir = current_dir + '\\' + GEN_HTML
+    genHtmlDir = getGenHtmlFolderPath()
     if not os.path.exists(genHtmlDir):
-        print(genHtmlDir + " does not exist. Please run prepareFolders() first, and then the program. Returning.")
+        logging.info(genHtmlDir + " does not exist. Please run prepareFolders() first, and then the program. Returning.")
         return 0
+    folders = list(os.walk(GEN_HTML))
 
-    startYear = 2007
-    endYear = 2021
-    for year in range(startYear, endYear):
+    for folder in folders:
+        print(folder)
+        if (not folder[1]) and (not folder[2]):
+            logging.info("Removing " + folder[0])
+            print("Removing " + folder[0])
+            os.rmdir(folder[0])
+        # folder example: ('FOLDER/3', [], ['file'])
+    for folder in folders:
+        print(folder)
+        if (not folder[1]) and (not folder[2]):
+            logging.info("Removing " + folder[0])
+            print("Removing " + folder[0])
+            os.rmdir(folder[0])
+        # folder example: ('FOLDER/3', [], ['file'])
+
+    exit()
+
+    for year in range(0, 10):
         actYear = str(year)
         actYearPath = genHtmlDir + '\\' + actYear
         if os.path.getsize(actYearPath):
             os.rmdir(actYearPath)
-            print(actYearPath + " empty, so deleted.")
+            logging.info(actYearPath + " empty, so deleted.")
         else:
-            print(actYearPath + " is not empty, looking into it..")
+            logging.info(actYearPath + " is not empty, looking into it..")
         for month in range(1, 13):
             actMonth = str(month)
             actMonthPath = actYearPath + '\\' + actMonth
             if os.path.getsize(actMonthPath):
                 os.rmdir(actMonthPath)
-                print(actMonthPath + " empty, so deleted.")
+                logging.info(actMonthPath + " empty, so deleted.")
             else:
-                print(actMonthPath + " is not empty, going into it.")
+                logging.info(actMonthPath + " is not empty, going into it.")
             for month in range(1, 32):
                 actDay = str(month)
                 actDayPath = actMonthPath + '\\' + actDay
-                if not os.path.getsize(actDayPath):
+                print(actDayPath)
+                if os.path.exists(actDayPath)  and (os.path.getsize(actDayPath) == 0) :
+                    print(os.path.getsize(actDayPath))
+                    exit()
                     os.rmdir(actDayPath)
-                    print(actDayPath + ' empty, so deleted.')
+                    logging.info(actDayPath + ' empty, so deleted.')
                 else:
+                    print(os.path.getsize(actDayPath))
                     print(actDayPath + ' is not empty.')
+                    logging.info(actDayPath + ' is not empty.')
 def getDateWithTime(timestamp) -> str:
     dt_obj = datetime.fromtimestamp(timestamp / 1000).strftime('%y-%m-%d %H:%M:%S')
     #print(dt_obj)
@@ -964,6 +991,8 @@ fileCounter = 0
 quotaToNameDict = {}
 messageCountToNameDict = {}
 diagramDataDict = {}
+deleteEmptyFolders()
+exit()
 
 
 def createDailyFileFromName(person):
@@ -1032,7 +1061,8 @@ def processTxtFilesToDailyFiles(folderPath, person):
                     linesToDayFile.append(line)
     #exit()
 
-
+deleteEmptyFolders()
+exit()
 for folder in onlyDirs:
     logging.info("Start processing " + folder)
     folderPath = pathToFolders + '\\' + folder

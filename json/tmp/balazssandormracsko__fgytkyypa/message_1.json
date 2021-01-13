@@ -1,0 +1,5692 @@
+{
+  "participants": [
+    {
+      "name": "Balazs Sandor Mracsko"
+    },
+    {
+      "name": "Vida Csaba"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591946341687,
+      "content": "\u00c3\u0089s k\u00c3\u00b6sz\u00c3\u00b6nj\u00c3\u00bck (mi, a vil\u00c3\u00a1g) hogy vagy nek\u00c3\u00bcnk",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Balazs Sandor Mracsko"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591946333891,
+      "content": "Remelem ertekeled! :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591946329521,
+      "content": "Es sose a testedert szerettelek",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591946323057,
+      "content": "Es mindig is foglak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591946321452,
+      "content": "En is teged csabi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591946316994,
+      "content": "Es mindig szerettelek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591946310189,
+      "content": "Szeretlek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591946278472,
+      "content": "De kedves vagy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591946275182,
+      "content": "Ahh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591946271752,
+      "content": "\u00f0\u009f\u00a5\u00b0\u00f0\u009f\u00a5\u00b0\u00f0\u009f\u00a5\u00b0\u00f0\u009f\u00a5\u00b0\u00f0\u009f\u00a5\u00b0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591946265177,
+      "content": "BAL\u00c3\u0081ZSK\u00c3\u0081M",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591946261210,
+      "content": "Boldog sz\u00c3\u00bclet\u00c3\u00a9snapot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781990873,
+      "content": "En clojuret",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781987913,
+      "content": "Meg Kotlin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781982508,
+      "content": "Azt nezegetem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781979922,
+      "content": "Most",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781978868,
+      "content": "Rust",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781970909,
+      "content": "Mibe es mit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781966910,
+      "content": "Ezer eve nem csinaltam ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781961943,
+      "content": "Es nagyon elvezen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781959035,
+      "content": "Most programozgatok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781955541,
+      "content": "Majd eccer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781949472,
+      "content": "Es geht. Ich lerne Deutsch zwei \u00e2\u0080\u009ctimes a\u00e2\u0080\u009d woche",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781928607,
+      "content": "Folytasd a zenekeszitest",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781908810,
+      "content": "Semmi, valahogy belassultam",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781425028,
+      "content": "Wie geht es mit dem Deutsch ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781385828,
+      "content": "Es mi a recent h9bbid?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781364816,
+      "content": "Az egy kis plusz zs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781359715,
+      "content": "Szomszednak baby sitterkedik majd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781343146,
+      "content": "Eleg halott a piac",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781339853,
+      "content": "Nem nagyon most",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781310486,
+      "content": "Luca n\u00c3\u00a9zeget mel\u00c3\u00b3kat?  V m\u00c3\u00a1r tal\u00c3\u00a1lt?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781288569,
+      "content": "De nem is banom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781285935,
+      "content": "Nalunk egy jo darabig nem lesz bemaszkalas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781276138,
+      "content": "Helyes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781268170,
+      "content": "M\u00c3\u00a1r \u00c5\u0091 is bej\u00c3\u00a1r",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781266914,
+      "content": "Vagy o is bejar?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781256618,
+      "content": "Es az nejed otthonrol tolja?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781241397,
+      "content": "Nagyj\u00c3\u00a1b\u00c3\u00b3l ennyi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781238662,
+      "content": "Kiray",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781233713,
+      "content": "N\u00c3\u00a9ha felj\u00c3\u00b6nnek cimbik f\u00c3\u00bcvezni meg gintonikozni hozz\u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781216497,
+      "content": "Meg tal\u00c3\u00a1lkozunk emberekkel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781189687,
+      "content": "\u00f0\u009f\u0098\u0081\u00f0\u009f\u0098\u0081 apr\u00c3\u00b3 \u00c3\u00b6r\u00c3\u00b6m\u00c3\u00b6k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781182223,
+      "content": "M\u00c3\u00a1r 27 sz\u00c3\u00a1mom van soundcloudon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781172280,
+      "content": "\u00c3\u0089n estenk\u00c3\u00a9nt zen\u00c3\u00a9t csin\u00c3\u00a1lok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781161532,
+      "content": "Fasorba n\u00c3\u00a9ha be\u00c3\u00bcl\u00c3\u00bcnk fasor tekercs\u00c3\u00a9rt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781146862,
+      "content": "H\u00c3\u00a9tv\u00c3\u00a9genk\u00c3\u00a9nt neha kir\u00c3\u00a1ndulunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781138591,
+      "content": "Bicikliz\u00c3\u00bcnk  Dorozsm\u00c3\u00a1ra",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781130128,
+      "content": "N\u00c3\u00a9ha elmegy\u00c3\u00bcnk ligetbe futni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781112492,
+      "content": "Hal\u00c3\u00a1lra untam magam eg\u00c3\u00a9sz nap otthon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781103897,
+      "content": "\u00c3\u0089n nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781097991,
+      "content": "En imadom a wfh-t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781083598,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/103365599_275195687180692_510723413308533857_n_275195683847359.jpg",
+          "creation_timestamp": 1591781082
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781074447,
+      "content": "Hetfo szerda pentek este k9ndi Bandival",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781073734,
+      "content": "Irodabol? Nem wfh?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781060757,
+      "content": "Flang\u00c3\u00a1l\u00c3\u00a1s k\u00c3\u00a1r\u00c3\u00a1szon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781054439,
+      "content": "Eb\u00c3\u00a9d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781052256,
+      "content": "Belv\u00c3\u00a1rosban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781049204,
+      "content": "Irod\u00c3\u00a1b\u00c3\u00b3l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781046405,
+      "content": "Azt\u00c3\u00a1n kis mel\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781041627,
+      "content": "Ha s\u00c3\u00bct  a nap akkor kicsit strandolok m\u00c3\u00a9g",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781026478,
+      "content": "\u00c3\u0089n  reggel \u00c3\u00basz\u00c3\u00a1s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781019766,
+      "content": "El\u00c3\u00a9g s\u00c5\u00b1r\u00c5\u00b1n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591781014686,
+      "content": "Huh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781007697,
+      "content": "Ti hogy toljatok az eletet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591781001429,
+      "content": "Nem tortenik semmi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780995625,
+      "content": "Jaja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780886582,
+      "content": "Fb csopi blogotok el\u00c3\u00a9g lelankadt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780871217,
+      "content": "K\u00c3\u00b6szi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780856234,
+      "content": "En setalgatok erdoben ;)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780850963,
+      "content": "Azt meghagyom neked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780845549,
+      "content": "De most pr hete szar az ido",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780838222,
+      "content": "Sport ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780838045,
+      "content": "Sokat kirandultuno",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780833115,
+      "content": "Hqt ja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780826740,
+      "content": "Teh\u00c3\u00a1t elvagytok mint a bef\u00c5\u0091tt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780799488,
+      "content": "Angep elott :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780796726,
+      "content": "Itthon ulok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780728451,
+      "content": "Hogy n\u00c3\u00a9z ki egy napod ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780714878,
+      "content": "Szerintem sose lesznek",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780711570,
+      "content": "Dehogy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780708902,
+      "content": "De ba mar hazamegyek latogatni akkor szopo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780706377,
+      "content": "Tilda v Anik\u00c3\u00b3 voltak m\u00c3\u00a1r?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780701837,
+      "content": "Mert kit izgat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780698992,
+      "content": "Az nem zavarna ha visszajonnek es akkor lenne",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780692129,
+      "content": "Itt jincs karanten",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780688161,
+      "content": "De ha ti visszamentek ti dolgozhattok onnan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780687132,
+      "content": "Ugyanezen okok miatt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780676904,
+      "content": "Aztan be vagyunk zarva",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780676603,
+      "content": "Addig mi se hozzatok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780673014,
+      "content": "Mert annak nincs ertelme h hazamegyunk latogatoba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780671867,
+      "content": "\u00c3\u0089rtem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780664899,
+      "content": "Addig nem megyunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780661049,
+      "content": "Es van karanten",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780657825,
+      "content": "Amig ha bemesz mo ba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780648447,
+      "content": "Tess\u00c3\u00a9k?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780636348,
+      "content": "Ha egy helyen kell ket hetet lenni?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780629812,
+      "content": "Mi el hazamenni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780626076,
+      "content": "Amint nincs karanten otthon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780468355,
+      "content": "Ny\u00c3\u00a1r?  Szin ? Dejavu ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780461407,
+      "content": "Ti mikor j\u00c3\u00b6tt\u00c3\u00b6k?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780455219,
+      "content": "Nem akarok karantenizalodni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780448252,
+      "content": "Igen akad\u00c3\u00a1ly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591780444657,
+      "content": "Akkor ? \u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780442069,
+      "content": "De neked az akadaly?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591780430950,
+      "content": "De",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591770720642,
+      "content": "Nem utazasi tilalom van ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591738160417,
+      "content": "Marmint h mikor jottok svajcba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591738153228,
+      "content": "Valaszoltal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591738148695,
+      "content": "Nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591738143604,
+      "content": "Ezekre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591738121181,
+      "content": "De ti is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591738119503,
+      "content": "Tudom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733916544,
+      "content": "T\u00c3\u00bal cukik vagytok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733818354,
+      "content": "Ez igaz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733788595,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/103504925_767982167340423_2250922810407625694_n_767982117340428.jpg",
+          "creation_timestamp": 1591733787
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733693746,
+      "content": "Na mutasd magatok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733687926,
+      "content": "\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733685976,
+      "content": "Na mindegy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733683157,
+      "content": "Sose te volt\u00c3\u00a1l  a leg\u00c3\u00a9lesebb k\u00c3\u00a9s  a fi\u00c3\u00b3kban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733671501,
+      "content": "\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733669574,
+      "content": "Ugye milyen aranyosak..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733645626,
+      "content": "Mindatot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733641547,
+      "content": "Ok, akkor viszont nem ertem a mindatot ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733587359,
+      "content": "Vaksikam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733584872,
+      "content": "Nem ugyan hanem ugye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733550519,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/103976081_255318262463810_3321144729861583786_n_255318219130481.jpg",
+          "creation_timestamp": 1591733547
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/103759884_709714293117384_5262635913850176301_n_709714239784056.jpg",
+          "creation_timestamp": 1591733547
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/102557861_724043548429414_2956120438239393144_n_963616720734747.jpg",
+          "creation_timestamp": 1591733548
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/104098337_267606621118404_8568462294055886315_n_267606594451740.jpg",
+          "creation_timestamp": 1591733549
+        }
+      ],
+      "gifs": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/gifs/102684071_2956961134385483_4442728549523738301_n_728411741247927.gif"
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/gifs/102458698_179384470165122_596635117792224728_n_2379907325644387.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733549934,
+      "content": "Vagy ugyan nem friss?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733546024,
+      "content": "armint ugyan nem tart",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733506008,
+      "content": "\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733504017,
+      "content": "Ugye van m\u00c3\u00a9g t\u00c3\u00b6bb sz\u00c3\u00a1z ilyen k\u00c3\u00a9p",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733483950,
+      "content": "Orulok h tart meg a romanc ;) sose gondoltam volna, olyan aranyosak vagytok egyutt \u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733461587,
+      "content": "Ahh, ez friss?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733439861,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/103290684_3360599897305797_8654562976437999441_n_3360599810639139.jpg",
+          "creation_timestamp": 1591733438
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733426706,
+      "content": "Tess\u00c3\u00a9k h felismerd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733411131,
+      "content": "Elviszem neked Anik\u00c3\u00b3t ajandekba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733407008,
+      "content": "Anikoval? ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733398465,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733397012,
+      "content": "Mikor jossz svajcba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733393265,
+      "content": "Toled mit kapok?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733381604,
+      "content": "Minel tobb emlek van rolam annal jobb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733375295,
+      "content": "Ajandek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733364027,
+      "content": "A fast foodos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733361114,
+      "content": "Van egy m\u00c3\u00a1sik is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733357147,
+      "content": "Vigy\u00c3\u00a1ztam r\u00c3\u00a1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733342096,
+      "content": "\u00f0\u009f\u0098\u0081\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733338466,
+      "content": "Akkor a tied maradhat ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733336903,
+      "content": "Kell ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733333730,
+      "content": "Oks :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733330487,
+      "content": "\u00f0\u009f\u0098\u0081\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733327809,
+      "content": "15 \u00c3\u00a9ve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733323360,
+      "content": "Mikor?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733321988,
+      "content": "K\u00c3\u00b6lcs\u00c3\u00b6n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733321390,
+      "content": "Jaaaaaaaaaaa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733319010,
+      "content": "Ebben mentem haza",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733314584,
+      "content": "Azert lep meg :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733314347,
+      "content": "Csak ezt kaptam pizsinek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733308222,
+      "content": "H\u00c3\u00a1t nem adtad nekem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733298287,
+      "content": "Ezt mikor adtam neked?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733298215,
+      "content": "Radgondolva",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1591733293234,
+      "content": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733265670,
+      "content": "p\u00c3\u00b3l\u00c3\u00b3dban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1591733261385,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/103983527_193888145192683_2643690746815393348_n_256673502445669.jpg",
+          "creation_timestamp": 1591733260
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577579211339,
+      "content": ";)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577578067208,
+      "content": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577578064592,
+      "content": "Nee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577578036076,
+      "content": "Ezt screenshotolom neki,ok? ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577578014351,
+      "content": "Awww \u00f0\u009f\u00a5\u00b0\u00f0\u009f\u00a5\u00b0\u00f0\u009f\u00a5\u00b0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577577050976,
+      "content": "Nekem is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577575816373,
+      "content": "Aniko a kedvencunk meg mindig",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577575804170,
+      "content": "Ez ki ez?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577575618370,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/80469009_2531734927042921_2889483130064863232_n_2531734900376257.jpg",
+          "creation_timestamp": 1577575616
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/80446584_438859336990093_770603646428643328_n_438859303656763.jpg",
+          "creation_timestamp": 1577575616
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577575601595,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/80568168_2515178392050598_2621120297666871296_n_2515178362050601.jpg",
+          "creation_timestamp": 1577575600
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577574009785,
+      "content": "En szeretem a husit ;)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577573998574,
+      "content": "De tetszel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577572069320,
+      "content": "Sajn\u00c3\u00a1lom h nem tetszek \u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a5\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577571970671,
+      "content": "\u00f0\u009f\u00a5\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577571970162,
+      "content": "Hiztal \u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577571968489,
+      "content": "Na j\u00c3\u00b6het a k\u00c3\u00a9p luci h\u00c3\u00bag\u00c3\u00a1r\u00c3\u00b3l  cserebe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577571949729,
+      "content": "\u00f0\u009f\u0098\u0081\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577571946690,
+      "content": "Aham",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577571931662,
+      "content": "Ez meg elotte van? ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577571926381,
+      "content": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577571890612,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/81102621_491801864795627_3614278948826906624_n_491801844795629.jpg",
+          "creation_timestamp": 1577571889
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577571770749,
+      "content": "Jobb mint a semmi ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577571765903,
+      "content": "Akkor olyat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577571762142,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577571754895,
+      "content": "De pucerat nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577571751124,
+      "content": "Alsonacist max",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577571743591,
+      "content": "Sajn\u00c3\u00a1lom Bazsikam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577571318074,
+      "content": "Azert nem kuldom senkinek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577571311681,
+      "content": "Tudom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577571286714,
+      "content": "Titkos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577571283233,
+      "content": "Nemnem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577571256808,
+      "content": "\u00f0\u009f\u00a5\u00b0\u00f0\u009f\u00a5\u00b0\u00f0\u009f\u00a5\u00b0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577571253552,
+      "content": "Pls pls plsssss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577571246923,
+      "content": "Nem kuldom tovabb igerem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577571242907,
+      "content": "Meg akarom mutatni Luca huganak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577571235291,
+      "content": "\u00f0\u009f\u0098\u0081\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577571232906,
+      "content": "Nyilv\u00c3\u00a1n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1577571229634,
+      "content": "Hah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577571153993,
+      "content": "Amit mutattal fasorban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1577571147502,
+      "content": "Kuldd mar el a karacsony elotti kepedet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575300468952,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575298672773,
+      "content": "<3 gyertek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575297693991,
+      "content": "20. kornyeke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575297688436,
+      "content": "Meg nem tudom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575297609618,
+      "content": "mikort\u00c3\u00b3l lesztek szegeden ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575297174622,
+      "content": "de t\u00c3\u00a9ged is hozhat :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575297171572,
+      "content": "Karikol tuti tali! <3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575297161680,
+      "content": "Mindig mondja ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575297157176,
+      "content": "Tudja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575297049118,
+      "content": "beszopta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575297045603,
+      "content": "\u00c3\u00bczenem Luc\u00c3\u00a1nak hogy a fogad\u00c3\u00a1st is behajtom rajta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575297037527,
+      "content": "de az\u00c3\u00a9rt kar\u00c3\u00a1csonykor m\u00c3\u00a9g talizzunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575297027254,
+      "content": ";)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575297023393,
+      "content": "klassz, \u00c3\u00b6r\u00c3\u00bcl\u00c3\u00b6k neki, r\u00c3\u00a1df\u00c3\u00a9r egy kis vil\u00c3\u00a1gl\u00c3\u00a1t\u00c3\u00a1s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575297009820,
+      "content": "Szulesz ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575297004812,
+      "content": "Delivery manager",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575296996600,
+      "content": "Dm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575296840582,
+      "content": "\u00c3\u00a9s mi leszel ott ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575296834389,
+      "content": "Epamos otdolgozod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575296833699,
+      "content": "mur\u00c3\u00a1ti is ott van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575296822636,
+      "content": "Zurich",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575296822517,
+      "content": "epamos kik\u00c3\u00bcldet\u00c3\u00a9s ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575296819084,
+      "content": "te melyik v\u00c3\u00a1rosba mentek \u00c3\u00a9s miv\u00c3\u00a9gett ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575296813200,
+      "content": "k\u00c3\u00b6lt\u00c3\u00b6zni meg nem hiszem hogy k\u00c3\u00bclf\u00c3\u00b6ldre akarna k\u00c3\u00b6lt\u00c3\u00b6zni :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575296742512,
+      "content": "l\u00c3\u00a1togat\u00c3\u00b3ba igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575296739532,
+      "content": "m\u00c3\u00a1rmint l\u00c3\u00a1togat\u00c3\u00b3ba vagy kik\u00c3\u00b6lt\u00c3\u00b6z\u00c3\u00a9skor ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575296719248,
+      "content": "Hozod Anikot is? ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575296707268,
+      "content": "egy volt kedvenc szeret\u00c5\u0091m is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575296699734,
+      "content": "mur\u00c3\u00a1ti is ott lakik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575296694040,
+      "content": "Akkor ott tali? ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575296690362,
+      "content": "Hahha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575296683405,
+      "content": "h\u00c3\u00a1rom meg \u00c3\u00a9n is oda terveztem menni m\u00c3\u00a1sf\u00c3\u00a9l \u00c3\u00a9v m\u00c3\u00balva",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575296675520,
+      "content": "h\u00c3\u00a1t nem is tudom mit mondjak, egyr\u00c3\u00a9szt sajn\u00c3\u00a1lom hogy ilyen messze ker\u00c3\u00bclsz, kett\u00c5\u0091 meg nem a vil\u00c3\u00a1g v\u00c3\u00a9ge",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575296661998,
+      "content": "Ugye milyen meno?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575296657080,
+      "content": "a titkos csoportban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575296654139,
+      "content": "\u00c3\u00a9pp most olvastam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1575296651310,
+      "content": "Szia Bal\u00c3\u00a1zsk\u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575296646544,
+      "content": "Koltozunk a Svajcba!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1575296641097,
+      "content": "\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1572299996472,
+      "content": "Hat egyik szebb mint a masik :) \u00f0\u009f\u00a5\u00b0\u00f0\u009f\u00a5\u00b0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1572294767666,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/73211153_943362062711013_620025894076940288_n_943362026044350.jpg",
+          "creation_timestamp": 1572294767
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570964054455,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/72718200_2446024665611985_5416564014979219456_n_562038147937965.jpg",
+          "creation_timestamp": 1570964053
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570964045960,
+      "content": "Zeaekkal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570964043779,
+      "content": "No score",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570964028310,
+      "content": "Kicel voltal?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570964024822,
+      "content": "Volt vmi score?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570964013331,
+      "content": "Langykozep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570963415951,
+      "content": "Hmm?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570962394691,
+      "content": "De lanfykozep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570962384523,
+      "content": "Egynek elment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570962036866,
+      "content": "Buli jo volt?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570962032770,
+      "content": "Anyam van csak otthon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570960766537,
+      "content": "Gondoltam bek\u00c3\u00b6sz\u00c3\u00b6n\u00c3\u00b6k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570960761373,
+      "content": "J\u00c3\u00b6ttem a kocsiert",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570960754282,
+      "content": "Obi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570960749739,
+      "content": "Nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570960291533,
+      "content": "Ti otthon ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570880835010,
+      "content": "Oke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570880799742,
+      "content": "Sanyi jon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570880797670,
+      "content": "Nem kell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570880792975,
+      "content": "Elmenjek el\u00c3\u00a9tek kocsival ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570880783472,
+      "content": "Es bevasarolunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570880780669,
+      "content": "Es akkor elmegyunk novaba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570880777595,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570880749515,
+      "content": "Mert 5:15re erunk le",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570880742369,
+      "content": "Na legyen 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570879433490,
+      "content": "Es j\u00c3\u00b6jj\u00c3\u00b6n luca is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570879428546,
+      "content": "Majd spont\u00c3\u00a1n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570879417238,
+      "content": "Random bef\u00c3\u00a9r\u00c3\u00bcnk barhova",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570879410835,
+      "content": "Nem foglaltam asztalt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570879405657,
+      "content": "H\u00c3\u00a1t igy h 4en lett\u00c3\u00bcnk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570879190043,
+      "content": "Es irok nemsoka",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570879186339,
+      "content": "Most sietek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570879184089,
+      "content": "Pill, nem tudom melyik vonatot erem el",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570879175758,
+      "content": "Vagy majd kitalaljuk?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570879169880,
+      "content": "Mi a plan, varosba megyunk?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570879162183,
+      "content": "De ez meg titok :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570879156561,
+      "content": "Lehet jon Luca is",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570879153127,
+      "content": "Es kuldom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570879150028,
+      "content": "Pill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570879019488,
+      "content": "Ap\u00c3\u00a1d sz\u00c3\u00a1ma k\u00c3\u00a9ne",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570878762625,
+      "content": "Akkor 5re rendelek mindenkit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876752890,
+      "content": "Lehet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876684052,
+      "content": "Miert nem lehet remote szavazni? :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876670174,
+      "content": "Ugy elne ezt :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876666460,
+      "content": "Szegeny Luca kar h nem tud jonni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876620213,
+      "content": "Megint balhe van?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876612001,
+      "content": "Picit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876601461,
+      "content": "De tudsz barmir?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876593840,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876592406,
+      "content": "Mi a fasz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876588195,
+      "content": "De ez titok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876585592,
+      "content": "Megkert h ne hivjam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876580998,
+      "content": "Errol lenaradtam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876571866,
+      "content": "He?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876563373,
+      "content": "De cssss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876560161,
+      "content": "Aniko nem akarja matyit oda",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876546313,
+      "content": "Dee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876546165,
+      "content": "Matyi?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876541395,
+      "content": ":)))))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876539469,
+      "content": "O a keritesen kivulrol nezi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876534094,
+      "content": "Gabi akkor nem johet ugye?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876522509,
+      "content": "Ani Anik\u00c3\u00b3 te \u00c3\u00a9n sanyi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876514762,
+      "content": "Torkos g",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876512689,
+      "content": "Oke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876508150,
+      "content": "Ki jon?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876503048,
+      "content": "Beszelek veluk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876498474,
+      "content": "Oks?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876496966,
+      "content": "Vagy intezem azt en",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876491173,
+      "content": "Oke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876488225,
+      "content": "Vagy sanyival",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876484155,
+      "content": "Na de a kjat beszeld meg az en animmal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876469507,
+      "gifs": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/gifs/30657952_10214346934780033_8976565284538155008_n_1187318441475127.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876461605,
+      "content": "Pedig olyan aranyosak vagytok egyutt :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876452503,
+      "content": "Szabad \u00c3\u00b6r\u00c3\u00b6kk\u00c3\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876446533,
+      "content": "Ehh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876441002,
+      "content": "Never",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876436390,
+      "content": "Azt hittem jartok :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876434691,
+      "content": "Uhy eny\u00c3\u00a9m h ne keverj\u00c3\u00bck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876430308,
+      "content": "Jaaa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876427650,
+      "content": "Bar\u00c3\u00a1tom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876424751,
+      "content": "Nem az eny\u00c3\u00a9m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876422624,
+      "content": "Miota ? :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876420973,
+      "content": "Mit vegy\u00c3\u00bcnk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876418721,
+      "content": "Tied?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876416056,
+      "content": "Meg a hugod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876415599,
+      "content": "Wow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876413421,
+      "content": "Oki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876410449,
+      "content": "Az eny\u00c3\u00a9m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876408106,
+      "content": "Anik\u00c3\u00b3t is elhivom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876401452,
+      "content": "Oke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876201141,
+      "content": "Szoval utana jo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876196180,
+      "content": "En olyan 4-5 kozott hazaerek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570876186369,
+      "content": "Te vagy a szervezo szivem :))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876141404,
+      "content": "Zero ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876139207,
+      "content": "Nista ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876137057,
+      "content": "Nada ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570876135176,
+      "content": "Rien ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570869564846,
+      "content": "Ma du hogy s.mint ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570869560111,
+      "content": "Nos ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570697885833,
+      "content": "megh\u00c3\u00adv\u00c3\u00b3 k\u00c3\u00a9zbes\u00c3\u00adtve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570697871943,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/72711379_442077933328434_5710971537650089984_n_442077899995104.jpg",
+          "creation_timestamp": 1570697871
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570696937416,
+      "content": ":D :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570696928440,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/72101286_408084619905747_16069040317399040_n_2324379417874789.jpg",
+          "creation_timestamp": 1570696927
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695594155,
+      "content": "Like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695592939,
+      "content": "Ertekelem az igyekezeted",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695586675,
+      "content": "Hehhe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695556223,
+      "content": "szeretn\u00c3\u00a9k a legjobb jobbkezed lenni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695551121,
+      "content": "proakt\u00c3\u00adv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695546094,
+      "content": "Ugyes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695544384,
+      "content": "Oksi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695537700,
+      "content": "anik\u00c3\u00b3nak meg m\u00c3\u00a1ty\u00c3\u00a1snak is sz\u00c3\u00b3lok akkor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695442511,
+      "content": "Leszel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695419904,
+      "content": "Szoval nem lesze zavarban :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695411722,
+      "content": "Es nem fog ottlenni h mondja h nezni akarja :))))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695399979,
+      "content": "mindegy, csak ne a fideszre szavazzon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695392620,
+      "content": "ja \u00c3\u00a9rtem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695391617,
+      "content": "Szoval dughatunk! \u00f0\u009f\u008d\u00be\u00f0\u009f\u008d\u00be\u00f0\u009f\u008d\u00be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695382452,
+      "content": "Nem, szavazni megyek, o meg papara megy szavazni :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695357810,
+      "content": "de ugye bar\u00c3\u00a1tn\u00c3\u00a9d is j\u00c3\u00b6n ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695279660,
+      "content": "23 fok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695273250,
+      "content": "mind p\u00c3\u00a9ntek mind szombat mind vas\u00c3\u00a1rnap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695267804,
+      "content": "a k\u00c3\u00b6p\u00c3\u00b6nyeg szerint is j\u00c3\u00b3 id\u00c5\u0091 lesz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695244834,
+      "content": "ok\u00c3\u00a9ska",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695213290,
+      "content": "Nem leszunk 70en szoval siman befer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695205705,
+      "content": "Tudod ott hatso teto alatt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695186959,
+      "content": "h\u00c3\u00a1t akkor es\u00c5\u0091ben is grill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695182697,
+      "content": "A gang alatt :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695182639,
+      "content": "igen ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695179436,
+      "content": "Esoben is lehet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695178171,
+      "content": "rossz id\u00c5\u0091 eset\u00c3\u00a9n meg nem tudom, n\u00c3\u00a9zhet\u00c3\u00bcnk fel\u00c5\u0091lem filmet is otthon bet\u00c3\u00a9pve meg ut\u00c3\u00a1na v\u00c3\u00a1ros",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695165506,
+      "content": "\u00c3\u00a9s ut\u00c3\u00a1na \u00c3\u00a1tvessz\u00c3\u00bck a foglal\u00c3\u00a1sunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695155090,
+      "content": "teh\u00c3\u00a1t j\u00c3\u00b3 id\u00c5\u0091 eset\u00c3\u00a9n grill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695141023,
+      "content": "h\u00c3\u00a1t nbyilv\u00c3\u00a1n es\u00c5\u0091ben nincs grill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695138117,
+      "content": "Es csak akora megyunk?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695131422,
+      "content": "De ha rossz az ido akkor skip?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695128898,
+      "content": "tetszik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695125049,
+      "content": "Es du meg grill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695119961,
+      "content": "egyik szerint j\u00c3\u00b3 id\u00c5\u0091 lesz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695118619,
+      "content": "H foglalsz vhol asztalt 8-9re",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695113407,
+      "content": "k\u00c3\u00a9t k\u00c3\u00bcl\u00c3\u00b6n oldalon k\u00c3\u00a9t k\u00c3\u00bcl\u00c3\u00b6n dolgot mondanak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695111211,
+      "content": "Akkor mit szolsz ahhoz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695106532,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695102560,
+      "content": "igen van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695083561,
+      "content": "De van lehetoseg h jo ido lesz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695027072,
+      "content": "cs\u00c3\u00b6kkenten\u00c3\u00a9 a siker es\u00c3\u00a9lyeit :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695018306,
+      "content": "Hat ba nagyon akarod \u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695009165,
+      "content": "Aztan varos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570695004809,
+      "content": "azt is \u00c3\u00a9n int\u00c3\u00a9zzem ? :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695004779,
+      "content": "Akar az",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570695001576,
+      "content": "De amugy hogyne",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694997382,
+      "content": "De azt sanyival meg kell beszelni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694991669,
+      "content": "Hat grillezhetunk is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694836357,
+      "content": "Gerg\u00c5\u0091 egy tal\u00c3\u00a1nt mond",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694584482,
+      "content": "\u00c5\u0091 kiesett",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694582424,
+      "content": "rebeka nem lesz szegeden",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694485179,
+      "content": "meleg sz\u00c3\u00a9p \u00c5\u0091szi id\u00c5\u0091 eset\u00c3\u00a9n ny\u00c3\u00adlt opci\u00c3\u00b3 hogy vesz\u00c3\u00bcnk p\u00c3\u00a1r grillkolb\u00c3\u00a1szt \u00c3\u00a9s n\u00c3\u00a1latok ell\u00c5\u0091j\u00c3\u00bck ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694369680,
+      "content": "mostan\u00c3\u00a1ban minden szoci\u00c3\u00a1lis esem\u00c3\u00a9nyt szkippel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694362848,
+      "content": ":Dugyse j\u00c3\u00b6n el",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694353369,
+      "content": "Ha mar hozni akarod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694349671,
+      "content": "Gergonek is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694345475,
+      "content": "Ugyesen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694342727,
+      "content": "Kezdhetunk :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694341383,
+      "content": "megeml\u00c3\u00adtem nekik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694339116,
+      "content": "rendben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694333411,
+      "content": "6-10 kozott barmikor ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694326107,
+      "content": "De ja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694324531,
+      "content": "Gondoltam ebben benne van minden",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694317626,
+      "content": "De te nem akartal bulizni :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694312099,
+      "content": "Nekem 9 is jo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694283335,
+      "content": "folyamat elfelejted hogy m\u00c3\u00a1r 33 \u00c3\u00a9s nem 23 \u00c3\u00a9vesek vagyunk :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694265373,
+      "content": "nyilv\u00c3\u00a1n meg\u00c5\u0091r\u00c3\u00bclt\u00c3\u00a9l, hogy 6kor kezd el az ember inni, \u00c3\u00a9s \u00c3\u00a9jf\u00c3\u00a9l ut\u00c3\u00a1n, vagyis hat \u00c3\u00b3ra iv\u00c3\u00a1ssal k\u00c3\u00a9s\u00c5\u0091bb m\u00c3\u00a9g bulizzon :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694249676,
+      "content": "Pl campus is jo nekem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694245645,
+      "content": "Akkor haza",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694243789,
+      "content": "Ha nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694242457,
+      "content": "Aztan ha ugy alakul menni tovabb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694233916,
+      "content": "Inni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694231742,
+      "content": "Beulni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694229785,
+      "content": "Vmi lazulos helyre, ami nem full kocsma",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694221126,
+      "content": "Szombat este 6 utan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694215732,
+      "content": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694215574,
+      "content": "konkr\u00c3\u00a9tumok, vagy legal\u00c3\u00a1bbis alternativ\u00c3\u00a1k kellenek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694206093,
+      "content": "ez m\u00c3\u00a9g kev\u00c3\u00a9s hogy riasszak mindenkit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694201255,
+      "content": "ez a lehet, tal\u00c3\u00a1n, nem tudjuk mikor \u00c3\u00a9s mi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694195525,
+      "content": "Te vagy a szegedi helytartom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694193986,
+      "content": "ha tudn\u00c3\u00a1m, hogy mit akarsz megcsin\u00c3\u00a1lni, megcsin\u00c3\u00a1ln\u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694188678,
+      "content": "Azerr irok neked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694185548,
+      "content": "akkor megcsin\u00c3\u00a1ln\u00c3\u00a1d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694183491,
+      "content": "Megtettem volna",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694180597,
+      "content": "Megcsinalni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694175590,
+      "content": "Ha en akarnam megcsinalji",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694171372,
+      "content": "Csaba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694169187,
+      "content": "Akar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694152045,
+      "content": "ez nem \u00c3\u00adgy megy, csin\u00c3\u00a1lnod kell csoportot, felvenni a r\u00c3\u00a9sztvev\u00c5\u0091ket, vagy teleszemetelni a szines csoportot :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694131185,
+      "content": "rebek\u00c3\u00a1\u00c3\u00a9kat meg anik\u00c3\u00b3\u00c3\u00a9ket ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694130012,
+      "content": "Nem nem :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694121620,
+      "content": "Hozd a csajokat is :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694118078,
+      "content": "azt\u00c3\u00a1n mehettek durvulni :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694113684,
+      "content": ":D \u00c3\u00a9n elz\u00c3\u00a1rk\u00c3\u00b3zok, de a l\u00c3\u00a1jtos r\u00c3\u00a9sz\u00c3\u00a9be benne vagyok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694101038,
+      "content": "De nem cel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694097669,
+      "content": "Nem zarkozunk el",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694092294,
+      "content": "Dehogynem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694085761,
+      "content": "Tisztan en se innam a gin-t. Tonicba csak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694068265,
+      "content": "klasszik durva bebasz\u00c3\u00a1s meg reggelig buli annyira nem adja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694067981,
+      "content": "Jaja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570694059387,
+      "content": "valami l\u00c3\u00a1jtosba sz\u00c3\u00advesen benne vagyok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570694006726,
+      "content": "Szoval lehet rendes buli :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570693987365,
+      "content": "Itt szavaznak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570693984432,
+      "content": "K",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570693982563,
+      "content": "Ok atjelentkeztej",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570693976676,
+      "content": "Nem hiszem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570693970225,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570693969667,
+      "content": "tilda\u00c3\u00a9k is lesznek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570693959903,
+      "content": "ok\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570693952182,
+      "content": "Semminextra",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570693950164,
+      "content": "Bandazunk egyet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570693946772,
+      "content": "Elmegyunk sorozni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570693943711,
+      "content": "Amugy nem vagom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570693938996,
+      "content": "Hat akkor nem strand \u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570693457856,
+      "content": "el\u00c3\u00a9g fos id\u00c5\u0091 lesz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570693453952,
+      "content": "\u00c3\u00a9s mire gondolt\u00c3\u00a1l szombaton ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570643647992,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/72426716_2422127701438013_9088962036053835776_n_1414779422029417.jpg",
+          "creation_timestamp": 1570643647
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Balazs Sandor Mracsko"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570637162084,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/audio/audioclip15706371600004621_1336793103154929.mp4",
+          "creation_timestamp": 1570637160
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570636138057,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/72368901_518402535619991_5052202684921151488_n_2412966348818141.jpg",
+          "creation_timestamp": 1570636137
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570635098001,
+      "content": "De amugy tenyleg olyan mintha lefostak volna :)",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570635083986,
+      "content": "Most szerelembe estem \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570634682317,
+      "videos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/videos/video1570634678_504718846927181.mp4",
+          "creation_timestamp": 1570634643,
+          "thumbnail": {
+            "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/videos/video1570634678_504718846927181.mp4"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570634650753,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570634645475,
+      "content": "Nagy\u00c3\u00a1ruh\u00c3\u00a1z",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570634505282,
+      "content": "Ez hol van? Piac?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570634486245,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/71917016_373200133559092_8055172740870569984_n_373200100225762.jpg",
+          "creation_timestamp": 1570634485
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570634461615,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/72666075_426456781341354_3230198354466045952_n_426456748008024.jpg",
+          "creation_timestamp": 1570634461
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Balazs Sandor Mracsko"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570634370637,
+      "content": "Dzsoker",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570634365010,
+      "content": "Puszillak titeket",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570634361118,
+      "content": "Mitet n\u00c3\u00a9zni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570634349393,
+      "content": "Mi meg megyunk moziba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570634345536,
+      "content": "Ahhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570634337638,
+      "content": "\u00c3\u0089pp gofrit esz\u00c3\u00bcnk az eml\u00c3\u00a9kedre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570634327480,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/72085621_1389638581198295_2006212393994027008_n_1389638551198298.jpg",
+          "creation_timestamp": 1570634326
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570633997299,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/72221846_1370947399720620_5755044881428905984_n_1370947393053954.jpg",
+          "creation_timestamp": 1570633996
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570633961084,
+      "content": "Vigy\u00c3\u00bck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570633936891,
+      "content": "Gergot hivjuk? Vagy jol akarjuk erezni magunkat? \u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Vida Csaba"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570633914773,
+      "content": "Majd kitalaljuk a reszleteket",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570633902472,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570633720899,
+      "content": "Mehet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1570633716718,
+      "content": "Patent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1570633563755,
+      "content": "Hali, hetvegen megyek szegedre, szombaton vmi este?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1567212338873,
+      "content": "Oki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1567212332765,
+      "content": "Gyongye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1567210347243,
+      "content": "Hatra",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1567210344613,
+      "content": "Ugyanugy jobb oldalt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1567210335522,
+      "content": "Nem fogadott h\u00c3\u00adv\u00c3\u00a1s: Balazs Sandor",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1567210291469,
+      "content": "Nem fogadott h\u00c3\u00adv\u00c3\u00a1s: Balazs Sandor",
+      "call_duration": 0,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1567210275646,
+      "content": "Hatrebb gyere",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1567209761773,
+      "content": "Balazs Sandor h\u00c3\u00advott.",
+      "call_duration": 30,
+      "type": "Call"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1564503905036,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1564503667246,
+      "content": "\u00c3\u009aj magyar sz\u00c3\u00a1mom van, mentsd el, 0036308792987 . Ezen vagyok mostant\u00c3\u00b3l el\u00c3\u00a9rhet\u00c5\u0091.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563989814875,
+      "content": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563989743987,
+      "content": "Soha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563989720723,
+      "content": "Hazasodsz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563989714670,
+      "content": "Aucs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563989709455,
+      "content": "Legenybucsu siofokon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563989709173,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563989701354,
+      "content": "Jovo het sajnos nem jo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563989669567,
+      "content": "Es vasarnap jovunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563989665697,
+      "content": "Jovo szerdan megyunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563989619828,
+      "content": "Megkerdem mit kezd a jegyevel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563989612072,
+      "content": "Egyik ismi visszamindta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563989607534,
+      "content": "Jovo het",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563989579370,
+      "content": "Mikor ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563989544929,
+      "content": "Pragaba?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563989542120,
+      "content": "Te nem jossz el a let it rollra?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563989532519,
+      "content": "Csa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563443731860,
+      "content": "Pusza",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442924154,
+      "content": "Szercsi!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442920221,
+      "content": "Puszika",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442916002,
+      "content": "De most melo van, kesobb irok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442907504,
+      "content": "Es vegig leszunk jaja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442896292,
+      "content": "Lol \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442818291,
+      "content": "mondjuk ugy hogy a fidesz vesztett egy szavaz\u00c3\u00b3t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442809796,
+      "content": "teh\u00c3\u00a1t ne szomorkodj te sem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442803131,
+      "content": "na mindegy, am\u00c3\u00bagy nem \u00c3\u00a9rintett m\u00c3\u00a9lyen, annyira az\u00c3\u00a9rt nem \u00c3\u00a1lltunk k\u00c3\u00b6zel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442792863,
+      "content": ":D rem\u00c3\u00a9lem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442792280,
+      "content": ":))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442786071,
+      "content": "most fent hajkur\u00c3\u00a1ssza a tiniangyall\u00c3\u00a1nyokat, amig nagymutter meg nem \u00c3\u00a9rkezik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442781913,
+      "content": "Jaja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442774485,
+      "content": "jaja, enn\u00c3\u00a9l t\u00c3\u00b6bbet senki nem k\u00c3\u00a9rhet a j\u00c3\u00b3istent\u00c5\u0091l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442766374,
+      "content": "Reszvetem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442761782,
+      "content": "Vera is hasonloan tolta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442756717,
+      "content": "Level 85os paladinkent ment el :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442748633,
+      "content": "Akkor kimaxolta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442740772,
+      "content": "ugyohgy gyakorlatilag happy end",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442733995,
+      "content": "85 \u00c3\u00a9ves votl, tol\u00c3\u00b3sz\u00c3\u00a9kbe, m\u00c3\u00a1r mindene kaputt volt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442718751,
+      "content": "Vagy hirtelen?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442713624,
+      "content": "Varhato volt?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442709787,
+      "content": "Nagyon rossz :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442705500,
+      "content": "Sajnalom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442691559,
+      "content": "jajj k\u00c3\u00a9pzeld a h\u00c3\u00a9ten meghalt a nagypap\u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442678506,
+      "content": "majd terelgetlek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442674465,
+      "content": "nem vagy el\u00c3\u00a9g szabadlelk\u00c5\u00b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442669607,
+      "content": "Igy se kapsz meg :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442662295,
+      "content": "Hulye :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442655751,
+      "content": "mindenki legyen szeret\u00c5\u0091",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442628110,
+      "content": "a c\u00c3\u00admk\u00c3\u00a9ket \u00c3\u00a9n se szeretem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442621303,
+      "content": "de elej\u00c3\u00a9t\u00c5\u0091l v\u00c3\u00a9g\u00c3\u00a9ig lesztek ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442616437,
+      "content": ":D f\u00c3\u00a9lek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442612183,
+      "content": ";)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442610584,
+      "content": "Neked kell edzodni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442577922,
+      "content": "teh\u00c3\u00a1t egy \u00c3\u00a1llat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442572382,
+      "content": "Kemenyen tolja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442566976,
+      "content": "vagy beeditel ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442566571,
+      "content": "Persze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442560279,
+      "content": "b\u00c3\u00adrni fogja a t\u00c3\u00a1rsas\u00c3\u00a1gunk ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442554338,
+      "content": "partyarc ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442552215,
+      "content": ":D a legjobbat fogta ki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442505965,
+      "content": "\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3\u00f0\u009f\u00a4\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442503414,
+      "content": "Hat en",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442501123,
+      "content": "Amugy meg van baratja persze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442494972,
+      "content": "Csak meg delay van a kepekben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442487253,
+      "content": "Amugy done :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442480364,
+      "content": "H barat meg van meg nincs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442474653,
+      "content": "Csabi, nincsennek ilyen fura cimkek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442463330,
+      "content": "amszterdamban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442461304,
+      "content": "Ugyan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442461290,
+      "content": "meglehet\u00c5\u0091s\u00c3\u00a9en k\u00c3\u00b6zel egym\u00c3\u00a1shoz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442457412,
+      "content": "egyik k\u00c3\u00a9p\u00c3\u00a9n egy faszival van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442454026,
+      "content": "b\u00c3\u00a1r f\u00c3\u00a9lve k\u00c3\u00a9rdezem meg: van bar\u00c3\u00a1tja ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442442311,
+      "content": "nagyon tetszik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442440614,
+      "content": "nagyon kis helyes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442433077,
+      "content": "Mint en sandor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442419303,
+      "content": "Is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442414584,
+      "content": "csenge ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442341517,
+      "content": "Na csekkoltad mar?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563442258039,
+      "content": "a luca nevet szeretem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442220230,
+      "content": "Ismeroseim kozott megtalalod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442209821,
+      "content": "Bardos Luca",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442200524,
+      "content": "Es valaszd ki a kedvenced :))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563442195304,
+      "content": "Keresd meg facebookon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441791930,
+      "content": "nem kell cicis legyen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441788700,
+      "content": "legal\u00c3\u00a1bb egy k\u00c3\u00a9pet k\u00c3\u00bcldj m\u00c3\u00a1r r\u00c3\u00b3la",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441785142,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441782561,
+      "content": "Bar o pont igen ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441773261,
+      "content": "tudom, a vil\u00c3\u00a1g nem t\u00c3\u00b6k\u00c3\u00a9letes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441767911,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441765425,
+      "content": "Nem mindenki olyan mint te",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441760732,
+      "content": "Csabi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441759205,
+      "content": "senki sem t\u00c3\u00b6k\u00c3\u00a9letes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441756303,
+      "content": "de tudom hogy te meglehet\u00c5\u0091sen monog\u00c3\u00a1m vagy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441741343,
+      "content": "a j\u00c3\u00a1r\u00c3\u00a1s t\u00c3\u00a9li hobbi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441737985,
+      "content": "szerintem ny\u00c3\u00a1rra mindig jobb az ismerked\u00c3\u00a9s/nyitott/szeret\u00c5\u0091i viszony",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441724911,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441706443,
+      "content": "Under negotiation ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441699872,
+      "content": "De meg nem tudom a pontos business engagement modelt :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441676728,
+      "content": "En ugy gondolom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441668241,
+      "content": "Jaras ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441655838,
+      "content": "ez j\u00c3\u00a1r\u00c3\u00a1s vagy ismerked\u00c3\u00a9s ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441651096,
+      "content": "<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441649594,
+      "content": "nagyon v\u00c3\u00a1rom hogy megismerjem \u00c3\u00baj kis kedvesed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441631057,
+      "content": "Csak a kobon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441626964,
+      "content": "k\u00c3\u00a9pet is szivesen veszek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441625216,
+      "content": "Ez igy mind igaz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441623086,
+      "content": "de korrig\u00c3\u00a1ld k\u00c3\u00a9rlek ha valami nem stimmt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441619346,
+      "content": "Hat igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441609610,
+      "content": "valami ilyesmi r\u00c3\u00a9mlik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441605392,
+      "content": "\u00c3\u00a9s istenn\u00c5\u0091",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441603537,
+      "content": "\u00c3\u00a9s j\u00c3\u00b3fej",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441601432,
+      "content": "\u00c3\u00a9s csinos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441597663,
+      "content": "akivel t\u00c3\u00b6k\u00c3\u00a9letes a szex",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441594766,
+      "content": "hogy valami szexi kolleg\u00c3\u00a1d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441589270,
+      "content": "\u00c3\u00a9s azt hidd hogy csak te mondod el nekem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441582191,
+      "content": "hogy a diszkr\u00c3\u00a9ci\u00c3\u00b3 megmaradjon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441578350,
+      "content": "de \u00c3\u00bagy tettem mintha nem mes\u00c3\u00a9lt\u00c3\u00a9k volna",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441573441,
+      "content": "de",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441572684,
+      "content": "h\u00c3\u00a1t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441555388,
+      "content": "Nem meseltek Tildaek?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441531057,
+      "content": "Francba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441527318,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441516829,
+      "content": "Gerg\u00c5\u0091\u00c3\u00a9rt csak r\u00c3\u00a9szpont j\u00c3\u00a1r",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441512499,
+      "content": "ki a szexi csajod ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441508794,
+      "content": "wow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441479779,
+      "content": "Viszem a sexy csajomat is ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563441461515,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441450068,
+      "content": "otttali",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563441445957,
+      "content": "kir\u00c3\u00a1lyos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563440231089,
+      "content": "Ottleves!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563440227153,
+      "content": "Persze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1563440223791,
+      "content": "\u00f0\u009f\u00a5\u00b0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563438525271,
+      "content": "ugye j\u00c3\u00b6ssz/j\u00c3\u00b6tt\u00c3\u00b6k Szinre ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1563438519252,
+      "content": "Szia Bal\u00c3\u00a1zsk\u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1562769103776,
+      "content": "isteni volt, di\u00c3\u00b3p\u00c3\u00a1linka, s\u00c3\u00b6r kolb\u00c3\u00a1sz, di\u00c3\u00a9t\u00c3\u00a1s kis k\u00c3\u00b6nny\u00c5\u00b1 vacsora",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Balazs Sandor Mracsko"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1562698154932,
+      "content": "Kaja jo volt, vagy elbaszta a Sanyi?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1562698142243,
+      "content": "Szepek a kepek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1562698138590,
+      "content": "Lavju",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1562698136601,
+      "content": "<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1562698007988,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/66685242_2207346599319279_412897814872326144_n_2207346442652628.jpg",
+          "creation_timestamp": 1562698002
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/66903474_386439148653885_7861214934066003968_n_386439085320558.jpg",
+          "creation_timestamp": 1562698002
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/66039254_484753115403227_330874002627100672_n_484753065403232.jpg",
+          "creation_timestamp": 1562698004
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/66185430_923503694679305_5288854455217815552_n_923503661345975.jpg",
+          "creation_timestamp": 1562698006
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/66722996_2287079008221659_5525361863073726464_n_622248534939798.jpg",
+          "creation_timestamp": 1562698007
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/66332420_399147867394733_2193739445050540032_n_458582358309828.jpg",
+          "creation_timestamp": 1562698007
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/66170258_347128105981826_6065788703052136448_n_347128085981828.jpg",
+          "creation_timestamp": 1562698005
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/66442058_809600159436465_1940431095795286016_n_809600119436469.jpg",
+          "creation_timestamp": 1562698004
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1562693036560,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/66181710_2111999895764127_1124936245030420480_n_878348959208404.jpg",
+          "creation_timestamp": 1562693035
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Balazs Sandor Mracsko"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1562691349839,
+      "content": "\u00f0\u009f\u0098\u0081\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1562691347968,
+      "content": "Ott tali",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1562691162750,
+      "content": "Pill es megyek xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1562691154834,
+      "content": "Kert",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1562691151173,
+      "content": "Hova?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1562691143511,
+      "content": "Gyere",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1562691142033,
+      "content": "Love you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1562691130183,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1562691116547,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/66710542_2406319036095774_3921873365421260800_n_2406318959429115.jpg",
+          "creation_timestamp": 1562691116
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1558200824334,
+      "videos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/videos/video1558200824_183616569225433.mp4",
+          "creation_timestamp": 1558200822,
+          "thumbnail": {
+            "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/videos/video1558200824_183616569225433.mp4"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1558200723586,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/60544238_580674289090611_8507038119709638656_n_580674195757287.jpg",
+          "creation_timestamp": 1558200718
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/60352926_427428421388504_422351067955593216_n_427428354721844.jpg",
+          "creation_timestamp": 1558200721
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/60495906_182643082662693_8294515308178178048_n_621982671632201.jpg",
+          "creation_timestamp": 1558200722
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/60419411_333095514039272_2095013187890970624_n_333095447372612.jpg",
+          "creation_timestamp": 1558200719
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/60577779_533048307099952_7630685321822208000_n_533048267099956.jpg",
+          "creation_timestamp": 1558200719
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/60803619_584259185399891_4035121177591545856_n_584259108733232.jpg",
+          "creation_timestamp": 1558200721
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/61122323_752615081806444_8063081545189031936_n_359497838252750.jpg",
+          "creation_timestamp": 1558200722
+        },
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/60955727_351020219106552_833966375528562688_n_351020142439893.jpg",
+          "creation_timestamp": 1558200717
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1558200680723,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/60555571_2131877620262962_1604943469363593216_n_2131877533596304.jpg",
+          "creation_timestamp": 1558200679
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1558200679139,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/60609749_300794580842132_4362421952111968256_n_300794544175469.jpg",
+          "creation_timestamp": 1558200677
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1558200675604,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/60596238_436564657168594_571358696227995648_n_436564630501930.jpg",
+          "creation_timestamp": 1558200674
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1558177275940,
+      "content": "Ha nagyon akarsz hozni vmit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1558177271549,
+      "content": "Vagy froccs bort",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1558176743457,
+      "content": "Max adsz egy otezrest es akkor semmit ;)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1558176735556,
+      "content": "Kaja lesz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1558176733499,
+      "content": "Edeser",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1558176729378,
+      "content": "Nasit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1558176728187,
+      "content": "Amit szeretnel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1558176661682,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/audio/audioclip15581766600007129_590376051783746.mp4",
+          "creation_timestamp": 1558176660
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535896065362,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535226612156,
+      "content": "Reggel van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535226581227,
+      "content": "\u00f0\u009f\u0098\u0081",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535226578690,
+      "content": "Reggel eszek megint",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535226491013,
+      "content": "Akkor pont megint ehes lehetsz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535226151323,
+      "content": "Mi 2 \u00c3\u00b3r\u00c3\u00a1ja ett\u00c3\u00bcnk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535225239494,
+      "content": "Nem eszunk egy hambit?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535225224815,
+      "content": "Arrafele vagyunk vhol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535225096513,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/40021554_1833003223450046_1185684825105760256_n_1833003166783385.jpg",
+          "creation_timestamp": 1535225095
+        }
+      ],
+      "type": "Generic",
+      "ip": "2.247.246.4"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535224616090,
+      "content": "Merre?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535224595992,
+      "content": "Quimbyn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535224592016,
+      "content": "M\u00c3\u00a1r itt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535224136875,
+      "content": "Jottok erre?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535222864359,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/40066129_1936261293063182_7848767324273246208_n_1936261166396528.jpg",
+          "creation_timestamp": 1535222863
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535219333113,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/40137543_233595897287630_648240706770436096_n_233595870620966.jpg",
+          "creation_timestamp": 1535219331
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535219149538,
+      "content": "Borter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535218885613,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/40046232_1908032672825094_2920772920298962944_n_1908031892825172.jpg",
+          "creation_timestamp": 1535218884
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535218881615,
+      "content": "Mi most 30y",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535218008307,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/40051825_1805603769554595_628805172302184448_n_1805603709554601.jpg",
+          "creation_timestamp": 1535218007
+        }
+      ],
+      "type": "Generic",
+      "ip": "2.247.246.4"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535218000593,
+      "content": "Majd ha erre jarsz szolj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535217985526,
+      "content": "Messze vagytok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535217982303,
+      "content": "Ejj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535217962480,
+      "content": "Most epam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535217948199,
+      "content": "Majdnem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535217935064,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/40097002_255905825052816_8377119555188686848_n_255905815052817.jpg",
+          "creation_timestamp": 1535217933
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535217926802,
+      "content": "Szembe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535217925293,
+      "content": "Itt vagyunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535217898803,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/40083551_306048156870126_7474602181606244352_n_306048130203462.jpg",
+          "creation_timestamp": 1535217897
+        }
+      ],
+      "type": "Generic",
+      "ip": "2.247.246.4"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535217890692,
+      "content": "M\u00c3\u00a1r bent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535217800440,
+      "content": "Na te ma mikor?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535149269644,
+      "content": "Merre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535145276622,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/40145551_644994349235541_3176813680503291904_n_644994182568891.jpg",
+          "creation_timestamp": 1535145275
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535145253892,
+      "content": "Mi is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535145159586,
+      "content": "Hat most wcn pont",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535144904005,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/39976747_457203581465483_6922450884068638720_n_457203551465486.jpg",
+          "creation_timestamp": 1535144902
+        }
+      ],
+      "type": "Generic",
+      "ip": "82.113.98.144"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535144747497,
+      "content": "Petshop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535144735293,
+      "content": "Mette",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535135159284,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/39999668_249016755946309_1237500629119664128_n_249011455946839.jpg",
+          "creation_timestamp": 1535135158
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535135145121,
+      "content": "Halott penz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535135118032,
+      "content": "Merre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535129097300,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/40006419_698399027200117_1556031900760408064_n_698398977200122.jpg",
+          "creation_timestamp": 1535129096
+        }
+      ],
+      "type": "Generic",
+      "ip": "82.113.98.144"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535129021330,
+      "content": "Itt vagyok a hangositas mellett",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535129009072,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535128996219,
+      "content": "Igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535128965711,
+      "content": "Ping",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535128688140,
+      "content": "Jossz ide?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535128684553,
+      "content": "Animanal vagyok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535127245292,
+      "content": "Te ti ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535127240837,
+      "content": "En most m1ek be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535127239912,
+      "content": "Megyek animara",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535127237196,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535127234291,
+      "content": "Am\u00c3\u00bagy itthon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535127229832,
+      "content": "Minnya indulok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535127210507,
+      "content": "Te merre?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535105427035,
+      "content": "Atadom!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535105423282,
+      "content": "Oksi!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535105317572,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/audio/audioclip153510531600012910_2204423356497574.mp4",
+          "creation_timestamp": 1535105316
+        }
+      ],
+      "type": "Generic",
+      "ip": "82.113.98.144"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535104718523,
+      "content": "De nagyon jol esik, hogy hivtal!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535104706447,
+      "content": "Szoval nem tudok menni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535104698392,
+      "content": "Ok, sajna verara kell vigyazni.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535104625888,
+      "content": "Gyere ha van kedved",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535104619896,
+      "content": "Eb\u00c3\u00a9d propellerben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535104615676,
+      "content": "\u00c3\u0093ra m\u00c3\u00balva kb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535053910169,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/40014923_344068369469897_2365065175091904512_n_344068309469903.jpg",
+          "creation_timestamp": 1535053908
+        }
+      ],
+      "type": "Generic",
+      "ip": "2.247.242.63"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535053902268,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/40018679_314181502681577_4111457426639683584_n_314181449348249.jpg",
+          "creation_timestamp": 1535053901
+        }
+      ],
+      "type": "Generic",
+      "ip": "2.247.242.63"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535053899434,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/39985627_2131241520423952_4039466718127456256_n_2131241467090624.jpg",
+          "creation_timestamp": 1535053898
+        }
+      ],
+      "type": "Generic",
+      "ip": "2.247.242.63"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535053899179,
+      "content": "<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535053896277,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/39588950_852504208273237_4895170657580482560_n_852504154939909.jpg",
+          "creation_timestamp": 1535053895
+        }
+      ],
+      "type": "Generic",
+      "ip": "2.247.242.63"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535053893308,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/39980235_2117534351832374_1035367115843960832_n_2117534301832379.jpg",
+          "creation_timestamp": 1535053892
+        }
+      ],
+      "type": "Generic",
+      "ip": "2.247.242.63"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535053888424,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/39943647_294673204597410_8228217784975228928_n_294673154597415.jpg",
+          "creation_timestamp": 1535053887
+        }
+      ],
+      "type": "Generic",
+      "ip": "2.247.242.63"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535053381267,
+      "content": "Majd a kepeket dobd at!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535053352565,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535047019893,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/39939032_2250688001819197_6639905829141086208_n_2250687938485870.jpg",
+          "creation_timestamp": 1535047018
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535024483046,
+      "content": "Oke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535024366273,
+      "content": "Ma megyek de nem iszom es lelepek 10 fele :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535024350289,
+      "content": "Es programok se voltak nagy szamok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535024341958,
+      "content": "Mert eltjnt mindenki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1535024336721,
+      "content": "Ejfel utan leleptem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535023102768,
+      "content": "Ma j\u00c3\u00b6ssz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535023097232,
+      "content": "Meddig volt\u00c3\u00a1l?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535023088789,
+      "content": "Tegnap elt\u00c5\u00b1nt\u00c3\u00a9l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535023082656,
+      "content": "Tegnaeltuntelp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1535023075825,
+      "content": "Szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1534861441375,
+      "content": "Mindenkepp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1534861436561,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1534861436120,
+      "content": "Ha m\u00c3\u00a9g annyira j\u00c3\u00b3l van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1534861430344,
+      "content": "Lehet megl\u00c3\u00a1togatom majd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1534861424292,
+      "content": "Szeg\u00c3\u00a9ny",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1534861421653,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1534861247810,
+      "content": "Es lehet nem lehet otthon hagyni egyedul",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1534861240469,
+      "content": "Mert vera eleg foscsikul van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1534861232834,
+      "content": "En meg nem tudom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1534861229788,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1534861224752,
+      "content": "V\u00c3\u00a9gig",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1534860800913,
+      "content": "Mikor?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1534860787010,
+      "content": "Igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1534860622379,
+      "content": "Te mesz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1534860620010,
+      "content": "Nem tudom meg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1534851213451,
+      "content": "Sz\u00c3\u00adnre j\u00c3\u00b6tt\u00c3\u00b6k?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1534851207433,
+      "content": "Draga baratom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1534849268434,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1526845571777,
+      "content": "https://youtu.be/VYOjWnS4cMY",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=VYOjWnS4cMY&feature=youtu.be"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1526845567460,
+      "content": "Ez meg a troy barns szama",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1526845516317,
+      "content": "https://youtu.be/t7OYkSgmM-w",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=t7OYkSgmM-w&feature=youtu.be"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1526666161918,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1498305220393,
+      "content": "En vagyok, es kuldtem kepet Gergorol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1498303656229,
+      "content": "ki ez a jokep\u00c5\u00b1 fiatalemb\u00c3\u00b6r",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1498303634319,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/19457526_10209346084792652_155104834_o_10209346084792652.jpg",
+          "creation_timestamp": 1498303633
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1498303631891,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/18641920_10209346084752651_652242301_o_10209346084752651.jpg",
+          "creation_timestamp": 1498303630
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1492356231988,
+      "content": "Shabbikam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472213690951,
+      "content": "Okok majd este",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472213576863,
+      "content": "Meg megyek napozni szueba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472213570700,
+      "content": "De majd kesobb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472213570012,
+      "content": "Okes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472213440860,
+      "content": "Akkor majd lehet elugrunk hozzadhoz ha andinis leert?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472212023938,
+      "content": "Van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472212022215,
+      "content": "Szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472211520463,
+      "content": "Van cigid?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472211517012,
+      "content": "Szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472067663501,
+      "content": "de j\u00c3\u00b3 nektek \u00c3\u00adgy :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472067661106,
+      "content": "hogy kis buzik vagytok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472067657398,
+      "content": "tudom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472067182118,
+      "content": "Olyan mocskos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472067165286,
+      "content": "Csaba a sz\u00c3\u00a0dat szereti",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472067135062,
+      "content": "Pont",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472067124837,
+      "content": "Ellipszolonnos jvel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472067107647,
+      "content": "Bandi im\u00c3\u00a1dja a lyukad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472066989422,
+      "content": "Bocsi ez bandi volt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472066946524,
+      "content": "Hiszek neked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472066936250,
+      "content": "De itt lenn\u00c3\u00a9l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066916803,
+      "content": "ha nem lenn\u00c3\u00a9k beteg mint a picsa?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066912823,
+      "content": "szerinted nem lenn\u00c3\u00a9k m\u00c3\u00a1r ma is ott?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066908362,
+      "content": "hetijegyem van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066904126,
+      "content": "nem hazudok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066893557,
+      "content": "a kett\u00c5\u0091 nem ugyanaz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472066893061,
+      "content": "Ne hazudolj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066891050,
+      "content": "beteg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066890273,
+      "content": "nem tata",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472066882364,
+      "content": "Tata",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066875675,
+      "content": "ma este is el\u00c3\u00a9g fosul voltam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066871165,
+      "content": "meg vagyok is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066869379,
+      "content": "mert el\u00c3\u00a9g betegecske voltam :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066865255,
+      "content": "\u00c3\u00a9n viszont nem nagyon fogok inni :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066858324,
+      "content": "sim\u00c3\u00a1n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066854957,
+      "content": ":D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066852825,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472066852426,
+      "content": "Tudod hogy im\u00c3\u00a1dlak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472066828907,
+      "content": "Mmszar twlefon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472066810072,
+      "content": "Nyaln\u00c3\u00a1n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472066804011,
+      "content": "Tiszt\u00c3\u00a1ra  yakn\u00c3\u00a1n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066772516,
+      "content": "\u00c3\u00bcgyes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066771257,
+      "content": ": )",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472066761552,
+      "content": "Bybandi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472066756210,
+      "content": "Im\u00c3\u00a1dom a picsalyukad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066746341,
+      "content": "es nem akarok visszaesni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066738918,
+      "content": "ma is eg\u00c3\u00a9sz nap gyogyszreztem magam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066734983,
+      "content": "meg m\u00c3\u00a9g vagyok is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066713089,
+      "content": "sz\u00c3\u00b3val csak \u00c3\u00b3vatosan fogom nyomni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066698691,
+      "content": "el\u00c3\u00a9gg\u00c3\u00a9 beteg voltam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066696578,
+      "content": "b\u00c3\u00a1r \u00c3\u00a9n csak holnap megyek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1472066688445,
+      "content": "OK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1472060665246,
+      "content": "Bal\u00c3\u00a1zs majd fussunk \u00c3\u00bcssze ha kinn vagytok tild\u00c3\u00a1\u00c3\u00a9kkal meg andi anik\u00c3\u00b3 levi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1470760584256,
+      "content": "70 269 9003",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1470760556455,
+      "content": "uh mi a sz\u00c3\u00a1mod :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1470760536116,
+      "content": "ja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1470760533616,
+      "content": "most j\u00c3\u00b3 ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1470760526267,
+      "content": "h\u00c3\u00a1t h\u00c3\u00advj\u00c3\u00a1l fel :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1470760520446,
+      "content": "\u00c5\u0091\u00c5\u0091\u00c5\u0091\u00c5\u0091",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1470760519459,
+      "content": "szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1470760301108,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1470760300857,
+      "content": "ill harmadik k\u00c3\u00a9rd\u00c3\u00a9s : akarod a fent eml\u00c3\u00adtett k\u00c3\u00a9t k\u00c3\u00a9rd\u00c3\u00a9st ink\u00c3\u00a1bb telefonon elmes\u00c3\u00a9lni, mert akkor felhivlak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1470760269675,
+      "content": "illetve hogy holnap lesz egy szakmai elbesz\u00c3\u00a9lget\u00c3\u00a9sem valakivel aki a JAVA-val kapcsolatosan fog besz\u00c3\u00a9lgetni velem, szerinted ut\u00c3\u00a1naolvassak valaminek vagy hagyjam magam menni a flowwal ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1470760220482,
+      "content": "megp\u00c3\u00a1ly\u00c3\u00a1ztam a szegedi epamba a junior javas pozici\u00c3\u00b3t, \u00c3\u00a9s a v\u00c3\u00a9lem\u00c3\u00a9nyedre lenn\u00c3\u00a9k kiv\u00c3\u00a1ncsi, hogy szerinted a besorol\u00c3\u00a1sn\u00c3\u00a1l a tot\u00c3\u00a1l junior pozt  p\u00c3\u00a1ly\u00c3\u00a1zzam vagy 2 \u00c3\u00a9v php backenddel es\u00c3\u00a9lyes egy kicsit feljebb menni ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1470760167738,
+      "content": "teh\u00c3\u00a1t v\u00c3\u00a9geredm\u00c3\u00a9nyig maradjon k\u00c3\u00b6zt\u00c3\u00bcnk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1470760155859,
+      "content": "bizalmas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1470760148863,
+      "content": "Mondd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1470760147546,
+      "content": "Ja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1470759996526,
+      "content": "k\u00c3\u00a9rd\u00c3\u00a9sem lene",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1470759993370,
+      "content": "itt vagy ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1470759991631,
+      "content": "szia Bazs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1459089688102,
+      "photos": [
+        {
+          "uri": "messages/inbox/BalazsSandorMracsko__FGytKYYPA/photos/12443335_10206009538784987_2031823224_o_10206009538784987.jpg",
+          "creation_timestamp": 1459089685
+        }
+      ],
+      "type": "Generic",
+      "ip": "5.187.156.201"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1455711405763,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1455708324321,
+      "content": "lenyult\u00c3\u00a1k a stilusunk :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1455701747284,
+      "content": "r\u00c3\u00a9gi sz\u00c3\u00a9p id\u00c5\u0091k eml\u00c3\u00a9k\u00c3\u00a9re :D\nhttps://www.youtube.com/watch?v=qqpcPEa2PV0",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=qqpcPEa2PV0"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1452242933239,
+      "content": ":(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1452239206447,
+      "content": "Nem tervezunk most menni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1452239193813,
+      "content": "Aniekkal soka",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1452239187498,
+      "content": "Nem tudom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1452176321878,
+      "content": "mikor mentek megint pingpongozni ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1452176316460,
+      "content": "Bal\u00c3\u00a1\u00c3\u00a1\u00c3\u00a1zs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449279341756,
+      "content": "2 h\u00c3\u00b3napig",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449279334029,
+      "content": "xi ker",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1449263542967,
+      "content": "Mikortol es meddi es hol leszel?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1449263535251,
+      "content": "Helyes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Balazs Sandor Mracsko",
+      "timestamp_ms": 1449263533638,
+      "content": "Hehhheee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449247152901,
+      "content": "ugyhogy p\u00c3\u00b6r\u00c3\u00b6ghet\u00c3\u00bcnk majd valamit, ha kondi\u00c3\u00b3rarended megengedi :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449247137165,
+      "content": "amig megl\u00c3\u00a1tom hogy szeretem e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449247133241,
+      "content": "pr\u00c3\u00b3baid\u00c5\u0091szakra",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449247130802,
+      "content": "k\u00c3\u00a9pzeld pesti leszek megint",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1449247122452,
+      "content": "szevasz haver",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1323714982213,
+      "content": "te munkam\u00c3\u00a1ni\u00c3\u00a1s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1323714978821,
+      "content": "telefon\u00c3\u00a1l\u00c3\u00b3dsz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1323714972688,
+      "content": "szerbusz Bal\u00c3\u00a1zsk\u00c3\u00a1m",
+      "type": "Generic"
+    }
+  ],
+  "title": "Balazs Sandor Mracsko",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/BalazsSandorMracsko__FGytKYYPA"
+}

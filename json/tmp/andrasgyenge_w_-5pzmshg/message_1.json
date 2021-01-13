@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Andras Gyenge"
+    },
+    {
+      "name": "Vida Csaba"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1523515019411,
+      "content": "https://m.facebook.com/story.php?story_fbid=10211684830343729&id=1456410120",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=8s5D4BcCghs"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1523514989274,
+      "content": "Szeretn\u00c3\u00a9m figyelmedbe aj\u00c3\u00a1nlani leg\u00c3\u00bajabb versem",
+      "type": "Generic"
+    }
+  ],
+  "title": "Andras Gyenge",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AndrasGyenge_w_-5Pzmshg"
+}

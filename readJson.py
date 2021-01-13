@@ -12,14 +12,15 @@ import logging
 #2021-01-09
 
 # CONSTANTS AND PATHS _____START
-pathToFolders = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail\\buzaspatrik_b9xc2ct-zq\\'
-GEN_HTML = "generated_html"
-ABC_FOLDER = "ABC_NAME_TO_DATE"
-SORTED_BY_YEAR = "sorted_by_year"
-SORTED_BY_MONTH = "sorted_by_month"
+#pathToFolders = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail\\buzaspatrik_b9xc2ct-zq\\' #abs path in case needed for copying
+FOLDER_GEN_HTML = "generated_html"
+FOLDER_ABC = "ABC_NAME_TO_DATE"
+FOLDER_JSON = "json"
+FOLDER_BIG_FILES = "BIG_HTML_FILES"
+FOLDER_LOG = "log"
+initFoldersList = [FOLDER_JSON, FOLDER_GEN_HTML, FOLDER_ABC, FOLDER_LOG]
+
 STRING_VIDA_CSABA = 'Vida Csaba'
-BIG_FILES = "big_HTML_files"
-pathToJsons = 'd:\\_code\\python\\messenger_parser\\json\\'
 #mypath2 = 'c:\\Users\\abasc\\Documents\\_csaba\\_MYFINALBK_MATERIAL_20201124\\emailezesek\\fb_uzik_jso\\fbextracted\messages\inbox\\'
 #mypath = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail'
 #mypath2 = 'D:\\_code\\python\\messenger_parser\\'
@@ -28,7 +29,7 @@ pathToJsons = 'd:\\_code\\python\\messenger_parser\\json\\'
 def prepareFolders():
     logging.info("===============STARTING TO PREPARE FOLDERS ============")
     current_dir = os.getcwd()
-    genHtmlDir = current_dir + '\\' + GEN_HTML
+    genHtmlDir = current_dir + '\\' + FOLDER_GEN_HTML
     logDir = current_dir + '\\' + "log"
     if not os.path.exists(genHtmlDir):
         os.makedirs(genHtmlDir)
@@ -40,7 +41,7 @@ def prepareFolders():
         logging.info(logDir + " created.")
     else:
         logging.info(logDir + " already exists.")
-    bigFiles = genHtmlDir + '\\' + BIG_FILES
+    bigFiles = genHtmlDir + '\\' + FOLDER_BIG_FILES
     if not os.path.exists(bigFiles):
         os.makedirs(bigFiles)
         logging.info(bigFiles + " created.")
@@ -76,7 +77,7 @@ def prepareFolders():
 
 def getGenHtmlFolderPath():
     current_dir = os.getcwd()
-    genHtmlDir = current_dir + '\\' + GEN_HTML
+    genHtmlDir = current_dir + '\\' + FOLDER_GEN_HTML
     return genHtmlDir
 
 
@@ -91,7 +92,7 @@ def deleteEmptyFolders():
     if not os.path.exists(genHtmlDir):
         logging.info(genHtmlDir + " does not exist. Please run prepareFolders() first, and then the program. Returning.")
         return 0
-    folders = list(os.walk(GEN_HTML))
+    folders = list(os.walk(FOLDER_GEN_HTML))
 
     for folder in folders:
         #print(folder)
@@ -732,7 +733,7 @@ def processJson(jsonFile):
 
 def getBigHtmlFilesPath():
     current_dir = os.getcwd()
-    bigHtmlFilesPath = current_dir + '\\' + GEN_HTML + '\\' + BIG_FILES
+    bigHtmlFilesPath = current_dir + '\\' + FOLDER_GEN_HTML + '\\' + FOLDER_BIG_FILES
     return bigHtmlFilesPath
 
 
@@ -861,7 +862,7 @@ def createAbcFile(abcDaysFile, person):
     lastName = person.split()[-1]
     letter = lastName[0].capitalize()
     genPath = getGenHtmlFolderPath()
-    abcPath = genPath + '\\' + ABC_FOLDER
+    abcPath = genPath + '\\' + FOLDER_ABC
     if not os.path.exists(abcPath):
         os.mkdir(abcPath)
     letterPath = abcPath + '\\' + letter
@@ -928,7 +929,8 @@ def createSumTxtFileFromJsonFromFolder(folderPath, fileCounter, doneFiles):
 
             ret = createClearJson(file, htmlFileName, abcDaysFile)
             print(ret)
-            exit()
+            print("szar")
+            #exit()
             abcDaysFile.extend()
             print(abcDaysFile)
             doneFiles.append(file)
@@ -986,11 +988,11 @@ def processFolder(folderName):
     #prepareFolders()
     print("Folders successfully created.")
     print("Starting to process folder: " + folderName)
-    dirsToProcess = os.listdir(pathToJsons)
+    dirsToProcess = os.listdir(FOLDER_JSON)
     print("Number of folders : " + str(len(dirsToProcess)))
     print("looking in dirs : " + str(dirsToProcess))
     for dir in dirsToProcess:
-        actualPath = pathToJsons + '\\' + dir
+        actualPath = FOLDER_JSON + '\\' + dir
         if os.path.exists(actualPath):
             print(actualPath + " exists")
             filesToProcess = os.listdir(actualPath)
@@ -1011,11 +1013,17 @@ def processFolder(folderName):
 
 # STARTING PROGRAM HERE
 #processFolder(pathToJsons)
-#pathToFolders = 'c:\\Users\\abasc\\Documents\\_csaba\\_MYFINALBK_MATERIAL_20201124\\emailezesek\\fb_uzik_jso\\fbextracted\messages\inbox\\'
-#pathToFolders = 'D:\\_code\\python\\messenger_parser\\json'
-pathToFolders = 'D:\\_code\\readJson\\messenger_parser\\json'
-#pathToFolders = 'C:\\Users\\abasc\\OneDrive\\Desktop\\tempfbtoGmail-20201113T210235Z-001\\tempfbtoGmail'
-#pathToFolders = 'D:\\_code\\python\\messenger_parser\\'
+
+def initFolders(initFoldersList):
+    for foldername in initFoldersList:
+        if not os.path.exists(foldername):
+            os.mkdir(foldername)
+            logging.info("Creating folder ( initFolder()) : " + foldername)
+        else:
+            logging.info("Creating folder ( initFolder()) : " + foldername + " not neccessary. It already exists.")
+
+
+initFolders(initFoldersList) # generated_html, log, json, abc
 startingTime = time.time()
 now = datetime.now()
 dt_string = now.strftime("%Y%m%d_%Hh%Mm%Ss")
@@ -1023,7 +1031,7 @@ loggingFileName = "logfile_" + dt_string + ".log"
 #f= open(loggingFileName,"x")
 #f.close()
 logging.basicConfig(filename="log\\" + loggingFileName, encoding='utf-8', level=logging.DEBUG)
-onlyDirs = os.listdir(pathToFolders)
+onlyDirs = os.listdir(FOLDER_JSON)
 logging.info("looking in dirs : " + str(onlyDirs))
 counter = 0
 fileCounter = 0
@@ -1157,14 +1165,14 @@ if os.path.exists(doneFile):
     pass
 else:
     with open(doneFile, "w", encoding="utf-8") as doneF:
-        if doneF.
-        for line in doneF.readlines():
-            doneFiles.append(line)
+        if len(doneFiles) > 0 :
+            for line in doneF.readlines():
+                doneFiles.append(line)
 
 for folder in onlyDirs:
     genHtmlFolder = getGenHtmlFolderPath()
     logging.info("Start processing " + folder)
-    folderPath = pathToFolders + '\\' + folder
+    folderPath = FOLDER_JSON + '\\' + folder
     logging.info("Path to this folder "  + folderPath)
     filesOrFoldersInFolder = os.listdir(folderPath)
     logging.info("Files in: " + folderPath)

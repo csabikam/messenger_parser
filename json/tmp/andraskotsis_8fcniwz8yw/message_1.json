@@ -1,0 +1,4865 @@
+{
+  "participants": [
+    {
+      "name": "Andr\u00c3\u00a1s Kotsis"
+    },
+    {
+      "name": "Vida Csaba"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1565794636195,
+      "content": "ok\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794547252,
+      "content": "besz\u00c3\u00a9lj\u00c3\u00bcnk ut\u00c3\u00a1na ha l\u00c3\u00a1tta !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1565794526805,
+      "content": "rendben k\u00c3\u00b6sz\u00c3\u00b6n\u00c3\u00b6m, de ha v\u00c3\u00a9letlen ilyen t\u00c3\u00b6bb \u00c3\u00a9vvel k\u00c3\u00a9s\u00c5\u0091bbi id\u00c5\u0091pontot k\u00c3\u00adn\u00c3\u00a1l, akkor az\u00c3\u00a9rt visszat\u00c3\u00a9r\u00c3\u00bcnk a szeptember eleji verzi\u00c3\u00b3ra ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794266783,
+      "content": "az\u00c3\u00a9rt is merem aj\u00c3\u00a1lni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794260157,
+      "content": "neki burkoltam az ilyen munk\u00c3\u00a1it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794250902,
+      "content": "\u00c3\u00a9n is dolgoztam neki 5 \u00c3\u00a9vet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794234498,
+      "content": "szerintem vele kezdj !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794226239,
+      "content": "meg mire istv\u00c3\u00a1nnal egyezked\u00c3\u00bcnk id\u00c5\u0091be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794213510,
+      "content": "nagyon el vagyok havazva \u00c3\u00a9n is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794206217,
+      "content": "mert \u00c5\u0091 szerintem hamarabb oda \u00c3\u00a9r",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794198983,
+      "content": "igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1565794192849,
+      "content": "akkor el\u00c5\u0091bb megn\u00c3\u00a9zem mit mond \u00c5\u0091",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794188932,
+      "content": "sz\u00c3\u00a9p napot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794184482,
+      "content": "oksa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1565794177877,
+      "content": "k\u00c3\u00b6sz\u00c3\u00b6n\u00c3\u00b6m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794176192,
+      "content": "norm\u00c3\u00a1lis \u00c3\u00a9s nagyon kreat\u00c3\u00adv ha ilyesmir\u00c5\u0091l van sz\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794152146,
+      "content": "h\u00c3\u00advatkozz r\u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794147199,
+      "content": "06 30 945 86 74",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794128651,
+      "content": "Szab\u00c3\u00b3 P\u00c3\u00a9ter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794123608,
+      "content": "persze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794117871,
+      "content": "t\u00c3\u00b6bb ilyet l\u00c3\u00a1tott m\u00c3\u00a1r",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1565794110929,
+      "content": "rendben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794110441,
+      "content": "n\u00c3\u00a9zze meg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794107347,
+      "content": "besz\u00c3\u00a9lj vele",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794103986,
+      "content": "szerintem ami el\u00c5\u0091tt neki fogunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1565794099641,
+      "content": "oh, \u00c3\u00a9s meg tudod adni az el\u00c3\u00a9rhet\u00c5\u0091s\u00c3\u00a9g\u00c3\u00a9t ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794094466,
+      "content": "van vizes \u00c3\u00a9s burkol\u00c3\u00b3ja is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794084708,
+      "content": "van egy ismer\u00c5\u0091s\u00c3\u00b6m aki kimondottan ilyesmivel foglalkozik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1565794072064,
+      "content": "szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1565794065016,
+      "content": "hello",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513673644935,
+      "content": "j\u00c3\u00b3 munk\u00c3\u00a1t pesten, majd m\u00c3\u00a1skor akkor konzult\u00c3\u00a1lok veled egy\u00c3\u00a9b \u00c3\u00bcgyben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513673631055,
+      "content": "k\u00c3\u00b6sz\u00c3\u00b6n\u00c3\u00b6m sz\u00c3\u00a9pen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513673628478,
+      "content": "szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513664229546,
+      "content": "sz\u00c3\u00a9p napot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513664225958,
+      "content": "a v\u00c3\u00adzes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513664223159,
+      "content": "06 30 523 48 65",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513664207292,
+      "content": "zsiga s\u00c3\u00a1ndor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513664201153,
+      "content": "pestre vagyunk vez\u00c3\u00a9nyelve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513664188226,
+      "content": "nem fogok a h\u00c3\u00a9ten oda \u00c3\u00a9rni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513664178589,
+      "content": "szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513606964429,
+      "content": "Okes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513606436177,
+      "content": "h\u00c3\u00advlak ha arra vagyok \u00c3\u00a9s r\u00c3\u00a1 n\u00c3\u00a9zek\u00c3\u00ba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513600747760,
+      "content": "Raerek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513600744786,
+      "content": "Amikor neked alkalmas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513599840207,
+      "content": "holnap hogy vagy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513599829162,
+      "content": "ne",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513599153817,
+      "content": "Vegyek tart\u00c3\u00a1lyt?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513599139929,
+      "content": "Koszi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513599132262,
+      "content": "Oke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513598292604,
+      "content": "az \u00c3\u00bcnnepek alatt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513598246056,
+      "content": "ne legyen gondod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513598239276,
+      "content": "mert lehet seg\u00c3\u00adtek \u00c3\u00a9s meg csin\u00c3\u00a1lom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513598229815,
+      "content": "hogy vagy holnap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513598169959,
+      "content": "picit el vitte az ital",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513598160259,
+      "content": "nem sz\u00c3\u00advesen aj\u00c3\u00a1nlan\u00c3\u00a1m a Sanyit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513594226019,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/25530661_10210820214448872_1346258168_o_10210820214448872.jpg",
+          "creation_timestamp": 1513594225
+        }
+      ],
+      "type": "Generic",
+      "ip": "89.204.153.5"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513594223507,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/25530622_10210820214088863_1596886688_o_10210820214088863.jpg",
+          "creation_timestamp": 1513594222
+        }
+      ],
+      "type": "Generic",
+      "ip": "89.204.153.5"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513594221032,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/25520720_10210820214008861_697687154_o_10210820214008861.jpg",
+          "creation_timestamp": 1513594220
+        }
+      ],
+      "type": "Generic",
+      "ip": "89.204.153.5"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513594217374,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/25552584_10210820213208841_491148577_o_10210820213208841.jpg",
+          "creation_timestamp": 1513594216
+        }
+      ],
+      "type": "Generic",
+      "ip": "89.204.153.5"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513594214903,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/25520912_10210820213008836_1145418914_o_10210820213008836.jpg",
+          "creation_timestamp": 1513594214
+        }
+      ],
+      "type": "Generic",
+      "ip": "89.204.153.5"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513594100947,
+      "content": "Ezveletlen volt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513594088035,
+      "content": "Andr\u00c3\u00a1s nem fogadta a videochatedet.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513594083092,
+      "content": "Bel\u00c3\u00bclr\u00c5\u0091l is?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513593582116,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513592653138,
+      "content": "Otthonr\u00c3\u00b3l kuldok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513592637598,
+      "content": "El van havazva a sunyi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513592623845,
+      "content": "Kuldj egy kepet a tartalyrol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513592588370,
+      "content": "Gondolom tartalycsere",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513592582753,
+      "content": "Folyik a wc folyton",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1513592565853,
+      "content": "Mit akarsz csinalni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513579995729,
+      "content": "El b\u00c3\u00adrn\u00c3\u00a1d nekem k\u00c3\u00bcldeni k\u00c3\u00a9rlek  a v\u00c3\u00adzszerelo bar\u00c3\u00a1tod sz\u00c3\u00a1m\u00c3\u00a1t?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1513579965219,
+      "content": "Szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479708913005,
+      "content": "de minden meg oldhat\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479708905789,
+      "content": "eszem nincs mit szeretn\u00c3\u00a9l a hely\u00c3\u00a9re",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479708892764,
+      "content": "vagy padl\u00c3\u00b3lap r\u00c3\u00a1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479708884898,
+      "content": "esetleg s\u00c3\u00adkba betonozni?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479708871768,
+      "content": "mert parkett\u00c3\u00a1t potolni \u00c3\u00adgy nem lehet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479708853116,
+      "content": "na az az \u00c3\u00a9rdekesebb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479708843707,
+      "content": "a padl\u00c3\u00b3t?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479708838612,
+      "content": "mert \u00c3\u00a1ram l\u00c3\u00a1tom van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479708830155,
+      "content": "szerintem 40.000 k\u00c3\u00b6rny\u00c3\u00a9ke att\u00c3\u00b3l f\u00c3\u00bcgg hogy mi van a falban \u00c3\u00a9s hogy lehet jav\u00c3\u00adtani",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479708780131,
+      "content": "meg ha j\u00c3\u00b3l eml\u00c3\u00a9kszem k\u00c3\u00a9ne egy k\u00c3\u00a1va is a szoba fel\u00c5\u0091l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479708708536,
+      "content": "a falat csak s\u00c3\u00adkba lehet jav\u00c3\u00adtani",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479708681315,
+      "content": "a t\u00c3\u00b6rmel\u00c3\u00a9k szem\u00c3\u00a9ttelep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479708666525,
+      "content": "igaz\u00c3\u00a1b\u00c3\u00b3l a fal \u00c3\u00a9s a mennyezet jav\u00c3\u00adt\u00c3\u00a1s a neccesebb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1479667632562,
+      "content": "Tormeleket el kene vinni vhova",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1479666604812,
+      "content": "Van festekem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1479666597633,
+      "content": "Fal gondolom egyenes meg sima lenne",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1479666576288,
+      "content": "Hat. Helyere barmi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479662613004,
+      "content": "hova ker\u00c3\u00bcl a t\u00c3\u00b6rmel\u00c3\u00a9k?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479662583827,
+      "content": "mi lesz a plafonnal ha ki szedj\u00c3\u00bck?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479662476167,
+      "content": "mennyire legyen vissza jav\u00c3\u00adtva a fal?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479662460661,
+      "content": "mivel potolod a parkett\u00c3\u00a1t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1479662441240,
+      "content": "mit akarunk a hely\u00c3\u00a9re ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1479654809196,
+      "content": "Ami csak eltakaro funkciot lat el",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1479654798170,
+      "content": "Ha emlekszel meg akkor a halofulke kis vekony fala",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1479654779512,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/15151257_10207716563699543_1954130680_n_10207716563699543.jpg",
+          "creation_timestamp": 1479654778
+        }
+      ],
+      "type": "Generic",
+      "ip": "2001:4c4c:2220:aa00:bdd9:149e:9d92:1030"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1479654778201,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/15135596_10207716563339534_1642518876_n_10207716563339534.jpg",
+          "creation_timestamp": 1479654776
+        }
+      ],
+      "type": "Generic",
+      "ip": "2001:4c4c:2220:aa00:bdd9:149e:9d92:1030"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1479654759190,
+      "content": "Hogy mennyibe lenne kiverni egy falat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1479654738565,
+      "content": "Tudsz nekem \u00c3\u00a1rat becs\u00c3\u00bclni arra",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1479654725701,
+      "content": "Lenne egy kerdesem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1479654719505,
+      "content": "SziA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1458151075519,
+      "content": "https://www.facebook.com/imre.fodi",
+      "share": {
+        "link": "https://www.facebook.com/imre.fodi"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1458047113661,
+      "content": "vagy ha nem v\u00c3\u00a1ltozott a sz\u00c3\u00a1ma meg a szem\u00c3\u00a9lye, akkor feltekerem a csetel\u00c3\u00a9st az elej\u00c3\u00a9re",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1458047104466,
+      "content": "addig elk\u00c3\u00a9rn\u00c3\u00a9m a szupervillanyszerel\u00c5\u0091d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1458047100198,
+      "content": "ok\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1458039896834,
+      "content": "de lacsetti em\u00c5\u0091ke napra k\u00c3\u00a9sz az \u00c3\u00a1llaptommr\u00c3\u00b3l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1458039873914,
+      "content": "ha meg vagyok jelentkezem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1458039864030,
+      "content": "de nem vagy el feledve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1458039847180,
+      "content": "ha isten kir\u00c3\u00a1ly \u00c3\u00bagy akarja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1458039832140,
+      "content": "\u00c3\u00a1prilis 01 lesz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1458039811569,
+      "content": "nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1458039809893,
+      "content": "szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1458033204882,
+      "content": "megvolt a m\u00c3\u00bct\u00c3\u00a9ted \u00c3\u00a9s jobban vagy ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1458033199509,
+      "content": "szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827401238,
+      "content": "sziaszia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827396054,
+      "content": "rendben !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827382533,
+      "content": "nagyon j\u00c3\u00b3, h\u00c3\u00a1t k\u00c3\u00b6sz\u00c3\u00b6n\u00c3\u00b6m az eddigieket, hivlak majd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827347227,
+      "content": "toj\u00c3\u00a1sh\u00c3\u00a9ly sz\u00c3\u00adnek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827340070,
+      "content": "valami olyasmi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827334225,
+      "content": "bizony",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827333239,
+      "content": "b\u00c3\u00a9zs vagy ilyesmi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827325203,
+      "content": "a l\u00c3\u00a9nyeg nekem hogy feh\u00c3\u00a9rhez k\u00c3\u00b6zeli sz\u00c3\u00adn legyen, hogy vil\u00c3\u00a1gosodjon a lak\u00c3\u00a1s t\u00c5\u0091le",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827309265,
+      "content": "nekem az is megold\u00c3\u00a1s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827305675,
+      "content": "kir\u00c3\u00a1ly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827294896,
+      "content": "\u00c3\u00bagy van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827286920,
+      "content": "jobb min\u00c3\u00b6s\u00c3\u00a9g ugyanaz az \u00c3\u00a1ron",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827286652,
+      "content": "vagy elviszlek \u00c3\u00a9s egy\u00c3\u00bctt megvessz\u00c3\u00bck a sok szart ami kell hozz\u00c3\u00a1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827276873,
+      "content": "ink\u00c3\u00a1bb OBY mint praktiker",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827260457,
+      "content": "hogy \u00c3\u00a1ld\u00c3\u00a1sod add",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827258254,
+      "content": "felhivlak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827257197,
+      "content": "ok\u00c3\u00a9s amiel\u00c5\u0091tt megveszem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827246465,
+      "content": "csak tudni kell  am\u00c3\u00a9retet a nm sz\u00c3\u00a1mol\u00c3\u00a1shoz a hullad\u00c3\u00a9kl miatt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827237699,
+      "content": "rendben akkor ezen intervallum k\u00c3\u00b6z\u00c3\u00b6tt n\u00c3\u00a9zel\u00c5\u0091d\u00c3\u00b6k",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827228529,
+      "content": "az is lehet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827218856,
+      "content": "25x25 \u00c3\u00b6s m\u00c3\u00a9g ok\u00c3\u00a9s ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827218657,
+      "content": "igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827213614,
+      "content": "ugye 20x20asat mondt\u00c3\u00a1l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827202692,
+      "content": "obi, praktiker ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827200246,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827199417,
+      "content": "hol n\u00c3\u00a9zzek karcmentes csemp\u00c3\u00a9t :",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827196965,
+      "content": "ok\u00c3\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827191957,
+      "content": "h\u00c3\u00a1t akkor egyel\u00c5\u0091re ennyi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827186752,
+      "content": "rendben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827183908,
+      "content": "term\u00c3\u00a9szetesen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827168556,
+      "content": "hogy mindent egybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827163538,
+      "content": "ezt majd egybe akarom k\u00c3\u00b6b\u00c3\u00b6 azzal amikor te j\u00c3\u00b6ssz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827157014,
+      "content": "k\u00c3\u00b6szi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827054470,
+      "content": "majd \u00c3\u00b6ssze hozlak vele",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827049304,
+      "content": "\u00c3\u00a9s szinte ak\u00c3\u00a1r mikor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827041229,
+      "content": "vannak emberei",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827036381,
+      "content": "nagyon j\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827032714,
+      "content": "persze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827028603,
+      "content": "meg a l\u00c3\u00a1mpavezet\u00c3\u00a9ket ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827021446,
+      "content": "akkor \u00c5\u0091 egyben le birn\u00c3\u00a1 nyomni ezt is meg akapcsol\u00c3\u00b3kat is ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827017852,
+      "content": "csak \"rugalmasabb\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827009267,
+      "content": "\u00c5\u0091 is villanyszeerel\u00c5\u0091",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451827005090,
+      "content": "nagyon j\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451827000676,
+      "content": "aki meg csin\u00c3\u00a1lja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451826995608,
+      "content": "olyan ismer\u00c5\u0091s\u00c5\u0091m is van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451826981149,
+      "content": "hanem kint csapja le a biztosit\u00c3\u00a9k ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451826973481,
+      "content": "persze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451826972429,
+      "content": "akkor ne a lak\u00c3\u00a1sban gyulladjon fel ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451826966770,
+      "content": "hogy ha m\u00c3\u00a9gse birja a h\u00c3\u00a1l\u00c3\u00b3zat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451826962137,
+      "content": "er\u00c5\u0091sebbre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451826959464,
+      "content": "de szted az lehet hogy n\u00c3\u00a1lam kicser\u00c3\u00a9li a k\u00c3\u00a1belt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451826943769,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451826934444,
+      "content": "elvesztem az adminisztr\u00c3\u00a1ci\u00c3\u00b3 labirintus\u00c3\u00a1ba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451826926842,
+      "content": "m\u00c3\u00a1r lemondtam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451826922694,
+      "content": "arr\u00c3\u00b3l hogy ujrak\u00c3\u00a1belezz\u00c3\u00a9k az eg\u00c3\u00a9sz h\u00c3\u00a1zat miattam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451826906598,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451826899711,
+      "content": "mert m\u00c3\u00a9g mindig nincs villanykapcsol\u00c3\u00b3m meg l\u00c3\u00a1mpa felszerelve, csak a k\u00c3\u00a1bel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451826887180,
+      "content": "meg majd lehet be kell izzitani a villanyszerel\u00c5\u0091 haverod is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451826829551,
+      "content": "rendben !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451826812814,
+      "content": "ok\u00c3\u00a9s, akkor majd hivlak ha szegeden leszek \u00c3\u00a9s ha m\u00c3\u00a9g tdusz j\u00c3\u00a1rni a t\u00c3\u00a9rded miatt, akkor feln\u00c3\u00a9zel \u00c3\u00a9s megdumcsizzuk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451826764205,
+      "content": "\u00c3\u00bagy lesz !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451826742813,
+      "content": "ahogy akarod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451826736471,
+      "content": "nekem mindegy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451824782668,
+      "content": "a butorokkal teljesen megvagyok el\u00c3\u00a9gedve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451824775172,
+      "content": "\u00c3\u00a9rtem, de sztem sosem fogom r\u00c3\u00a1sz\u00c3\u00a1nni magam egy butorcser\u00c3\u00a9re",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451806635924,
+      "content": "de majd l\u00c3\u00a1tod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451806630075,
+      "content": "\u00c3\u00a9s akkor t\u00c3\u00a9nyleg norm\u00c3\u00a1lis lenne",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451806618438,
+      "content": "addig  am\u00c3\u00adg r\u00c3\u00a1 nem sz\u00c3\u00a1nod magad a cser\u00c3\u00a9re",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451806553600,
+      "content": "\u00c3\u00a9s vissza rakn\u00c3\u00a1m a r\u00c3\u00a9gi butort",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451806539314,
+      "content": "ki lapozn\u00c3\u00a1m az eg\u00c3\u00a9sz alj\u00c3\u00a1t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451806528439,
+      "content": "sz\u00c3\u00b3val \u00c3\u00a9n ki venn\u00c3\u00a9m a b\u00c3\u00batort",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451806515153,
+      "content": "\u00c3\u00a9rdekes lesz ha a mostani van k\u00c3\u00b6rbe rakva",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451806489681,
+      "content": "h\u00c3\u00a1\u00c3\u00a1t...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451806483476,
+      "content": "mert ha egyszer r\u00c3\u00a1 sz\u00c3\u00a1mod magad egy butor cser\u00c3\u00a9re",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451806468901,
+      "content": "de \u00c3\u00a9n a helyedben az eg\u00c3\u00a9sz konyh\u00c3\u00a1t ki lapozn\u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451806452890,
+      "content": "persze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451770497019,
+      "content": "felhivlak amikor szegeden leszek janu\u00c3\u00a1r v\u00c3\u00a9ge fel\u00c3\u00a9, ok ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451770483474,
+      "content": "ok ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451770482664,
+      "content": "hogy mi mennyi hogy lenne",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451770479765,
+      "content": "\u00c3\u00a1tj\u00c3\u00b6ssz \u00c3\u00a9s \u00c3\u00a1tr\u00c3\u00a1gjuk m\u00c3\u00a9gegyszer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451770475656,
+      "content": "akkor amikor szegeden leszek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451770471365,
+      "content": "k\u00c3\u00b6szi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451752759822,
+      "files": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/files/Nevtelen1_930568483687488.odt",
+          "creation_timestamp": 1451752757
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751874155,
+      "content": "\u00c3\u00a9s ha csin\u00c3\u00a1ljuk legyen norm\u00c3\u00a1lis !!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751861052,
+      "content": "mert a zom\u00c3\u00a1nc kopik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751854835,
+      "content": "mindenk\u00c3\u00a9ppen csak fagy\u00c3\u00a1ll\u00c3\u00b3 lapot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751604916,
+      "content": "sz\u00c3\u00adnre ami tetszik neked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751519882,
+      "content": "\u00c3\u00a9s nagyon nagyon sok a vesztes\u00c3\u00a9g",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751478944,
+      "content": "but\u00c3\u00a1t mutat a nagy lap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751470245,
+      "content": "\u00c3\u00a9n 20x20 k\u00c3\u00b6r\u00c3\u00bclit rakn\u00c3\u00a9k mert nagyon kicsik a ter\u00c3\u00bcletek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751448491,
+      "content": "milyen lapot akarsz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751439199,
+      "content": "miel\u00c5\u0091tt neki kezd\u00c3\u00bcnk el megyek \u00c3\u00a1t besz\u00c3\u00a9lni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751385042,
+      "content": "nem igaz\u00c3\u00a1n r\u00c3\u00a9szleteztem ki de csak egy ir\u00c3\u00a1ny\u00c3\u00a1r miatt ,hogy te is tudj tervezni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751330261,
+      "content": "mert \u00c3\u00adgy ?!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751324981,
+      "content": "valami kultur\u00c3\u00a1lt kialak\u00c3\u00adt\u00c3\u00a1s a budi bal oldal\u00c3\u00a1n l\u00c3\u00a9v\u00c5\u0091 szenyv\u00c3\u00adz cs\u00c5\u0091 alja k\u00c3\u00b6r\u00c3\u00bcl amire l\u00c3\u00a1bazat rakhat\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751290138,
+      "content": "mert a mozaiklapot sim\u00c3\u00a1n fel  szedi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751249419,
+      "content": "a wc felszed\u00c3\u00a9se annak az alja ki jav\u00c3\u00adt\u00c3\u00a1sa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751223571,
+      "content": "ide egy speci\u00c3\u00a1lis ragaszt\u00c3\u00b3 kell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751204541,
+      "content": "majd l\u00c3\u00a1bazatot rakni de nem csak a r\u00c3\u00a9gi l\u00c3\u00a1bazat hely\u00c3\u00a9re hanem a konyhaszekr\u00c3\u00a9ny elej\u00c3\u00a9nek az alj\u00c3\u00a1ra is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751168943,
+      "content": "ut\u00c3\u00a1na le rakni az alj\u00c3\u00a1t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751154682,
+      "content": "ut\u00c3\u00a1na az eg\u00c3\u00a9sz burkoland\u00c3\u00b3 fel\u00c3\u00bcleten ki alak\u00c3\u00adtani a k\u00c3\u00b6t\u00c3\u00b6h\u00c3\u00addat ez a padlopondoz\u00c3\u00a1s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751106113,
+      "content": "j\u00c3\u00b3l l\u00c3\u00a1tszik a f\u00c3\u00a9ny fel\u00c3\u00a9 ford\u00c3\u00adtott k\u00c3\u00a9pen a lino alatti mozaiklap egyenletlens\u00c3\u00a9g",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751077064,
+      "content": "ez gyakorlatiag ragaszt\u00c3\u00b3val val\u00c3\u00b3 szint kiegyenl\u00c3\u00adt\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451751040736,
+      "content": "szintkiegyenl\u00c3\u00adt\u00c3\u00a9st kell v\u00c3\u00a9gezni a burkoland\u00c3\u00b3 fel\u00c3\u00bcleten",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451750906376,
+      "content": "azut\u00c3\u00a1n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451750899686,
+      "content": "annak a hely\u00c3\u00a9t be kell jav\u00c3\u00adtani ez necces mert lehet sz\u00c3\u00a9pen lehet nagy darab malterral j\u00c3\u00b6n le",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451750858316,
+      "content": "le kell szedni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451750853738,
+      "content": "a mos\u00c3\u00b3l\u00c3\u00a1bazatot ami a falon van k\u00c3\u00b6rbe \u00c3\u00a9s a wc ben arr\u00c3\u00b3l in\u00c3\u00adtottad a burkol\u00c3\u00a1st",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451750817173,
+      "content": "teljesen s\u00c3\u00adkba a mostani mozaiklapra van ragasztva",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451750801120,
+      "content": "a linoleumot fel kell szedni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451750790431,
+      "content": "a bont\u00c3\u00a1s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451750786445,
+      "content": "na akkor sorba",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451740475540,
+      "content": "Merete, szine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451740471202,
+      "content": "Jarolap v padlolap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451740465082,
+      "content": "H mi lenne jobb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451740459286,
+      "content": "De nyitott vagyok az otletekre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451738350379,
+      "content": "Milyen bontast?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451738332262,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/12459636_10205462157660801_1687391813_n_10205462157660801.jpg",
+          "creation_timestamp": 1451738331
+        }
+      ],
+      "type": "Generic",
+      "ip": "78.131.111.124"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451738321872,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/12483864_10205462157340793_1218771262_n_10205462157340793.jpg",
+          "creation_timestamp": 1451738320
+        }
+      ],
+      "type": "Generic",
+      "ip": "78.131.111.124"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451738311017,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/12459707_10205462156660776_113776009_n_10205462156660776.jpg",
+          "creation_timestamp": 1451738309
+        }
+      ],
+      "type": "Generic",
+      "ip": "78.131.111.124"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451738296923,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/12476496_10205462156020760_585224614_n_10205462156020760.jpg",
+          "creation_timestamp": 1451738295
+        }
+      ],
+      "type": "Generic",
+      "ip": "78.131.111.124"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451738285377,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/12459730_10205462155820755_204942099_n_10205462155820755.jpg",
+          "creation_timestamp": 1451738284
+        }
+      ],
+      "type": "Generic",
+      "ip": "78.131.111.124"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451738259227,
+      "content": "Meghallgatom a szakmai tanacsod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451737034929,
+      "content": "mekkora lapot akarsz rakatni (m\u00c3\u00a9rete)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451736924473,
+      "content": "f\u00c3\u00a9nyk\u00c3\u00a9pet tudsz e k\u00c3\u00bcldeni,hogy a bont\u00c3\u00a1st is l\u00c3\u00a1ssam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451736303849,
+      "content": "jelentkezem ha meg vagyok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1451736295819,
+      "content": "rendben !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451736091432,
+      "content": "Majd irsz ha eljutsz odaig :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451736077063,
+      "content": "Sok sikert a t\u00c3\u00a9rdmutettel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451736062496,
+      "content": "Itt a tervrajz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451736051795,
+      "content": "13 nm kb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451736045162,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/12459657_10205462033977709_186068424_n_10205462033977709.jpg",
+          "creation_timestamp": 1451736042
+        }
+      ],
+      "type": "Generic",
+      "ip": "78.131.111.124"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1451736032042,
+      "content": "Szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442821816494,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1442821792758,
+      "content": "kir\u00c3\u00a1ly, akkor majd \u00c5\u0091 inform\u00c3\u00a1l :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442821675093,
+      "content": "k\u00c3\u00b6zvetlen koll\u00c3\u00a9g\u00c3\u00a1m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442821668992,
+      "content": "de vele napi kontaktba vagyok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442821659983,
+      "content": "rendben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1442820964133,
+      "content": "Majd mindig irom hol tart az ugy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1442820953068,
+      "content": "Na most hivtam fel, ma erre jon azt ranez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442254852089,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1442254138920,
+      "content": "Szia meg nem, holnap felhivom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442226343306,
+      "content": "besz\u00c3\u00a9lt\u00c3\u00a9l a villany szerel\u00c5\u0091vel ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442226333973,
+      "content": "hay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442073269599,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1442065943990,
+      "content": "k\u00c3\u00b6szi :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065881907,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065878569,
+      "content": "a WC hez meg gratul\u00c3\u00a1lok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065864026,
+      "content": "majd mondod mit int\u00c3\u00a9ztetek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065832159,
+      "content": "\u00c5\u0091 az uri ember",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065827439,
+      "content": "https://www.facebook.com/imre.fodi",
+      "share": {
+        "link": "https://www.facebook.com/imre.fodi"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065721299,
+      "content": "de el mondja hogyan \u00c3\u00a9s hova lekk menni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065711620,
+      "content": "mert az enged\u00c3\u00a9lyek k\u00c3\u00a9relmek et csak te tudod el int\u00c3\u00a9zni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065692666,
+      "content": "elmondja hogy kell neked \u00c3\u00a9s mit int\u00c3\u00a9zni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065678956,
+      "content": "a v\u00c3\u00a9s\u00c3\u00a9st azt majd \u00c3\u00a9n meg csin\u00c3\u00a1lom neki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065668506,
+      "content": "meg van besz\u00c3\u00a9lve vele ,hogy a szak munk\u00c3\u00a1t \u00c5\u0091 csin\u00c3\u00a1lja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065653409,
+      "content": "tud r\u00c3\u00b3la",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065650733,
+      "content": "mond ,hogy \u00c3\u00a9n adtam a sz\u00c3\u00a1m\u00c3\u00a1t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1442065640521,
+      "content": "k\u00c3\u00b6szi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065639816,
+      "content": "most falunapon van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1442065638282,
+      "content": "ok\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065633537,
+      "content": "szerintem h\u00c3\u00a9tf\u00c5\u0091n 8 ut\u00c3\u00a1n h\u00c3\u00advhat\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065622480,
+      "content": "06 30 433 39 97",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065596874,
+      "content": "F\u00c5\u0091di Imre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065589535,
+      "content": "B terv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442065586620,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1442063707142,
+      "content": "mondjuk olyan is lett, de els\u00c5\u0091re nem olyan sz\u00c3\u00a9ls\u00c5\u0091s\u00c3\u00a9gesen fostos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1442063695004,
+      "content": "amugy k\u00c3\u00a9pzeld kicsemp\u00c3\u00a9ztem magam a v\u00c3\u00a9c\u00c3\u00a9t :D",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442063676079,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1442060466364,
+      "content": "legyen a B terv, mert aki kint volt n\u00c3\u00a1lam az azt mondta hogy kv\u00c3\u00a1zi lehetetlen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442049160552,
+      "content": "Es utana van papirja is hogy meg szerelheti a villanyt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442049133274,
+      "content": "Aki szinten ert hozza ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442049120360,
+      "content": "De ha nem van B terv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442049106332,
+      "content": "Pap janos ha jol emlekszem mindent el magyaraz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1442049080133,
+      "content": "Az a szerelo aki kinn volt nalad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1442047655122,
+      "content": "akkor szivesen meghallgatom \u00c3\u00a9s elinditom a folyamatot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1442047648545,
+      "content": "hogy legyen itt er\u00c5\u0091sebb \u00c3\u00a1ram",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1442047642703,
+      "content": "hogy mit kell tenni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1442047640974,
+      "content": "szia, ha gondolod \u00c3\u00a9s r\u00c3\u00a1\u00c3\u00a9rsz vagy  a bar\u00c3\u00a1tod r\u00c3\u00a1\u00c3\u00a9r valamikor aki el birja magyar\u00c3\u00a1zni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1440903238722,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1440872797858,
+      "content": "akkor szivesen megp\u00c3\u00a1ly\u00c3\u00a1zom vagy megpr\u00c3\u00b3b\u00c3\u00a1lom elint\u00c3\u00a9zni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1440872790414,
+      "content": "ha t\u00c3\u00a9lleg nem ker\u00c3\u00bcl semmibe a lak\u00c3\u00a1sig",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1440872783974,
+      "content": "rednben, k9\u00c3\u00b6sz\u00c3\u00b6n\u00c3\u00b6m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1440862314389,
+      "content": "sz\u00c3\u00a9p napot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1440862311572,
+      "content": "ha seg\u00c3\u00adts\u00c3\u00a9g kell sz\u00c3\u00b3lj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1440862296273,
+      "content": "eggyenl\u00c5\u0091re ez a lehet\u00c5\u0091s\u00c3\u00a9gek t\u00c3\u00a1rh\u00c3\u00a1za !!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1440862282442,
+      "content": "az neked a villany\u00c3\u00b3r\u00c3\u00a1ig nem ker\u00c3\u00bcl semmibe csak ki kell j\u00c3\u00a1rni de elmagyar\u00c3\u00a1z mindent sz\u00c3\u00a9pen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1440862253829,
+      "content": "ha szeretn\u00c3\u00a9k er\u00c5\u0091sebb \u00c3\u00a1ramot akkor az \u00c3\u00a1lltala elmondottak alapj\u00c3\u00a1n a D\u00c3\u0089M\u00c3\u0081SZ-n\u00c3\u00a1l neked kell kezdem\u00c3\u00a9nyezni az er\u00c5\u0091sebb D\u00c3\u0089M\u00c3\u0081SZ vezet\u00c3\u00a9k beh\u00c3\u00baz\u00c3\u00a1s\u00c3\u00a1t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1440862203579,
+      "content": "besz\u00c3\u00a9lt\u00c3\u00bcnk avval a villanyszerel\u00c5\u0091vel aki kinn volt \u00c3\u00a9s sz\u00c3\u00a9pen el mondott neked mindent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1440862179207,
+      "content": "na sz\u00c3\u00b3val...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1440777667510,
+      "sticker": {
+        "uri": "messages/stickers_used/851586_126361977548599_392107290_n_126361974215266.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1440772866096,
+      "content": "uhogy le kellett mondanom a h\u00c3\u00a1lozatb\u00c5\u0091vit\u00c3\u00a9st",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1440772858184,
+      "content": "azt mondta hogy nem lehets\u00c3\u00a9ges  a b\u00c5\u0091vit\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1440772850970,
+      "content": "elj\u00c3\u00b6tt megn\u00c3\u00a9zte",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1440772848315,
+      "content": "k\u00c3\u00b6sz\u00c3\u00b6n\u00c3\u00b6m sz\u00c3\u00a9pen a telefonsz\u00c3\u00a1mot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1440772842869,
+      "content": "szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1440769220294,
+      "content": "villany szerel\u00c5\u0091 ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1440769208287,
+      "content": "hay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1440524741078,
+      "content": "nekem is \u00c5\u0091 csin\u00c3\u00a1lja a h\u00c3\u00a1z villany szerel\u00c3\u00a9s\u00c3\u00a9t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1440524728106,
+      "content": "ha holnap napk\u00c3\u00b6zben r\u00c3\u00a1m cs\u00c3\u00b6r\u00c3\u00b6gsz 8 ut\u00c3\u00a1n oda tudom afni a nev\u00c3\u00a9t \u00c3\u00a9s hogy kire h\u00c3\u00advatkozunk kit\u00c5\u0091l kaptuk a nevet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1440524695074,
+      "content": "igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1440483841040,
+      "content": "nem ismersz valakit aki kit\u00c3\u00b6ltheti \u00c3\u00a9s hivatalosan is ezt csin\u00c3\u00a1lja ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1440483831109,
+      "content": "megtal\u00c3\u00a1ltam, felhivtam, de azt mondja hogy neki nincs papirja arr\u00c3\u00b3l hogy \u00c5\u0091 ezt hivatalosan csin\u00c3\u00a1lhatja, nem t\u00c3\u00b6ltheti ki a papirt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1440482473073,
+      "content": "meg birn\u00c3\u00a1d adni megint a villanyszerel\u00c5\u0091 sz\u00c3\u00a1m\u00c3\u00a1t ? ki kell t\u00c3\u00b6ltenem valami papirt, amit egy ivllanyszerel\u00c5\u0091 t\u00c3\u00b6lt ki a h\u00c3\u00a1l\u00c3\u00b3zatfejleszt\u00c3\u00a9s el\u00c5\u0091tt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1440482443759,
+      "content": "szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438924800764,
+      "content": "Mit mondjak a villszerelonek?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880935383,
+      "content": "Tudom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880922173,
+      "content": "azt csak te tudhatod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880915018,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880912278,
+      "content": "Buzi vagyok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880911760,
+      "content": "ha v\u00c3\u00a9gzek 1 \u00c3\u00b3r\u00c3\u00a1val el\u00c5\u0091tte h\u00c3\u00advlak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880907049,
+      "content": "Bocs h komplikalom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880899577,
+      "content": "Koszi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880893905,
+      "content": "Okes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880888344,
+      "content": "hogy haladjunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880883296,
+      "content": "ahoz viszek aklatr\u00c3\u00a9szt a dolgoz\u00c3\u00b3b\u00c3\u00b3l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880861788,
+      "content": "reggel megyek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880858716,
+      "content": "ok\u00c3\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880856756,
+      "content": "csempe meg 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880852459,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880848980,
+      "content": "20 a csampa msg 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880848744,
+      "content": "Vaghatsz rajta savot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880841700,
+      "content": "a legfels\u00c5\u0091 csempe f\u00c3\u00b6l\u00c3\u00a9 10 cm rel fel rakom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880831949,
+      "content": "Nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880821384,
+      "content": "akkor az a lap amin ki j\u00c3\u00b6nmost nem fog l\u00c3\u00a1tszani a t\u00c3\u00bck\u00c3\u00b6r miatt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880818766,
+      "content": "Koszi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880801299,
+      "content": "ahogy \u00c3\u00a9rzed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880795410,
+      "content": "Vagod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880792817,
+      "content": "Zsiraf vagyok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880788943,
+      "content": "Csak pont szemmagassagba vN most",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880783345,
+      "content": "ok\u00c3\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880777754,
+      "content": "Vagy 30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880762353,
+      "content": "az utols\u00c3\u00b3 sor csempe felet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880761466,
+      "content": "Mint most",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880754904,
+      "content": "40 centivel feljeb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880744989,
+      "content": "pontosabban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880744860,
+      "content": "A falo. Vhol a csempek felett",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880732416,
+      "content": "Kicsit feljebb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880722920,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880720213,
+      "content": "a l\u00c3\u00a9mpa hol legyel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880714170,
+      "content": "vele besz\u00c3\u00a9lsz a bolyler \u00c3\u00bcgyben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880713823,
+      "content": "Tanai z",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880705212,
+      "content": "az az",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880697946,
+      "content": "Baundi kuldott mar egy szamot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880691126,
+      "content": "aduka meg adta a sz\u00c3\u00a1n\u00c3\u00a1t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880684024,
+      "content": "int\u00c3\u00a9zitek a villany szerel\u00c5\u0091t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438880678408,
+      "content": "H\u00c3\u00a1j",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438880664948,
+      "content": "hay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438449836913,
+      "content": "ok\u00c3\u00a9s\nk\u00c3\u00b6szi a list\u00c3\u00a1t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440421161,
+      "content": "\u00c3\u00a9s ha kezedben a lap ami sz\u00c3\u00b3ba j\u00c3\u00b6het fel h\u00c3\u00advsz \u00c3\u00a9s meg besz\u00c3\u00a9lj\u00c3\u00bck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440399423,
+      "content": "az is k\u00c3\u00b3 azt tessz\u00c3\u00bck te nyakadba veszed a l\u00c3\u00a1bad k\u00c3\u00b6rbe n\u00c3\u00a9zed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440382471,
+      "content": "na sz\u00c3\u00b3val ha nem 20x50 hanem 20x25",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440355445,
+      "content": "ezek a nagyok amit ismerek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440343195,
+      "content": "huh j\u00c3\u00b3 sok van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440311232,
+      "content": "Burkol\u00c3\u00b3lap 2000 Szeged\nDorozsmai \u00c3\u00bat 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440281392,
+      "content": "EMESE F\u00c3\u009cRD\u00c5\u0090SZOBASZALON Szeged\nK\u00c3\u00a1lv\u00c3\u00a1ria sgrt. 104",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440242431,
+      "content": "Mosaico 2003 Szeged, Kossuth Lajos sug\u00c3\u00a1r\u00c3\u00bat 72",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440197327,
+      "content": "Renok Szeged\nBajai \u00c3\u00bat 1 ze a vadasparkos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440159771,
+      "content": "ez a r\u00c3\u00a1d\u00c3\u00b3 hely\u00c3\u00a9n van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440147609,
+      "content": "D\u00c3\u00b3m Csempe\u00c3\u00a1ruh\u00c3\u00a1z Szeged\nMagyar u. 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440127199,
+      "content": "szine mindegy !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440118617,
+      "content": "vettem azt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440116217,
+      "content": "csak feh\u00c3\u00a9r",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440114979,
+      "content": "ja piros \u00c3\u00a9k nem volt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440102592,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440097455,
+      "content": "ha k\u00c3\u00a9sz az eg\u00c3\u00a9sz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440082097,
+      "content": "hogy fizesselek ki ? amikor k\u00c3\u00a9sz, vagy fele el\u00c5\u0091re fele ut\u00c3\u00a1na ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440061230,
+      "content": "szivesen hallgatom az \u00c3\u00b6tleteidet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440056342,
+      "content": "ahova szoktam j\u00c3\u00a1rni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440055969,
+      "content": "de de",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440052734,
+      "content": "de sz\u00c3\u00a1moljunk azzal hogy tal\u00c3\u00a1lok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440050131,
+      "content": "ne is irjak hol n\u00c3\u00a9zd ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440039231,
+      "content": "nem egy extra lapok annyira",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440035371,
+      "content": "ha nem tal\u00c3\u00a1lok csemp\u00c3\u00a9t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440031559,
+      "content": "de szerintem tal\u00c3\u00a1lsz valamit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440027542,
+      "content": "nem baj, v\u00c3\u00a1llalom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440024964,
+      "content": "2 m\u00c3\u00a9terig",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438440021792,
+      "content": "h\u00c3\u00bcly\u00c3\u00a9n fog mutatni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440020373,
+      "content": "teljesen felig",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440017020,
+      "content": "fekete feh\u00c3\u00a9rben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440007430,
+      "content": "az elk\u00c3\u00a9sz\u00c3\u00bclhet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438440004281,
+      "content": "de mondom hogy a tuskabin m\u00c3\u00b6g\u00c3\u00b6tti fal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439995930,
+      "content": "rendben, szerzek valamilyen csemp\u00c3\u00a9t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439994685,
+      "content": "neki ahoz kell z\u00c3\u00a1rni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439986946,
+      "content": "azt se tudja be rakni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439980499,
+      "content": "de a kabin cs\u00c3\u00bcszni fog",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439948618,
+      "content": "ha nem, akkor marad a fels\u00c5\u0091 s\u00c3\u00a1v kihagy\u00c3\u00b3s szcen\u00c3\u00a1ri\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439939771,
+      "content": "rendben, lesz valami csempe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439928435,
+      "content": "a zalaker\u00c3\u00a1mia a vadaspark bej\u00c3\u00a1rat\u00c3\u00a1n\u00c3\u00a1l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439898629,
+      "content": "bal oldalon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439886499,
+      "content": "balta a citroen szalon mellet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439874889,
+      "content": "van egy az izabella hidon ahogy m\u00c3\u00a9sz kifel\u00c3\u00a9 pest fel\u00c3\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439856381,
+      "content": "azt is tudod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439852892,
+      "content": "a terrakotta a r\u00c3\u00a9gi maumaxal szembe van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439833826,
+      "content": "csak a neveit nem tudommindnek csak hogy hol van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439815924,
+      "content": "van netem, r\u00c3\u00a1j\u00c3\u00b6v\u00c3\u00b6k, kikeresem, levad\u00c3\u00a1szom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439813847,
+      "content": "van a Terrakotta a pesti uton",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439806321,
+      "content": "igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439802346,
+      "content": "tudod merre van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439799069,
+      "content": "van 2 obi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439798252,
+      "content": "a v\u00c3\u00a9c\u00c3\u00a9 kicsit koszos mert leszedtem a tap\u00c3\u00a9t\u00c3\u00a1t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439795851,
+      "content": "na akkor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439776632,
+      "content": "https://www.google.hu/maps/search/obi+%C3%A1ruh%C3%A1z/@46.256542,20.1255023,14z/data=!3m1!4b1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439768960,
+      "content": "ok\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439717421,
+      "content": "aki a B\u00c3\u00a1ndy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439701267,
+      "content": "az meg oda adja Istv\u00c3\u00a1nnak \u00c3\u00a9s be jutunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439693742,
+      "content": "ki az a t\u00c3\u00b3bi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439690256,
+      "content": "mondta b\u00c3\u00a1ndi hogy passzoljam le neki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439685750,
+      "content": "T\u00c3\u00b3bik\u00c3\u00a1nak oda adod ma-holnap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439675116,
+      "content": "valami hasonl\u00c3\u00b3t csak tal\u00c3\u00a1lok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439674527,
+      "content": "ja a kulcs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439670493,
+      "content": "azokat tudod hol nan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439670421,
+      "content": "ok\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439663463,
+      "content": "van 2 obi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439646334,
+      "content": "\u00c3\u00adrok p\u00c3\u00a1r helyet ahol n\u00c3\u00a9zd meg m\u00c3\u00a9g a praktikeren k\u00c3\u00adv\u00c3\u00bcl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439629493,
+      "content": "nyakadba veszed a l\u00c3\u00a1bad \u00c3\u00a9s meg n\u00c3\u00a9zz\u00c3\u00bck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439626911,
+      "content": "ok\u00c3\u00a9s h\u00c3\u00a9tf\u00c5\u0091n futok m\u00c3\u00a9g egy k\u00c3\u00b6rt valami hasonl\u00c3\u00b3\u00c3\u00a9rt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439617742,
+      "content": "ezer bolt szegeden",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439607472,
+      "content": "ha 20 x 50 z m\u00c3\u00a1sikn\u00c3\u00a1l is 20 x 50",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439597799,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439588615,
+      "content": "a csempe csal\u00c3\u00a1d le van szarva",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439573991,
+      "content": "na v\u00c3\u00a1rj kicsit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439567869,
+      "content": "akkor senki nem tud haladni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439550377,
+      "content": "hu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439539176,
+      "content": "aug 12re",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439534324,
+      "content": "mer tmikorra ig\u00c3\u00a9rn\u00c3\u00a9k?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439532660,
+      "content": "ez egy csempecsal\u00c3\u00a1d, m\u00c3\u00a1shol nem tal\u00c3\u00a1ltam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439522469,
+      "content": "m\u00c3\u00a1shol n\u00c3\u00a9zted ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439504802,
+      "content": "nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439474923,
+      "content": "teh\u00c3\u00a1t le se rendelted ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439450516,
+      "content": "m\u00c3\u00a1rmint a mozaikost m\u00c3\u00a9g nem birtam megrendelni csak ha lesz nekik rakt\u00c3\u00a1ron",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439436475,
+      "content": "h\u00c3\u00a9tf\u00c5\u0091n hozz\u00c3\u00a1k ki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439431853,
+      "content": "igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439406080,
+      "content": "le is rendelted ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439393551,
+      "content": "hurr\u00c3\u00a1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439384861,
+      "content": "azt ennyi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439382868,
+      "content": "ami ki volt rakva ki\u00c3\u00a1llitott darabnak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439374193,
+      "content": "igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439372610,
+      "content": "semennyi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439371240,
+      "content": "mozaikosb\u00c3\u00b3l ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439366482,
+      "content": "mert mennyi volt rakt\u00c3\u00a1ron ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439352200,
+      "content": "nekem ott is j\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439351717,
+      "content": "az m\u00c3\u00a9g meg oldhat\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439349254,
+      "content": "akkor legyen igy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439343465,
+      "content": "ha csak a leg fels\u00c5\u0091 sor az nem g\u00c3\u00a1z",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439304794,
+      "content": "hogy meg legy\u00c3\u00bcnk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439303380,
+      "content": "hogy lehets\u00c3\u00a9ges hogy a vizesnek kell\u00c5\u0091 falon kiv\u00c3\u00bcl az utols\u00c3\u00b3 fels\u00c5\u0091 s\u00c3\u00a1vot meghagyjuk k\u00c3\u00a9s\u00c5\u0091bbre ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439300604,
+      "content": "m\u00c3\u00a1rmint mi \u00c3\u00bameg van melyik nap medd\u00c3\u00adg kell el jutnunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439289430,
+      "content": "ezt k\u00c3\u00a9rdezem, ez k\u00c3\u00a9rd\u00c3\u00a9s egyel\u00c5\u0091re",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439286504,
+      "content": "hogy mindenki haladjon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439278063,
+      "content": "\u00c3\u00a9s \u00c3\u00bctemterv serint dolgozunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439268028,
+      "content": "mert a vizes se halad ha mi nem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439260522,
+      "content": "\u00c3\u00a9s mikor van meg ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439252443,
+      "content": "igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439251855,
+      "content": "\u00c3\u00a9s leg fel\u00c3\u00bcl a mozaikos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439242643,
+      "content": "3 vil\u00c3\u00a1gos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439239834,
+      "content": "csak hogy haladni tudjatok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439238473,
+      "content": "teh\u00c3\u00a1t 6 s\u00c3\u00b6t\u00c3\u00a9t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439236502,
+      "content": "mozaik n\u00c3\u00a9lk\u00c3\u00bcl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439233380,
+      "content": "ott lehet fekete feh\u00c3\u00a9r",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439228656,
+      "content": "az m\u00c3\u00a9g meg oldhat\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439228582,
+      "content": "kiv\u00c3\u00a9ve a tuskabin m\u00c3\u00b6g\u00c3\u00b6tt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439221821,
+      "content": "igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439218281,
+      "content": "a leges leg fels\u00c5\u0091t ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439211501,
+      "content": "a legtetej\u00c3\u00a9re ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439209324,
+      "content": "\u00c3\u00a9s oda megy majd a mozaik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439203056,
+      "content": "szerintem szerd\u00c3\u00a1n ,cs\u00c3\u00bct\u00c3\u00b6rt\u00c3\u00b6k\u00c3\u00b6n a nagyja fenn van a falon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439201557,
+      "content": "olyan nincs hogy a fels\u00c5\u0091 s\u00c3\u00a1vot kihagyjuk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439175834,
+      "content": "lenntr\u00c5\u0091l fel ig",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439164270,
+      "content": "eg yfalat egybe rakunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438439147329,
+      "content": "na az a neh\u00c3\u00a9z",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439138024,
+      "content": "azt valahogy ki kell tal\u00c3\u00a1lnunk hogy hogy ker\u00c3\u00bclj\u00c3\u00b6n bele a mozaikos s\u00c3\u00a1v",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439123805,
+      "content": "\u00c3\u00a9s akkor tudok venni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439120251,
+      "content": "a mozaikot meg j\u00c3\u00b6v\u00c5\u0091 h\u00c3\u00a9t v\u00c3\u00a9g\u00c3\u00a9n kapnak m\u00c3\u00a9g",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439109483,
+      "content": "s\u00c3\u00b6t\u00c3\u00a9t vil\u00c3\u00a1gos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439094109,
+      "content": "a tuskabinos falon mozaik n\u00c3\u00a9lk\u00c3\u00bcl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439084331,
+      "content": "ha lehets\u00c3\u00a9ges, akkor a k\u00c3\u00b6vetkez\u00c5\u0091k\u00c3\u00a9ppen szeretn\u00c3\u00a9m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439075534,
+      "content": "igy m\u00c3\u00b3dosul a terv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439072206,
+      "content": "megrendeltem a feket\u00c3\u00a9t meg a feh\u00c3\u00a9ret",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439067383,
+      "content": "a mozaikos nincs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439063751,
+      "content": "voltam megvenni a csemp\u00c3\u00a9t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438439056837,
+      "content": "szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438410839049,
+      "content": "Ez nem gond",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438410831799,
+      "content": "De meg oldom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438410822884,
+      "content": "Ki talalom hogy legyen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438409965188,
+      "content": "vagy holnap adok kulcsot \u00c3\u00a9s akkor amikor j\u00c3\u00b6ssz akkor j\u00c3\u00b6ssz \u00c3\u00a9s bej\u00c3\u00b6ssz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438409952952,
+      "content": "ugyhogy vagy el\u00c5\u0091tte vagy ut\u00c3\u00a1na kezdhet\u00c3\u00bcnk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438409943401,
+      "content": "h\u00c3\u00a9tf\u00c5\u0091n f\u00c3\u00a9l 8ra el kell mennem egy fut\u00c3\u00b3edz\u00c3\u00a9sre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438409924052,
+      "content": "szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438358552782,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438356306327,
+      "content": "de j\u00c3\u00b3 a d\u00c3\u00a9lut\u00c3\u00a1n h\u00c3\u00a9tf\u00c5\u0091n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438356297673,
+      "content": "4 ig akkorra j\u00c3\u00b6n a vizes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438356282884,
+      "content": "mi h\u00c3\u00a9tf\u00c5\u0091n csak bontunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438356268600,
+      "content": "r\u00c3\u00a1 fogjuk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438355884519,
+      "content": "Az jo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438355877644,
+      "content": "Hetfo du ra mondtak h kihozzak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438355862547,
+      "content": "Igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355594740,
+      "content": "reggel 8 k\u00c3\u00b6r\u00c3\u00bcl \u00c3\u00a9rkez\u00c3\u00bcnk Pist\u00c3\u00a1val",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355569639,
+      "content": "na neked annyi a feladat ezeket fel var\u00c3\u00a1zsolni a lak\u00c3\u00a1sba h\u00c3\u00a9tf\u00c5\u0091n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355525909,
+      "content": "van e kisz\u00c3\u00a1ll\u00c3\u00adt\u00c3\u00b3d?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355456433,
+      "content": "nem szerencs\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355451529,
+      "content": "a csempe \u00c3\u00a9s a padl\u00c3\u00b3lap a kock\u00c3\u00a1s kiv\u00c3\u00a9tel\u00c3\u00a9vel legyen meg a nm ink\u00c3\u00a1bb t\u00c3\u00b6bb mint kevesebb legyen mert ha van t\u00c3\u00b6r\u00c3\u00b6tt a dobozban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355375865,
+      "content": "sz\u00c3\u00a9les ecset 1 dazab 6-8 cm sz\u00c3\u00a9les",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355287597,
+      "content": "de majd l\u00c3\u00a1tod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355281567,
+      "content": "fug\u00c3\u00a1z\u00c3\u00b3 3 zs\u00c3\u00a1k 5 kg-s szerintem bahamabeige sz\u00c3\u00adn menne a lapokhoz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355216336,
+      "content": "1 sz\u00c3\u00a1l kb 250 cm \u00c3\u00a1lltal\u00c3\u00a1ban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355194135,
+      "content": "m\u00c5\u00b1anyag \u00c3\u00a9lv\u00c3\u00a9d\u00c5\u0091 csemp\u00c3\u00a9hez 2 sz\u00c3\u00a1l szine a csemp\u00c3\u00a9hez igazodjon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355160553,
+      "content": "flexibilis ragaszt\u00c3\u00b3 5 zs\u00c3\u00a1k 25 kg-s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355126782,
+      "content": "padl\u00c3\u00b3kiegyenl\u00c3\u00adt\u00c5\u0091 1 zs\u00c3\u00a1k 25 kg-s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355106200,
+      "content": "foly\u00c3\u00a9kony f\u00c3\u00b3lia 5 kg (vagy liter)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355020362,
+      "content": "m\u00c3\u00a9lyalapoz\u00c3\u00b3 3 liter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438355005470,
+      "content": "piros \u00c3\u00a9k 1 zacsk\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438354998099,
+      "content": "2-es fugakereszt  3 zacsk\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438354974037,
+      "content": "padl\u00c3\u00b3lap 30x30 as 6 nm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438354948283,
+      "content": "ezek mind 50x20 as",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438354934147,
+      "content": "kock\u00c3\u00a1s csempe ez a d\u00c3\u00adsz 2 nm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438354919931,
+      "content": "s\u00c3\u00b6t\u00c3\u00a9t csempe alulra 11 nm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438354907597,
+      "content": "vil\u00c3\u00a1gos csempe fel\u00c3\u00bcre 6 nm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438354888008,
+      "content": "\u00c3\u00a1llj ! na m\u00c3\u00a9g egszer !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438354868347,
+      "content": "vil\u00c3\u00a1gos csempe 11 nm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352707515,
+      "content": "Rendben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352696154,
+      "content": "nem sok\u00c3\u00a1ra ki sz\u00c3\u00a1molom \u00c3\u00a9s k\u00c3\u00bcld\u00c3\u00b6m a list\u00c3\u00a1t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352673072,
+      "content": "oksa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352633053,
+      "content": "Holnap megveszem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352627287,
+      "content": "Hetfore keretem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352622519,
+      "content": "Rendben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352599685,
+      "content": "meg c\u00c3\u00adg\u00c3\u00b6l\u00c3\u00bcnk lefel\u00c3\u00a9 mindent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352595801,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352590212,
+      "content": "pistivel z\u00c3\u00b6rg\u00c3\u00bcnk eg\u00c3\u00a9sz nap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352577596,
+      "content": "Au",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352570488,
+      "content": "nekem nem kellesz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352556654,
+      "content": "Nembaj ha nem leszek ott vegig es elmaszkalok napkozbe ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352531246,
+      "content": "j\u00c3\u00b3lvan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352530775,
+      "content": "Harom vilagos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352522286,
+      "content": "Hetedik disz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352518254,
+      "content": "Akkor hat sor sotet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352511915,
+      "content": "but\u00c3\u00a1t mutat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352504977,
+      "content": "az akkor m\u00c3\u00a1r kicsit magas lesz az ajt\u00c3\u00b3k miatt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352476734,
+      "content": "Ugyanakkorak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352469669,
+      "content": "Igen az is husszor otven",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352461632,
+      "content": "Hetfore keretem akkor ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352458078,
+      "content": "mint a lap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352453991,
+      "content": "a d\u00c3\u00adsz is 50 hosszi ugye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352450201,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352443435,
+      "content": "\u00c3\u00a9s k\u00c3\u00bcld\u00c3\u00b6m  a holnapi beszerz\u00c3\u00a9si list\u00c3\u00a1dat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352431060,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352426374,
+      "content": "kisz\u00c3\u00a1molom melyik szinb\u00c5\u0091l mennyi kell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352416114,
+      "content": "rendbe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352412876,
+      "content": "az \u00c3\u00b6sszesen 200 + a d\u00c3\u00adsz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352408837,
+      "content": "Igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352399556,
+      "content": "\u00c3\u00adgy gondolod ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352365053,
+      "content": "3 sor vil\u00c3\u00a1gos 60 cm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352353616,
+      "content": "Igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352350409,
+      "content": "disz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352341599,
+      "content": "7 sor s\u00c3\u00b6t\u00c3\u00a9t az 140 cm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352251424,
+      "content": "pill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352246534,
+      "content": "Vilagos?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352243055,
+      "content": "Fenti harom vilagos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352234095,
+      "content": "Legyen 7dik sor adisz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352231849,
+      "content": "\u00c3\u00a9s fel\u00c3\u00bcl 2 vagy 3 vil\u00c3\u00a1gos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352217945,
+      "content": "oda a disz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352213303,
+      "content": "7. vagy 8 sor a s\u00c3\u00b6t\u00c3\u00a9t az olyan 140, 160 magas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352209626,
+      "content": "Az 80 centi magas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352199340,
+      "content": "Tehat akkor legyen 4 sorsotet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352176202,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352172200,
+      "content": "ugy \u00c3\u00b6sszesen van 10 sorunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352170729,
+      "content": "Okes legyen egy meter magassagban a disz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352148397,
+      "content": "mutat\u00c3\u00b3sabb !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352135482,
+      "content": "sz\u00c3\u00b3val fektetve legyen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352128504,
+      "content": "\u00c3\u00a9rtem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352128002,
+      "content": "Akkor lehet ket sor sotet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352120352,
+      "content": "\u00c3\u00a9s fel\u00c3\u00bcl 1 sor szint\u00c3\u00a9n 50 magas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352116811,
+      "content": "Mert ha allitva",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352111205,
+      "content": "Fektetve vagy allitva?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352101177,
+      "content": "a disz csik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352092764,
+      "content": "50x3 = ? ez a sot\u00c3\u00a9t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352070771,
+      "content": "nem er\u00c5\u0091ss\u00c3\u00a9g a matek !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352064203,
+      "content": "Nekem van csempevagom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352054177,
+      "content": "Az meg csak eg, meter magas, nem ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352053808,
+      "content": "le egyek meg n\u00c3\u00a9zem a nagy v\u00c3\u00a1g\u00c3\u00b3m itthon van e",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352040408,
+      "content": "ok\u00c3\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438352030595,
+      "content": "Stimmt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352025834,
+      "content": "egy sor vil\u00c3\u00a1gos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352017335,
+      "content": "diszcsik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438352012552,
+      "content": "na sz\u00c3\u00b3val akkor szerintem 3 sor s\u00c3\u00b6t\u00c3\u00a9t",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351997065,
+      "content": "Maradek fent vilagos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351989205,
+      "content": "Egy sor disz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351984742,
+      "content": "Tehat sztem 3 sor sotet alul",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351969188,
+      "content": "Olyan falkozepen legyen egy sor disz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438351931758,
+      "content": "\u00c3\u00a9s fel\u00c3\u00bcl k\u00c3\u00a9t sor vil\u00c3\u00a1gosabb ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438351918263,
+      "content": "majd a d\u00c3\u00adsz sor aminek a magass\u00c3\u00a1ga ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438351898452,
+      "content": "alul s\u00c3\u00b6t\u00c3\u00a9t 20x50 es l\u00c3\u00a9t sor ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438351881267,
+      "content": "akkor a terv",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351836465,
+      "content": "Ahogy mond\u00c3\u00a1d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351830720,
+      "content": "Igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351826431,
+      "content": "De sima kockas csempe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438351818520,
+      "content": "teh\u00c3\u00a1t alul a padl\u00c3\u00b3val harmoniz\u00c3\u00a1l\u00c3\u00b3 s\u00c3\u00b6t\u00c3\u00a9t fel\u00c3\u00bcl vil\u00c3\u00a1gos k\u00c3\u00b6zte a d\u00c3\u00adsz ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351810205,
+      "content": "De amugy nem disz csak disznek veszem mert szep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351787945,
+      "content": "A disz is husszor otven",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438351787560,
+      "content": "megvan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351772394,
+      "content": "Az utso kep 90 fokba forgatva",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438351767282,
+      "content": "a disz milyen magas?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351755102,
+      "content": "Igen mondhatjuk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438351742492,
+      "content": "vizszintesen ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438351734988,
+      "content": "ez egy sor d\u00c3\u00adsz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438351727964,
+      "content": "na sz\u00c3\u00b3val",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351706246,
+      "content": "Es vilagos fenn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351700272,
+      "content": "Kockas csempe a csik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351692568,
+      "content": "Sotet alul",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351687382,
+      "content": "Latsz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351684791,
+      "content": "Amit akepen \nAtsz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351675163,
+      "content": "Igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438351667435,
+      "content": "d\u00c3\u00adsz csik lesz benne hogy d\u00c3\u00b6nt\u00c3\u00b6tt\u00c3\u00a9l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351664926,
+      "content": "Akkorjok ezek ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438351649457,
+      "sticker": {
+        "uri": "messages/stickers_used/851549_767334479959628_274486868_n_767334476626295.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351641993,
+      "content": "\u00f0\u009f\u0098\u0087",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351621840,
+      "content": "De nagyon tetszik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438351615370,
+      "content": "20 x 50",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438351396404,
+      "content": "a csempe m\u00c3\u00a9ret\u00c3\u00a9t tudod e nem l\u00c3\u00a1tom rajta?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438351380775,
+      "content": "a padl\u00c3\u00b3lap az l\u00c3\u00a1tom  30x30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438343616563,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/11816005_10204662895919757_1470407362_n_10204662895919757.jpg",
+          "creation_timestamp": 1438343615
+        }
+      ],
+      "type": "Generic",
+      "ip": "92.249.191.54"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438343614728,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/11805733_10204662895759753_191160783_n_10204662895759753.jpg",
+          "creation_timestamp": 1438343613
+        }
+      ],
+      "type": "Generic",
+      "ip": "92.249.191.54"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438343612691,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/11798225_10204662895639750_1046132337_n_10204662895639750.jpg",
+          "creation_timestamp": 1438343611
+        }
+      ],
+      "type": "Generic",
+      "ip": "92.249.191.54"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438343610683,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/11815992_10204662895479746_875114705_n_10204662895479746.jpg",
+          "creation_timestamp": 1438343609
+        }
+      ],
+      "type": "Generic",
+      "ip": "92.249.191.54"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438343608518,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/11791879_10204662895359743_1509397762_n_10204662895359743.jpg",
+          "creation_timestamp": 1438343607
+        }
+      ],
+      "type": "Generic",
+      "ip": "92.249.191.54"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438343591312,
+      "content": "Meg a jarolapot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438343586650,
+      "content": "Kineztem a csempet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438343579962,
+      "content": "Szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438272696511,
+      "content": "Okes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438272155851,
+      "content": "amik a bont\u00c3\u00a1s ut\u00c3\u00a1n der\u00c3\u00bclnek ki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438272144285,
+      "content": "amit a folyamat k\u00c3\u00b6zbe m\u00c3\u00a9g kell arr\u00c3\u00b3l besz\u00c3\u00a9l\u00c3\u00bcnk de azok csak apr\u00c3\u00b3s\u00c3\u00a1gok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438272115035,
+      "content": "vegy\u00c3\u00a9l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438272111306,
+      "content": "azut\u00c3\u00a1n k\u00c3\u00bcld\u00c3\u00b6m a pontos l\u00c3\u00adst\u00c3\u00a1t mit kell vegs\u00c3\u00a9l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438272097653,
+      "content": "\u00c3\u00a9s a m\u00c3\u00a9rete",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438272093994,
+      "content": "a csemp\u00c3\u00a9r\u00c5\u0091l padl\u00c3\u00b3lapr\u00c3\u00b3l  foto",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438272072599,
+      "content": "Okes veszek kabint meg csapot meg csempet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438272067864,
+      "content": "a vizes este 16 ra j\u00c3\u00b6n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438272059018,
+      "content": "szerintem 8 ra megy\u00c3\u00bcnk mert el\u00c5\u0091tt ele adom a kocsim a szerel\u00c3\u00b6h\u00c3\u00b6z",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438272038340,
+      "content": "igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438272027306,
+      "content": "Akkor htfon kezdes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438272018172,
+      "content": "Okes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438268438535,
+      "content": "amit szombaton meg tudsz venni \u00c3\u00a9s ki sz\u00c3\u00a1ll\u00c3\u00adttatni,hogy h\u00c3\u00a9tf\u00c5\u0091re ott legyen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438268408573,
+      "content": "\u00c3\u00a9s k\u00c3\u00bcld\u00c3\u00b6m az anyagsz\u00c3\u00bcks\u00c3\u00a9glete",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438268394613,
+      "content": "a padl\u00c3\u00b3lap\u00c3\u00a9t is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438268386868,
+      "content": "ha ki v\u00c3\u00a1lasztottad a fali csemp\u00c3\u00a9t a m\u00c3\u00a9ret\u00c3\u00a9t l\u00c3\u00bcld \u00c3\u00a1t egy k\u00c3\u00a9ppel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438268353810,
+      "content": "h\u00c3\u00a9tf\u00c5\u0091n el kezdj\u00c3\u00bck a bont\u00c3\u00a1st",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438268334396,
+      "content": "besz\u00c3\u00a9ltem istv\u00c3\u00a1nnal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438265315082,
+      "content": "szia k\u00c3\u00b6szi neked is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438265240372,
+      "content": "sz\u00c3\u00a9p napot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438265236417,
+      "content": "szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438265228873,
+      "content": "t\u00c3\u00b6k\u00c3\u00a9letes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438265216807,
+      "content": "szombaton 9 re megyek ha j\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438265207353,
+      "content": "k\u00c3\u00b6sz\u00c3\u00b6n\u00c3\u00b6m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438265196314,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/11830901_10204658503689954_663335526_n_10204658503689954.jpg",
+          "creation_timestamp": 1438265193
+        }
+      ],
+      "type": "Generic",
+      "ip": "91.82.242.199"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438265193359,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/11793395_10204658503169941_1232536323_n_10204658503169941.jpg",
+          "creation_timestamp": 1438265191
+        }
+      ],
+      "type": "Generic",
+      "ip": "91.82.242.199"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438265189902,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/11798376_10204658502249918_1229752566_n_10204658502249918.jpg",
+          "creation_timestamp": 1438265188
+        }
+      ],
+      "type": "Generic",
+      "ip": "91.82.242.199"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438265187851,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/11830647_10204658501449898_995586736_n_10204658501449898.jpg",
+          "creation_timestamp": 1438265186
+        }
+      ],
+      "type": "Generic",
+      "ip": "91.82.242.199"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438265185828,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/11824262_10204658500529875_1745953082_n_10204658500529875.jpg",
+          "creation_timestamp": 1438265184
+        }
+      ],
+      "type": "Generic",
+      "ip": "91.82.242.199"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438265094673,
+      "content": "\u00c3\u00a9s n\u00c3\u00a9zem mi lesz ,mi seg\u00c3\u00a9d anyag kell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438265077629,
+      "content": "megk\u00c3\u00b6sz\u00c3\u00b6n\u00c3\u00b6m",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438265071316,
+      "content": "igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438265066033,
+      "content": "a 4 sarok legyen rajta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438265057115,
+      "content": "tudsz k\u00c3\u00bcldeni 4 k\u00c3\u00a9pet a f\u00c3\u00bcrd\u00c5\u0091r\u00c5\u0091l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438265043787,
+      "content": "de szombaton mindent meg besz\u00c3\u00a9l\u00c3\u00bcnk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438265017511,
+      "content": "rendben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438265010487,
+      "content": "add\u00c3\u00adgra minden anyagot haza kell hozatni \u00c3\u00a9s fel vinni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264992694,
+      "content": "ha j\u00c3\u00b3 neki a h\u00c3\u00a9tf\u00c5\u0091 bele fogunk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264982906,
+      "content": "istv\u00c3\u00a1nnal besz\u00c3\u00a9lek \u00c5\u0091 hogy \u00c3\u00a9r r\u00c3\u00a1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264942409,
+      "content": "ok\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264924028,
+      "content": "ezt m\u00c3\u00a9g pontos\u00c3\u00adtjuk de a szerda a leg rosszabb esetbe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264768070,
+      "content": "h\u00c3\u00a9tf\u00c5\u0091n kezd\u00c3\u00a9s ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264763653,
+      "content": "akkor este irok mindent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264742546,
+      "content": "rendben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264658831,
+      "content": "\u00c3\u00a9s egyszerre vessz\u00c3\u00bck meg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264651754,
+      "content": "k\u00c3\u00a9rdezz is r\u00c3\u00a1 neki mennyi kell?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264643063,
+      "content": "az kell majd a vizesnek is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264636652,
+      "content": "wgy gipszz alapu t\u00c3\u00a9gla a tust\u00c3\u00a1lca al\u00c3\u00a1 \u00c3\u00a9s a k\u00c3\u00b6rbe falaz\u00c3\u00a1s\u00c3\u00a1hoz kell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264610880,
+      "content": "ytong ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264566850,
+      "content": "\u00c3\u00a9rdemes az obiba is be n\u00c3\u00a9zni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264552445,
+      "content": "sz\u00c3\u00b3val mindent egy helyr\u00c5\u0091l el tudsz hozni vagy hozatni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264537643,
+      "content": "mert akkor a ragaszt\u00c3\u00b3 fug\u00c3\u00a1z\u00c3\u00b3 ytong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264512517,
+      "content": "\u00c3\u00a9rdemes egy helyen meg venni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264444136,
+      "content": "\u00c3\u00a9s a vadaspark mellet a zalaker\u00c3\u00a1mia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264430691,
+      "content": "onnan egy k\u00c3\u00b6p\u00c3\u00a9s a Szatm\u00c3\u00a1ri",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264419809,
+      "content": "de ha arra m\u00c3\u00a9sz az Izabella h\u00c3\u00add l\u00c3\u00a1b\u00c3\u00a1n\u00c3\u00a1l a camping mellet van egy csempebolt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264415157,
+      "content": "mosd\u00c3\u00b3kagyl\u00c3\u00b3t vegyek ? ill hol  ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264390645,
+      "content": "a leg jobb min\u00c5\u0091s\u00c3\u00a9g a terrakotta a pesti \u00c3\u00baton",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264369032,
+      "content": "\u00c3\u00a9rdemes t\u00c3\u00b6bbet meg n\u00c3\u00a9zni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264344563,
+      "content": "esetleg aj\u00c3\u00a1ndlod hogy hol vegyek csemp\u00c3\u00a9t ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264336152,
+      "content": "ok\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264325965,
+      "content": "ha meg van a m\u00c3\u00a9ret a d\u00c3\u00adsz csikot darabra ki sz\u00c3\u00a1mom mennyi kell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264307905,
+      "content": "sztorn\u00c3\u00b3ztam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264305470,
+      "content": "ja mindegy, r\u00c3\u00a1j\u00c3\u00b6ttem, hogy h\u00c3\u00bclyes\u00c3\u00a9g a k\u00c3\u00a9rd\u00c3\u00a9sem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264289498,
+      "content": "\u00c3\u00a9s nagyon fel dobja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264288672,
+      "content": "ja t\u00c3\u00a9lleg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264275527,
+      "content": "az j\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264265202,
+      "content": "mint a k\u00c3\u00a9pen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264262256,
+      "content": "vagy ilyesmi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264260739,
+      "content": "h\u00c3\u00a1t sztem lehet egysin\u00c3\u00bc, ha k\u00c3\u00b6z\u00c3\u00a9pen van valami mintacs\u00c3\u00adk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264226356,
+      "content": "igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264222401,
+      "content": "a csemp\u00c3\u00a9ket ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264214714,
+      "content": "egy vagy k\u00c3\u00a9t szinbe szeretn\u00c3\u00a9d a falat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264183102,
+      "content": "eleg\u00c3\u00a1nsabb a kabin ebben a form\u00c3\u00a1ban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264161846,
+      "content": "\u00c3\u00a9s nem a fal\u00c3\u00a9pit\u00c5\u0091s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264157836,
+      "content": "akkor a tuskabinos az es\u00c3\u00a9lyesebb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264122530,
+      "content": "\u00c3\u00a9s azt csin\u00c3\u00a1ljuk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264121806,
+      "content": "tudom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264118210,
+      "content": "csak tudd mit szeretn\u00c3\u00a9l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264111702,
+      "content": "minden !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264105189,
+      "content": "teh\u00c3\u00a1t minden megoldhat\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264051953,
+      "content": "a szerelv\u00c3\u00a9nyt le szerelni le k\u00c3\u00b6tni \u00c3\u00a9n is meg tudom csin\u00c3\u00a1lni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264030819,
+      "content": "nem igaz\u00c3\u00a1n",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264021238,
+      "content": "\u00c3\u00a9n 10 \u00c3\u00a9ve vele dolgozok \u00c3\u00b6ssze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264012681,
+      "content": "de gondolom nem befoly\u00c3\u00a1sol semmit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264007950,
+      "content": "a g\u00c3\u00a1zos azt mondta csak j\u00c3\u00b6v\u00c5\u0091h\u00c3\u00a9ten szerd\u00c3\u00a1n tudja megn\u00c3\u00a9zni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438264007313,
+      "content": "\u00c3\u00bcgyes rugalmas a sanyi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438264000632,
+      "content": "ok\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263989346,
+      "content": "\u00c3\u00a9s oda rakja",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263983752,
+      "content": "neki mutatod hova szeretn\u00c3\u00a9d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263968948,
+      "content": "mert 2 m\u00c3\u00a9teresk\u00c3\u00a9nt meguntam hogy lehajoljak",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263966548,
+      "content": "\u00c3\u00a9s a bek\u00c3\u00b6t\u00c3\u00a9seket",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263961787,
+      "content": "lehet magasabbra mint most van ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263958818,
+      "content": "mert neki a ki\u00c3\u00a1ll\u00c3\u00a1sokat meg kell csin\u00c3\u00a1lni",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263949030,
+      "content": "igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263943035,
+      "content": "azt is hogy hova akarom a csapokat ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263939666,
+      "content": "szerintem a jobb oldali az praktikusabb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263915545,
+      "content": "a tust mutasd meg a vizesnek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263900345,
+      "content": "ok\u00c3\u00a9s az is j\u00c3\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263894340,
+      "content": "vagy p\u00c3\u00a9ntek este vagy szombat reggel el megyek megint",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263893347,
+      "content": "ut\u00c3\u00a1na irok mindent",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263889708,
+      "content": "f\u00c3\u00a9l\u00c3\u00b3ra \u00c3\u00a9s itt a vizesbar\u00c3\u00a1tod",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263872419,
+      "content": "igen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263846474,
+      "content": "ok\u00c3\u00a9s el\u00c5\u0091tte pontositjuk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263828348,
+      "content": "ilyesmi szinvil\u00c3\u00a1g ami a jobboldalin van",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263824197,
+      "photos": [
+        {
+          "uri": "messages/inbox/AndrasKotsis_8fCNiwZ8Yw/photos/11800771_10204658410607627_711861860_o_10204658410607627.jpg",
+          "creation_timestamp": 1438263822
+        }
+      ],
+      "type": "Generic",
+      "ip": "91.82.242.199"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263779874,
+      "content": "\u00c3\u00a9s ami kellhet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263771510,
+      "content": "a ragasztohoz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263767210,
+      "content": "a lapokhoz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263763160,
+      "content": "az j\u00c3\u00b3 mert el\u00c5\u0091tte pontos\u00c3\u00adtjuk a mennyis\u00c3\u00a9get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263723530,
+      "content": "szombaton tervezem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263721357,
+      "content": "de m\u00c3\u00a9g addig kital\u00c3\u00a1lom meg megveszem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263692317,
+      "content": "igen tegnap voltam a boltban",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263681438,
+      "content": "lapokat n\u00c3\u00a9zegetted ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263653186,
+      "content": "kir\u00c3\u00a1y",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263629994,
+      "content": "nem gond !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263628503,
+      "content": "jelzem neki",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263626712,
+      "content": "akkor szeretn\u00c3\u00a9m azt is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263622758,
+      "content": "zst jelezd a vizesnek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263614001,
+      "content": "persze",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263557194,
+      "content": "a csapba nyilhat a cs\u00c3\u00b6ve",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263541148,
+      "content": "konyh\u00c3\u00a1ba van neki hely",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263532663,
+      "content": "nagyon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263529164,
+      "content": "mert ugyse haszn\u00c3\u00a1lom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263525227,
+      "content": "hogy t\u00c3\u00b6bb hely legyen ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263522557,
+      "content": "\u00c3\u00a9s betenni a konyh\u00c3\u00a1ba ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263519469,
+      "content": "mos\u00c3\u00b3g\u00c3\u00a9pet ki lehet kurni a f\u00c3\u00bcrd\u00c5\u0091szob\u00c3\u00a1b\u00c3\u00b3l",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263512917,
+      "content": "k\u00c3\u00a9rd\u00c3\u00a9s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438263430675,
+      "content": "rendben",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263423666,
+      "content": "amugy az \u00c3\u00a1rat elfogadom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263420499,
+      "content": "leirom a v\u00c3\u00a1laszom mindenre",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263416922,
+      "content": "ma este amikor elment a vizes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vida Csaba",
+      "timestamp_ms": 1438263413760,
+      "content": "szia",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andr\u00c3\u00a1s Kotsis",
+      "timestamp_ms": 1438251650877,
+      "content": "szia !\n\nha besz\u00c3\u00a9lt\u00c3\u00a9l a vizessel \u00c3\u00a9s le tisztult mit szeretn\u00c3\u00a9l kabib vagy t\u00c3\u00a1lca\na t\u00c3\u00a1lca akril vagy f\u00c3\u00a9m ?\n\na k\u00c3\u00a9zmosot hova szeretn\u00c3\u00a9d stb\nesetleg mosog\u00c3\u00a9p bek\u00c3\u00b6t\u00c3\u00a9s \u00c3\u00a9s ki\u00c3\u00a1ll\u00c3\u00a1s ?\n\nakkor el kellene d\u00c3\u00b6ntened milyen burkol\u00c3\u00b3 lapot illetve padl\u00c3\u00b3 lapot szeretn\u00c3\u00a9l !!\n\na m\u00c3\u00a9rete a l\u00c3\u00a9nyeges a hullad\u00c3\u00a9k miatt a falra a standart 20x25 \u00c3\u00b6s lapot \u00c3\u00a9rdemes rakni mivel kicsi a t\u00c3\u00a9r \u00c3\u00a9s nem j\u00c3\u00b6n ki nagy lapok okozta t\u00c3\u00a9rhat\u00c3\u00a1s\n\negy vagy t\u00c3\u00b6bb sz\u00c3\u00adn\u00c5\u00b1 burkolatot szeretn\u00c3\u00a9l a falra ?alul s\u00c3\u00b6t\u00c3\u00a9tebb szinben a padlohoz igazod\u00c3\u00b3 fel\u00c3\u00bcl \u00c3\u00a1rnyalatban vagy sz\u00c3\u00adnben elt\u00c3\u00a9r\u00c5\u0091 \n\nlegyen e benne d\u00c3\u00adsz \"bord\u00c3\u00bcr\" sor a k\u00c3\u00a9t elv\u00c3\u00a1laszt\u00c3\u00a9sa k\u00c3\u00b6z\u00c3\u00a9 vagy an\u00c3\u00a9lk\u00c3\u00bcl\n\nezeknek te d\u00c3\u00b6ntd el n\u00c3\u00a9zz ut\u00c3\u00a1na v\u00c3\u00a1laszd ki !\n\nha megvan a m\u00c3\u00a9ret ki sz\u00c3\u00a1molom a pontos mennyis\u00c3\u00a9get de nagyj\u00c3\u00a1b\u00c3\u00b3l 20-21 nm lap kell a falra 6 nm a padl\u00c3\u00b3ra de ezt pontosan ki sz\u00c3\u00a1molom ha meg van a lap m\u00c3\u00a9rete \n\nmert lehet nincs rakt\u00c3\u00a1ron olyan amit szeretn\u00c3\u00a9l rendelni kell\na t\u00c3\u00b6bbi seg\u00c3\u00a9danyaggal nincs gond az szokott lenni rakt\u00c3\u00a1ron \u00c3\u00a9s csak a bont\u00c3\u00a1s ut\u00c3\u00a1n l\u00c3\u00a1tom mire van sz\u00c3\u00bcks\u00c3\u00a9g\n\na munka menet a k\u00c3\u00b6vetkez\u00c5\u0091\n1.bont\u00c3\u00a1s : falr\u00c3\u00b3l csempe le szed\u00c3\u00a9se , lino felszed\u00c3\u00a9s , k\u00c3\u00a1d ki szed\u00c3\u00a9s szerelv\u00c3\u00a9nyek le bont\u00c3\u00a1sa,sitt ,t\u00c3\u00b6rmel\u00c3\u00a9k k\u00c3\u00a1d lehord\u00c3\u00a1sa szem\u00c3\u00a9ttelepre vitele\n\n2:a falfell\u00c3\u00bclet kijav\u00c3\u00adt\u00c3\u00a1sa  szintkiegyenlit\u00c3\u00a9se vakolat jav\u00c3\u00adt\u00c3\u00a1s k\u00c3\u00a1d m\u00c3\u00b6g\u00c3\u00b6tt vakol\u00c3\u00a1s stb\n\n3: fel\u00c3\u00bclet el\u00c5\u0091k\u00c3\u00a9sz\u00c3\u00adt\u00c3\u00a9s: m\u00c3\u00a9lyalapoz\u00c3\u00a1s,fel\u00c3\u00bclet foly\u00c3\u00a9kony foli\u00c3\u00a1z\u00c3\u00a1sa,padl\u00c3\u00b3 szintkiegyenl\u00c3\u00adt\u00c3\u00a9se padloponddal\n\n4 burkol\u00c3\u00a1s kabin vagy t\u00c3\u00a1lca be\u00c3\u00a9p\u00c3\u00adt\u00c3\u00a9se falaz\u00c3\u00a1s\n\na teljes munkad\u00c3\u00adj ha az el\u00c5\u0091re tervezhet\u00c5\u0091 dolgokon fel\u00c3\u00bcl nem jelentkezik m\u00c3\u00a1s feladat  130 000 ft\n\n\nha megvan minden kiv\u00c3\u00a1lasztottad a burkol\u00c3\u00b3 anyagokat \u00c3\u00a9s megfelel az aj\u00c3\u00a1nlat  jelentkezz\n\nkotsis andr\u00c3\u00a1s \n30 426 76 89",
+      "type": "Generic"
+    }
+  ],
+  "title": "Andr\u00c3\u00a1s Kotsis",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AndrasKotsis_8fCNiwZ8Yw"
+}

@@ -18,6 +18,7 @@ FOLDER_ABC = "ABC_NAME_TO_DATE"
 FOLDER_JSON = "json"
 FOLDER_BIG_FILES = "BIG_HTML_FILES"
 FOLDER_LOG = "log"
+FILE_DONEFILE = "doneFile.txt"
 initFoldersList = [FOLDER_JSON, FOLDER_GEN_HTML, FOLDER_ABC, FOLDER_LOG]
 
 STRING_VIDA_CSABA = 'Vida Csaba'
@@ -85,57 +86,6 @@ def getPath(genHtmlDir, folderName):
     foldernameWithPath = genHtmlDir + '\\' + folderName
     return foldernameWithPath
 
-
-def deleteEmptyFolders():
-    current_dir = os.getcwd()
-    genHtmlDir = getGenHtmlFolderPath()
-    if not os.path.exists(genHtmlDir):
-        logging.info(genHtmlDir + " does not exist. Please run prepareFolders() first, and then the program. Returning.")
-        return 0
-    folders = list(os.walk(FOLDER_GEN_HTML))
-
-    for folder in folders:
-        #print(folder)
-        if (not folder[1]) and (not folder[2]):
-            logging.info("Removing " + folder[0])
-            print("Removing " + folder[0])
-            os.rmdir(folder[0])
-        # folder example: ('FOLDER/3', [], ['file'])
-    for folder in folders:
-        print(folder)
-        if (not folder[1]) and (not folder[2]):
-            logging.info("Removing " + folder[0])
-            print("Removing " + folder[0])
-            os.rmdir(folder[0])
-        # folder example: ('FOLDER/3', [], ['file'])
-    for year in range(0, 10):
-        actYear = str(year)
-        actYearPath = genHtmlDir + '\\' + actYear
-        if os.path.getsize(actYearPath):
-            os.rmdir(actYearPath)
-            logging.info(actYearPath + " empty, so deleted.")
-        else:
-            logging.info(actYearPath + " is not empty, looking into it..")
-        for month in range(1, 13):
-            actMonth = str(month)
-            actMonthPath = actYearPath + '\\' + actMonth
-            if os.path.getsize(actMonthPath):
-                os.rmdir(actMonthPath)
-                logging.info(actMonthPath + " empty, so deleted.")
-            else:
-                logging.info(actMonthPath + " is not empty, going into it.")
-            for month in range(1, 32):
-                actDay = str(month)
-                actDayPath = actMonthPath + '\\' + actDay
-                print(actDayPath)
-                if os.path.exists(actDayPath)  and (os.path.getsize(actDayPath) == 0) :
-                    #print(os.path.getsize(actDayPath))
-                    os.rmdir(actDayPath)
-                    logging.info(actDayPath + ' empty, so deleted.')
-                else:
-                    #print(os.path.getsize(actDayPath))
-                    print(actDayPath + ' is not empty.')
-                    logging.info(actDayPath + ' is not empty.')
 def getDateWithTime(timestamp) -> str:
     dt_obj = datetime.fromtimestamp(timestamp / 1000).strftime('%y-%m-%d %H:%M:%S')
     #print(dt_obj)
@@ -928,10 +878,6 @@ def createSumTxtFileFromJsonFromFolder(folderPath, fileCounter, doneFiles):
             print(abcDaysFile)
 
             ret = createClearJson(file, htmlFileName, abcDaysFile)
-            print(ret)
-            print("szar")
-            #exit()
-            abcDaysFile.extend()
             print(abcDaysFile)
             doneFiles.append(file)
             print("Person processed count : " + str(fileCounter))
@@ -939,7 +885,6 @@ def createSumTxtFileFromJsonFromFolder(folderPath, fileCounter, doneFiles):
     print(person)
     if abcDaysFile:
         print(abcDaysFile)
-        exit()
 
     createAbcFile(abcDaysFile, person)
     print("Üzenetek száma: " + str(countMessages))
@@ -979,14 +924,7 @@ def displayMostMessagesDict(messageCountToNameDict):
         print("%s: %s" % (key, messageCountToNameDict[key]))
     print(" ============= END OF LIST OF MessageCount::Name  =================")
 
-
-
-def createTopListLongestConnection():
-    pass
-
 def processFolder(folderName):
-    #prepareFolders()
-    print("Folders successfully created.")
     print("Starting to process folder: " + folderName)
     dirsToProcess = os.listdir(FOLDER_JSON)
     print("Number of folders : " + str(len(dirsToProcess)))
@@ -1025,22 +963,35 @@ def initFolders(initFoldersList):
 
 initFolders(initFoldersList) # generated_html, log, json, abc
 startingTime = time.time()
+
+
+def getDoneFiles():
+    file = FOLDER_GEN_HTML + '\\' +  FILE_DONEFILE
+    doneFilesList = []
+    if os.path.exists(file):
+        with open(file, 'r', encoding="utf-8") as reader:
+            for line in reader.readlines():
+                line = line. rstrip('\n')
+                doneFilesList.append(line)
+    else:
+        return []
+    return doneFilesList
+
+
+filesAlreadyDone = getDoneFiles()
 now = datetime.now()
 dt_string = now.strftime("%Y%m%d_%Hh%Mm%Ss")
 loggingFileName = "logfile_" + dt_string + ".log"
 #f= open(loggingFileName,"x")
 #f.close()
-logging.basicConfig(filename="log\\" + loggingFileName, encoding='utf-8', level=logging.DEBUG)
-onlyDirs = os.listdir(FOLDER_JSON)
-logging.info("looking in dirs : " + str(onlyDirs))
+logging.basicConfig(filename="log" + loggingFileName, encoding='utf-8', level=logging.DEBUG)
+dirsToProcessInJsonFolder = os.listdir(FOLDER_JSON)
+logging.info("looking in dirs : " + str(dirsToProcessInJsonFolder))
 counter = 0
 fileCounter = 0
 quotaToNameDict = {}
 messageCountToNameDict = {}
 diagramDataDict = {}
-if not os.path.exists(getGenHtmlFolderPath()):
-    os.mkdir(getGenHtmlFolderPath())
-
 
 def createDailyFileFromName(person):
     fileName = person + ".day"
@@ -1157,24 +1108,15 @@ def processTxtFilesToDailyFiles(folderPath, person):
                     tempRecentDate = recentDate
                     linesToDayFile.append(line)
 
-
-doneFile = getGenHtmlFolderPath() + '\\' + "doneFile.txt"
-print(doneFile)
-doneFiles = []
-if os.path.exists(doneFile):
-    pass
-else:
-    with open(doneFile, "w", encoding="utf-8") as doneF:
-        if len(doneFiles) > 0 :
-            for line in doneF.readlines():
-                doneFiles.append(line)
-
-for folder in onlyDirs:
-    genHtmlFolder = getGenHtmlFolderPath()
+for folder in dirsToProcessInJsonFolder:
     logging.info("Start processing " + folder)
     folderPath = FOLDER_JSON + '\\' + folder
+    print(folderPath)
+
     logging.info("Path to this folder "  + folderPath)
     filesOrFoldersInFolder = os.listdir(folderPath)
+    print(filesOrFoldersInFolder)
+    exit()
     logging.info("Files in: " + folderPath)
     logging.info(filesOrFoldersInFolder)
     first, last, person, countMessages, fileCounter, alreadyDone, doneFiles = createSumTxtFileFromJsonFromFolder(folderPath, fileCounter, doneFiles)

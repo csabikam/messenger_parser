@@ -27,63 +27,8 @@ STRING_VIDA_CSABA = 'Vida Csaba'
 #mypath2 = 'D:\\_code\\python\\messenger_parser\\'
 # CONSTANTS AND PATHS _____END
 
-def prepareFolders():
-    logging.info("===============STARTING TO PREPARE FOLDERS ============")
-    current_dir = os.getcwd()
-    genHtmlDir = current_dir + '\\' + FOLDER_GEN_HTML
-    logDir = current_dir + '\\' + "log"
-    if not os.path.exists(genHtmlDir):
-        os.makedirs(genHtmlDir)
-        logging.info(genHtmlDir + " created.")
-    else:
-        logging.info(genHtmlDir + " already exists.")
-    if not os.path.exists(logDir):
-        os.makedirs(logDir)
-        logging.info(logDir + " created.")
-    else:
-        logging.info(logDir + " already exists.")
-    bigFiles = genHtmlDir + '\\' + FOLDER_BIG_FILES
-    if not os.path.exists(bigFiles):
-        os.makedirs(bigFiles)
-        logging.info(bigFiles + " created.")
-    else:
-        logging.info(bigFiles + " already exists.")
-    startYear = 2007
-    endYear = 2021
-    for year in range(startYear, endYear):
-        actYear = str(year)
-        actYearPath = genHtmlDir + '\\' + actYear
-        if not os.path.exists(actYearPath):
-            os.makedirs(actYearPath)
-            logging.info(actYearPath + " created.")
-        else:
-            logging.info(actYearPath + " already exists.")
-        for month in range(1,13):
-            actMonth = str(month)
-            actMonthPath = actYearPath + '\\' + actMonth
-            if not os.path.exists(actMonthPath):
-                os.makedirs(actMonthPath)
-                logging.info(actMonthPath + " created.")
-            else:
-                logging.info(actMonthPath + " already exists.")
-            for month in range(1, 32):
-                actDay = str(month)
-                actDayPath = actMonthPath + '\\' + actDay
-                if not os.path.exists(actDayPath):
-                    os.makedirs(actDayPath)
-                    logging.info(actDayPath + ' created.')
-                else:
-                    logging.info(actDayPath + ' already exists.')
-    logging.info("===============ENDING OF PREPARING FOLDERS ============")
-
-def getGenHtmlFolderPath():
-    current_dir = os.getcwd()
-    genHtmlDir = current_dir + '\\' + FOLDER_GEN_HTML
-    return genHtmlDir
-
-
-def getPath(genHtmlDir, folderName):
-    foldernameWithPath = genHtmlDir + '\\' + folderName
+def getPathInGenHtml(folderName):
+    foldernameWithPath = FOLDER_GEN_HTML + '\\' + folderName
     return foldernameWithPath
 
 def getDateWithTime(timestamp) -> str:
@@ -811,8 +756,7 @@ def createAbcFile(abcDaysFile, person):
         return []
     lastName = person.split()[-1]
     letter = lastName[0].capitalize()
-    genPath = getGenHtmlFolderPath()
-    abcPath = genPath + '\\' + FOLDER_ABC
+    abcPath = FOLDER_ABC
     if not os.path.exists(abcPath):
         os.mkdir(abcPath)
     letterPath = abcPath + '\\' + letter
@@ -1001,46 +945,39 @@ def createDailyFileFromName(person):
 
 
 def createDatePath(recentDate):
-    genHtml = getGenHtmlFolderPath()
-    print(recentDate)
     if len(recentDate.split("-")) == 3:
         year = recentDate.split("-")[0]
         month = str(int(recentDate.split("-")[1]))
         day = str(int(recentDate.split("-")[2]))
-        result = genHtml + '\\' + year + '\\' + month + '\\' + day + '\\'
+        result = FOLDER_GEN_HTML + '\\' + year + '\\' + month + '\\' + day + '\\'
         return result
     else:
         return False
 
 def createYearPath(recentDate):
-    genHtml = getGenHtmlFolderPath()
-    print(recentDate)
     if len(recentDate.split("-")) == 3:
         year = recentDate.split("-")[0]
-        result = genHtml + '\\' + year + '\\'
+        result = FOLDER_GEN_HTML + '\\' + year + '\\'
         return result
     else:
         return False
 
 def createMonthPath(recentDate):
-    genHtml = getGenHtmlFolderPath()
-    print(recentDate)
     if len(recentDate.split("-")) == 3:
         year = recentDate.split("-")[0]
         month = str(int(recentDate.split("-")[1]))
-        result = genHtml + '\\' + year + '\\' + month + '\\'
+        result = FOLDER_GEN_HTML + '\\' + year + '\\' + month + '\\'
         return result
     else:
         return False
 
 def createDayPath(recentDate):
-    genHtml = getGenHtmlFolderPath()
     print(recentDate)
     if len(recentDate.split("-")) == 3:
         year = recentDate.split("-")[0]
         month = str(int(recentDate.split("-")[1]))
         day = str(int(recentDate.split("-")[2]))
-        result = genHtml + '\\' + year + '\\' + month + '\\' + day + '\\'
+        result = FOLDER_GEN_HTML + '\\' + year + '\\' + month + '\\' + day + '\\'
         return result
     else:
         return False
@@ -1116,10 +1053,9 @@ for folder in dirsToProcessInJsonFolder:
     logging.info("Path to this folder "  + folderPath)
     filesOrFoldersInFolder = os.listdir(folderPath)
     print(filesOrFoldersInFolder)
-    exit()
     logging.info("Files in: " + folderPath)
     logging.info(filesOrFoldersInFolder)
-    first, last, person, countMessages, fileCounter, alreadyDone, doneFiles = createSumTxtFileFromJsonFromFolder(folderPath, fileCounter, doneFiles)
+    first, last, person, countMessages, fileCounter, alreadyDone, doneFiles = createSumTxtFileFromJsonFromFolder(folderPath, fileCounter, filesAlreadyDone)
     if alreadyDone:
         continue
     processTxtFilesToDailyFiles(folderPath, person)
@@ -1134,7 +1070,7 @@ for folder in dirsToProcessInJsonFolder:
     logging.info(txtFiles)
     print("\n")
 # AFTER PROCESSING ALL FOLDER, PRINT TOP LISTS
-with open(doneFile, "w", encoding="utf-8") as doneF:
+with open(FOLDER_GEN_HTML + '\\n' + "doneFile.txt", "w", encoding="utf-8") as doneF:
     for line in doneFiles:
         doneF.write('%s\n' % line)
 doneF.close()

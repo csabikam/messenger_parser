@@ -1,5 +1,10 @@
 import xmltodict, json
 
+
+def getMsgLine(dateAndTime, name, msg):
+    result = dateAndTime + " " + "[" + name + "]" + " : " +  msg
+    return result
+
 with open('xml\gida88.xml', 'r', encoding="utf-8") as myfile:
     obj = xmltodict.parse(myfile.read())
 print(json.dumps(obj["Log"]["Message"]))
@@ -18,6 +23,7 @@ for msg in msgList:
         text = msg['Text']['#text']
     else:
         text = msg['Text']
-    print(dateAndTime + " " + name + ": " + text )
+    print(getMsgLine(dateAndTime, name, text))
+    break
     print()
     pass

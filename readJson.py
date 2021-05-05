@@ -23,10 +23,11 @@ FOLDER_GEN_HTML = "generated_html"
 FOLDER_ABC = "ABC_NAME_TO_DATE"
 FOLDER_JSON = "c:\\Users\\abasc\\Documents\\_csaba\\my_fb_data_20200823\\messages\\inbox"
 FOLDER_BIG_FILES = "BIG_HTML_FILES"
+FOLDER_PER_NAME_STATS = "perNameStats"
 FOLDER_LOG = "log"
 FILE_DONEFILE = "doneFile.txt"
 XMLS_TO_TXT = "_txt_from_XML"
-initFoldersList = [FOLDER_JSON, FOLDER_GEN_HTML, FOLDER_ABC, FOLDER_LOG]
+initFoldersList = [FOLDER_JSON, FOLDER_GEN_HTML, FOLDER_ABC, FOLDER_LOG, FOLDER_PER_NAME_STATS]
 STRING_VIDA_CSABA = 'Vida Csaba'
 # END OF CONSTANTS
 now = datetime.now()
@@ -210,22 +211,28 @@ def showFilesInFolders(pathToGenerated):
             for chat in x[2]:
                 #print(chat)
                 #print(sumOfAllLines)
-                numOfLines = int((chat.split("_")[1]).split(".")[0])
+                try:
+                    numOfLines = int((chat.split("_")[1]).split(".")[0])
+                    sumOfAllLines = numOfLines + sumOfAllLines
+                except IndexError:
+                    print("Oops!  That was no valid number.  Try again..." + chat)
+
                 #print(numOfLines)
-                sumOfAllLines = numOfLines + sumOfAllLines
+
 
             #print("sum of all: " + str(sumOfAllLines))
-            if int(day.split("\\")[2]) < 10:
-                month = "0" + day.split("\\")[2]
-            else:
-                month = day.split("\\")[2]
+            if len(day.split("\\")) == 4:
+                if int(day.split("\\")[2]) < 10:
+                    month = "0" + day.split("\\")[2]
+                else:
+                    month = day.split("\\")[2]
 
-            if int(day.split("\\")[3]) < 10:
-                thatDay = "0" + day.split("\\")[3]
-            else:
-                thatDay = day.split("\\")[3]
-            date = day.split("\\")[1] + "-" + month + "-" + thatDay
-            dayToCountDict[date] = sumOfAllLines
+                if int(day.split("\\")[3]) < 10:
+                    thatDay = "0" + day.split("\\")[3]
+                else:
+                    thatDay = day.split("\\")[3]
+                date = day.split("\\")[1] + "-" + month + "-" + thatDay
+                dayToCountDict[date] = sumOfAllLines
             #print(day)
             #print(str(x))
             #print(len(x[2]))
@@ -299,18 +306,73 @@ def orderedPersonList(orderedPersonList):
     pass
 
 
-def buildPersonFiles(param):
-    pass
+def getProperDateFormat(filesPerDay):
+    if int(filesPerDay.split("\\")[2]) < 10:
+        month =  "0" + filesPerDay.split("\\")[2]
+    else:
+        month = filesPerDay.split("\\")[2]
+
+    if int(filesPerDay.split("\\")[3]) < 10:
+        day =  "0" + filesPerDay.split("\\")[3]
+    else:
+        day = filesPerDay.split("\\")[3]
 
 
-buildPersonFiles(getListOfAllPersonsInDayFiles(FOLDER_GEN_HTML))
+    result = filesPerDay.split("\\")[1] + "-" + month + "-" + day
+    return result
 
 
+def buildOnePersonFile(person):
+    dayToCountList = []
+    print("person is " + person)
+    sum = 0
+    for filesPerDay in os.walk(FOLDER_GEN_HTML):
+        files = filesPerDay[2]
+        for file in files:
+            name = file.split("_")[0]
+            if (name == person):
+                thatDate = getProperDateFormat(filesPerDay[0])
+                count = (file.split("_")[1]).split(".")[0]
+                sum = sum + int(count)
+                recentDayToCountDict = {}
+                recentDayToCountDict[thatDate] =  count
+                dayToCountList.append(recentDayToCountDict)
+    fileNameWithPath = FOLDER_PER_NAME_STATS + "\\" + person + "_" + str(sum) + ".stat"
+    print(dayToCountList)
+    with open(fileNameWithPath, "w", encoding="utf-8") as newFile:
+        for record in dayToCountList:
+            key = list(record.keys())[0]
+            newFile.write(key + " : " + record[key])
+            newFile.write("\n")
+    newFile.close()
+
+
+
+def buildPersonFiles(listOfAllThePersons):
+    for person in listOfAllThePersons:
+        print("Building PERSON(DATE:COUNT) file for person : " + person)
+        buildOnePersonFile(person)
 
 
 
 
 listOfAllThePersons = getListOfAllPersonsInDayFiles(FOLDER_GEN_HTML)
+#buildPersonFiles(listOfAllThePersons)
+
+def correctFolderDates():
+    for folder in os.walk(FOLDER_GEN_HTML):
+        if (not(folder[1])  or not(folder[2])) and len(folder[0].split("\\")) > 2:
+            month = folder[0].split("\\")[2]
+            print(folder[0])
+
+
+        if (not (folder[1]) or not (folder[2])) and len(folder[0].split("\\")) > 3:
+            day = folder[0].split("\\")[3]
+            print(folder[0])
+
+
+correctFolderDates()
+
 print(listOfAllThePersons)
 print(len(listOfAllThePersons))
 

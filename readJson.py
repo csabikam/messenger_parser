@@ -1,6 +1,6 @@
 import os
 import random
-import re
+import re as re
 
 import pyhtml as ph
 
@@ -353,28 +353,84 @@ def buildPersonFiles(listOfAllThePersons):
         print("Building PERSON(DATE:COUNT) file for person : " + person)
         buildOnePersonFile(person)
 
+samplePath = "c:\\Users\\abasc\\Documents\\_csaba\\my_fb_data_20200823\\messages\\inbox\\CarlottaMiranda_eyNgLLttpw\\"
+functions.processTxtFilesToDailyFiles(samplePath)
+
+s = "2010-08-29 20:44:56  hgff hffgf "
+
+x = re.findall(r'\s+(?=\d{2}(?:\d{2})?-\d{1,2}-\d{1,2}\b)', s)
+if re.match(r'^\d{4}-\d?\d-\d?\d (?:2[0-3]|[01]?[0-9]):[0-5]?[0-9]:[0-5]?[0-9]', s):
+    print("yes")
+print(x)
+exit()
+# format 2010-08-29 20:44:56
 
 
-
-listOfAllThePersons = getListOfAllPersonsInDayFiles(FOLDER_GEN_HTML)
+#listOfAllThePersons = getListOfAllPersonsInDayFiles(FOLDER_GEN_HTML)
 #buildPersonFiles(listOfAllThePersons)
 
 def correctFolderDates():
+    count = 0
+    datesArray = os.walk(FOLDER_GEN_HTML)
+    for d in datesArray:
+        if (not (d[2])):  # correcting the one numbered months
+            if len(d[0].split("\\")) == 2:
+                months = d[1]
+                for month in months:
+                    recentPath = os.getcwd()
+                    if len(month) == 1:
+                        oldPath = d[0]
+                        os.chdir(oldPath)
+                        os.rename(month, "0" + month)
+                        os.chdir(recentPath)
+
+            if len(d[0].split("\\")) == 3:
+                days = d[1]
+                for day in days:
+                    recentPath = os.getcwd()
+                    if len(day) == 1:
+                        oldPath = d[0]
+                        os.chdir(oldPath)
+                        os.rename(day, "0" + day)
+                        os.chdir(recentPath)
+
+        # days
+
+
+
+
+
+
+
+    exit()
     for folder in os.walk(FOLDER_GEN_HTML):
-        if (not(folder[1])  or not(folder[2])) and len(folder[0].split("\\")) > 2:
-            month = folder[0].split("\\")[2]
-            print(folder[0])
+        if ((not (folder[1])) or (not (folder[2]))):
+            if len(folder[0].split("\\")) == 2:
+                print(folder)
+                oldPath = folder[0]
+                os.chdir(oldPath)
+                months = folder[1]
+                print(months)
+            #     count += 1
+            #     print(count)
+            #     print(folder[0])
+            #
+            #     parts = oldPath.split("\\")
+            #     print(parts)
+            #     month = parts[2]
+            #     if month and len(month) == 1 and  int(month) < 10:
+            #         newMonth = "0" + month
+            #         oldPath = ("\\").join(parts[0:2])
+            #         print(oldPath)
+            #
+            #         os.rename(month, newMonth)
+            # else:
+            #     pass
 
+#correctFolderDates()
 
-        if (not (folder[1]) or not (folder[2])) and len(folder[0].split("\\")) > 3:
-            day = folder[0].split("\\")[3]
-            print(folder[0])
-
-
-correctFolderDates()
-
-print(listOfAllThePersons)
-print(len(listOfAllThePersons))
+#print(listOfAllThePersons)
+#print(len(listOfAllThePersons))
 
 
 def generateSumHtml():

@@ -298,6 +298,7 @@ def processXml(file):
     #doneFiles.append(file)
 
 def setDoneFiles(doneFiles):
+    return
     if os.path.exists(FILE_DONEFILE):
         with open(FILE_DONEFILE, 'w', encoding="utf-8") as reader:
             for line in doneFiles:
@@ -381,7 +382,8 @@ def processTxtFilesToDailyFiles(folderPath):
             logging.info(str(counter) + ".th file : " + file)
             counter += 1
             for line in reader.readlines():
-                if (line.startswith("200") or line.startswith("201")) and line[4] == '-':
+                # todo here 2021 05 07
+                if re.match(r'^\d{4}-\d?\d-\d?\d (?:2[0-3]|[01]?[0-9]):[0-5]?[0-9]:[0-5]?[0-9]', line):
                     recentDate = line.split()[0]
                     if tempRecentDate == "":
                         tempRecentDate = recentDate
@@ -448,7 +450,7 @@ def processSumFile(nameOfSumFile, dateStat, data):
     return 0
 
 def getDoneFiles():
-    file = FOLDER_GEN_HTML + '\\' + FILE_DONEFILE
+    file = FILE_DONEFILE
     doneFilesList = []
     if os.path.exists(file):
         with open(file, 'r', encoding="utf-8") as reader:
@@ -456,7 +458,7 @@ def getDoneFiles():
                 line = line. rstrip('\n')
                 doneFilesList.append(line)
     else:
-        doneFilePath = FOLDER_GEN_HTML + "\\" + FILE_DONEFILE
+        doneFilePath = FILE_DONEFILE
         with open(doneFilePath, 'w') as fp:
             pass
         return []

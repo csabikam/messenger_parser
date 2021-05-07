@@ -366,17 +366,17 @@ def createDailyFileFromNameWithCount(person, countInString):
 def processTxtFilesToDailyFiles(folderPath):
     filesOrFoldersInFolder = os.listdir(folderPath)
     txtFiles = list(filter(lambda x: (str(x).endswith('.txt')), filesOrFoldersInFolder))
-
     counter = 0
+
     for actualTxt in txtFiles:
         file = folderPath + '\\' + actualTxt
         person = getPersonnameFromTxtFile(actualTxt)
-        fileName = createDailyFileFromName(person)
         if os.path.exists(file):
             print("exists")
         linesToDayFile = []
         tempRecentDate = ""
         fileCounter = 0
+        #print(file)
         with open(file, 'r', encoding="utf-8") as reader:
             logging.info(" ")
             logging.info(str(counter) + ".th file : " + file)
@@ -387,21 +387,22 @@ def processTxtFilesToDailyFiles(folderPath):
                     recentDate = line.split()[0]
                     if tempRecentDate == "":
                         tempRecentDate = recentDate
-                    print(tempRecentDate)
+                    #print(tempRecentDate)
+
                     yearPath = createYearPath(tempRecentDate)
-                    print(yearPath)
+                    #print(yearPath)
                     if not os.path.exists(yearPath):
                         os.mkdir(yearPath)
                         #logging.info("Creating " + yearPath)
                     monthPath = createMonthPath(tempRecentDate)
-                    print(monthPath)
+                    #print(monthPath)
                     if os.path.exists(monthPath):
                         pass
                     else:
                         os.mkdir(monthPath)
                         #logging.info("Creating " + monthPath)
                     dayPath = createDayPath(tempRecentDate)
-                    print(dayPath)
+                    #print(dayPath)
                     if os.path.exists(dayPath):
                         pass
                     else:
@@ -410,11 +411,12 @@ def processTxtFilesToDailyFiles(folderPath):
                     datedPath = createDatePath(tempRecentDate)
                     fileNameWithCount = createDailyFileFromNameWithCount(person, str(len(linesToDayFile)))
                     datedPathAndFilename = datedPath + fileNameWithCount
-                    print(datedPathAndFilename)
+                    #print(datedPathAndFilename)
+                    #exit()
                     if (recentDate != tempRecentDate) & (tempRecentDate != ""):
-                        print(linesToDayFile)
-                        print(datedPathAndFilename)
-                        print(recentDate)
+                        #print(linesToDayFile)
+                        #print(datedPathAndFilename)
+                        #print(recentDate)
                         if not os.path.exists(datedPathAndFilename):
                             with open(datedPathAndFilename, "w", encoding="utf-8") as newFile:
                                 newFile.write("Message count:" + str(len(linesToDayFile)))
@@ -431,7 +433,22 @@ def processTxtFilesToDailyFiles(folderPath):
 
                     tempRecentDate = recentDate
                     linesToDayFile.append(line)
-                    print("wer")
+                else:
+                    print(len(line))
+                    if len(line) > 120:
+                        rounds = len(line) % 120
+                        beginnIndex = 0
+                        for round in range(0,rounds):
+                            linePart = line[beginnIndex: (round*120)]
+                            print(linePart)
+                            linesToDayFile.append(linePart)
+                            linesToDayFile.append("|")
+                            beginnIndex = round*120
+                    else:
+                        linesToDayFile.append(line)
+                    print(linesToDayFile)
+
+
     logging.info(str(counter) + " files processed.")
 
 def createDailyFileFromName(person):

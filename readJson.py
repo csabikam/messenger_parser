@@ -21,7 +21,8 @@ import logging
 #2021-01-29
 FOLDER_GEN_HTML = "generated_html"
 FOLDER_ABC = "ABC_NAME_TO_DATE"
-FOLDER_JSON = "c:\\Users\\abasc\\Documents\\_csaba\\my_fb_data_20200823\\messages\\inbox"
+#FOLDER_JSON = "c:\\Users\\abasc\\Documents\\_csaba\\my_fb_data_20200823\\messages\\inbox"   # dell
+FOLDER_JSON = "c:\\Users\\abasc\\Documents\\_code\\messenger_parser\\my_fb_data_20200823\\messages\\inbox\\"  # asus
 FOLDER_BIG_FILES = "BIG_HTML_FILES"
 FOLDER_PER_NAME_STATS = "perNameStats"
 FOLDER_LOG = "log"
@@ -47,6 +48,7 @@ now = datetime.now()
 #f= open(loggingFileName,"x")
 #f.close()
 dirsToProcessInJsonFolder = os.listdir(FOLDER_JSON)
+dirsToProcessInJsonFolder = os.listdir("json")  # todo put it back, now just petratesting
 logging.info("Folders to process")
 logging.info(dirsToProcessInJsonFolder)
 counter = 0
@@ -353,7 +355,9 @@ def buildPersonFiles(listOfAllThePersons):
         print("Building PERSON(DATE:COUNT) file for person : " + person)
         buildOnePersonFile(person)
 
-samplePath = "c:\\Users\\abasc\\Documents\\_csaba\\my_fb_data_20200823\\messages\\inbox\\CarlottaMiranda_eyNgLLttpw\\"
+# samplePath = "c:\\Users\\abasc\\Documents\\_csaba\\my_fb_data_20200823\\messages\\inbox\\CarlottaMiranda_eyNgLLttpw\\" # dell
+samplePath = "json\\petrajungwirth_mbdiyp0hpq" # asus
+
 functions.processTxtFilesToDailyFiles(samplePath)
 
 s = "2010-08-29 20:44:56  hgff hffgf "

@@ -74,12 +74,8 @@ def main():
     exit()
     createTxtFilesFromFolders(dirsToProcessInJsonFolder)
 
-main()
-exit()
-#f= open(loggingFileName,"x")
-#f.close()
+#main()
 
-#dirsToProcessInJsonFolder = os.listdir("json")  # todo put it back, now just petratesting
 
 counter = 0
 fileCounter = 0
@@ -139,18 +135,32 @@ def showFilesInFolders(pathToGenerated):
     #print(count)
     dictionary_items = dayToCountDict.items()
     sorted_items = sorted(dictionary_items)
-    print(sorted_items)
-    print(type(sorted_items))
+    #print(sorted_items)
+    #print(type(sorted_items))
 
     return dayToCountDict
 
+dayToCount = showFilesInFolders(FOLDER_GEN_HTML)
+print(dayToCount)
+
+def getDailyCount(list, year, month, day):
+    date = year  + "-" + month + "-" + day
+    if date in list:
+        count = list[date]
+    else:
+        count = 0
+    return count
+
+print(getDailyCount(dayToCount, "2013", "03", "03"))
+
+exit()
 
 dayToCount = showFilesInFolders(FOLDER_GEN_HTML)
 print(dayToCount)
 
 
 def analyzeByYearAll(dayToCount):
-    print(dayToCount)
+    #print(dayToCount)
     yearToCount = {}
     for date, val in dayToCount.items():
         print(date + " " + str(val))
@@ -162,7 +172,7 @@ def analyzeByYearAll(dayToCount):
     print(yearToCount)
 
 def analyzeByMonthsAll(dayToCount):
-    print(dayToCount)
+    #print(dayToCount)
     yearMonthToCount = {}
     for date, val in dayToCount.items():
         #print(date + " " + str(val))
@@ -271,7 +281,7 @@ samplePath = "json\\petrajungwirth_mbdiyp0hpq" # asus
 def generateSumHtml():
     now = datetime.now()
     dt_string = now.strftime("%Y%m%d_%Hh%Mm%Ss")
-    print(dt_string)
+    #print(dt_string)
     pass
 
 def getPhases():

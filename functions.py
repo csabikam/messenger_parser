@@ -71,11 +71,11 @@ def correctFolderDates():
     for folder in os.walk(FOLDER_GEN_HTML):
         if ((not (folder[1])) or (not (folder[2]))):
             if len(folder[0].split("\\")) == 2:
-                print(folder)
+                #print(folder)
                 oldPath = folder[0]
                 os.chdir(oldPath)
                 months = folder[1]
-                print(months)
+                #print(months)
 
 
 # deletes all the empty folders, that have been generated
@@ -115,8 +115,8 @@ def processAllData(all_data):
         if counter > 60:
             exit()
         else:
-            print(counter)
-            print(folder)
+            #print(counter)
+            #print(folder)
 
             if (folder[1] == []) & (folder[2] == []):
                 print("Should be deleted: " + str(folder))
@@ -127,7 +127,7 @@ def processAllData(all_data):
     exit()
 
 def processVisited(pathToFile):
-    print(pathToFile + " szar")
+    #print(pathToFile + " szar")
     menuElements = []
     with open(pathToFile) as json_file:
         data = json.load(json_file)
@@ -235,7 +235,7 @@ def processJson(file):
             if last < lastMessageTime:
                 last = lastMessageTime
         htmlFileName = getHtmlFilename1(person, countRecentFile, dateFrom, dateTo, 'txt')
-        print(htmlFileName)
+        #rint(htmlFileName)
         ret = createClearJson(file, htmlFileName, abcDaysFile)
 
         doneFiles.append(file)
@@ -325,11 +325,11 @@ def getDateOfNow() -> str:
 def createClearJson(fileName, htmlFileName, abcDaysFile):
     print("Processing " + fileName)
     htmlFileNameWithPath = FOLDER_TXTS_FROM_JSON_OR_XML + "/" + htmlFileName
-    print(htmlFileNameWithPath)
+    #print(htmlFileNameWithPath)
     if os.path.exists(htmlFileNameWithPath):
         print("Already exists, returning. File:  " + htmlFileName)
         return []
-    print(htmlFileNameWithPath)
+    #print(htmlFileNameWithPath)
     jsonData = {}
     with open(fileName) as f:
         data = json.load(f)
@@ -510,7 +510,7 @@ def createDailyFileFromNameWithCount(person, countInString):
     #print(len(person))
     if person == "":
         return ""
-    fileName = person + "_" + countInString + ".day"
+    fileName = person + "_" + str(countInString) + ".day"
     fileName = unidecode.unidecode(encodeText(fileName))
     fileName = fileName.replace(" ", "")
     return fileName
@@ -522,6 +522,7 @@ def processTxtToDayFiles(folderPath):
     counter = 0
 
     for actualTxt in txtFiles:
+
         print(actualTxt)
         file = folderPath + '\\' + actualTxt
         person = getPersonnameFromTxtFile(actualTxt)
@@ -530,6 +531,7 @@ def processTxtToDayFiles(folderPath):
         linesToDayFile = []
         tempRecentDate = ""
         fileCounter = 0
+        messageCounter = 0
         #print(file)
         with open(file, 'r', encoding="utf-8") as reader:
             logging.info(" ")
@@ -540,6 +542,7 @@ def processTxtToDayFiles(folderPath):
             for line in reader.readlines():
                 # todo here 2021 05 07
                 if re.match(r'^\d{4}-\d?\d-\d?\d (?:2[0-3]|[01]?[0-9]):[0-5]?[0-9]:[0-5]?[0-9]', line):
+                    messageCounter += 1
                     recentDate = line.split()[0]
                     if tempRecentDate == "":
                         tempRecentDate = recentDate
@@ -547,7 +550,7 @@ def processTxtToDayFiles(folderPath):
 
                     yearPath = createYearPath(tempRecentDate)
 
-                    print(yearPath)
+                    #print(yearPath)
                     if not os.path.exists(yearPath):
                         os.mkdir(yearPath)
                         #logging.info("Creating " + yearPath)
@@ -566,17 +569,18 @@ def processTxtToDayFiles(folderPath):
                         os.mkdir(dayPath)
                         #logging.info("Creating " + dayPath)
                     datedPath = createDatePath(tempRecentDate)
-                    fileNameWithCount = createDailyFileFromNameWithCount(person, str(len(linesToDayFile)))
+                    fileNameWithCount = createDailyFileFromNameWithCount(person, messageCounter)
                     datedPathAndFilename = datedPath + fileNameWithCount
                     #print(datedPathAndFilename)
                     #exit()
                     if (recentDate != tempRecentDate) & (tempRecentDate != ""):
+                        messageCounter = 0
                         #print(linesToDayFile)
                         #print(datedPathAndFilename)
                         #print(recentDate)
                         if not os.path.exists(datedPathAndFilename):
                             with open(datedPathAndFilename, "w", encoding="utf-8") as newFile:
-                                newFile.write("Message count:" + str(len(linesToDayFile)))
+                                newFile.write("Message count:" + str(messageCounter))
                                 newFile.write("\n")
                                 for i in linesToDayFile:
                                     newFile.write(i)

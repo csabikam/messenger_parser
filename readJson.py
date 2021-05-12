@@ -153,23 +153,28 @@ def getDailyCount(list, year, month, day):
 
 print(getDailyCount(dayToCount, "2013", "03", "03"))
 
-exit()
+
 
 dayToCount = showFilesInFolders(FOLDER_GEN_HTML)
 print(dayToCount)
+
+
 
 
 def analyzeByYearAll(dayToCount):
     #print(dayToCount)
     yearToCount = {}
     for date, val in dayToCount.items():
-        print(date + " " + str(val))
+        #print(date + " " + str(val))
         year = date.split("-")[0]
         if year in yearToCount:
             yearToCount[year] = yearToCount[year] + val
         else:
             yearToCount[year] = val
     print(yearToCount)
+
+analyzeByYearAll(dayToCount)
+
 
 def analyzeByMonthsAll(dayToCount):
     #print(dayToCount)
@@ -178,15 +183,15 @@ def analyzeByMonthsAll(dayToCount):
         #print(date + " " + str(val))
         year = date.split("-")[0]
         month = date.split("-")[1]
-        if int(month) < 10:
-            yearMonth = year + "0" + month
-        else:
-            yearMonth = year + month
+        yearMonth = year + "-" + month
         if yearMonth in yearMonthToCount:
             yearMonthToCount[yearMonth] = yearMonthToCount[yearMonth] + val
         else:
             yearMonthToCount[yearMonth] = val
     print(yearMonthToCount)
+
+analyzeByMonthsAll(dayToCount)
+
 
 
 # all years to all the messages , eg: 2017: 6500 messages, 2018: 9800 messages;
@@ -211,23 +216,15 @@ def getListOfAllPersonsInDayFiles(pathToGenerated):
             persons.append(name)
     return sorted(list(set(persons)))
 
+listOfAllPersonsInDayFiles = getListOfAllPersonsInDayFiles(FOLDER_GEN_HTML)
+print(listOfAllPersonsInDayFiles)
+print(len(listOfAllPersonsInDayFiles))
 
-def orderedPersonList(orderedPersonList):
-    pass
 
 
 def getProperDateFormat(filesPerDay):
-    if int(filesPerDay.split("\\")[2]) < 10:
-        month =  "0" + filesPerDay.split("\\")[2]
-    else:
-        month = filesPerDay.split("\\")[2]
-
-    if int(filesPerDay.split("\\")[3]) < 10:
-        day =  "0" + filesPerDay.split("\\")[3]
-    else:
-        day = filesPerDay.split("\\")[3]
-
-
+    month = filesPerDay.split("\\")[2]
+    day = filesPerDay.split("\\")[3]
     result = filesPerDay.split("\\")[1] + "-" + month + "-" + day
     return result
 
@@ -263,12 +260,15 @@ def buildPersonFiles(listOfAllThePersons):
         print("Building PERSON(DATE:COUNT) file for person : " + person)
         buildOnePersonFile(person)
 
+
 # samplePath = "c:\\Users\\abasc\\Documents\\_csaba\\my_fb_data_20200823\\messages\\inbox\\CarlottaMiranda_eyNgLLttpw\\" # dell
 samplePath = "json\\petrajungwirth_mbdiyp0hpq" # asus
 
 #functions.processTxtFilesToDailyFiles(samplePath)
 #listOfAllThePersons = getListOfAllPersonsInDayFiles(FOLDER_GEN_HTML)
-#buildPersonFiles(listOfAllThePersons)
+buildPersonFiles(listOfAllPersonsInDayFiles)
+
+exit()
 
 
 

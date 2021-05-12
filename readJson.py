@@ -216,6 +216,36 @@ def getListOfAllPersonsInDayFiles(pathToGenerated):
             persons.append(name)
     return sorted(list(set(persons)))
 
+def getListOfAllPersonsInDayFilesWithLimit(limit):
+    persons = []
+    for x in os.walk(FOLDER_GEN_HTML):
+        files = x[2]
+        for file in files:
+            name = file.split("_")[0]
+            count = int((file.split("_")[1]).split(".")[0])
+            if count > limit:
+                persons.append(name)
+                print(x)
+                print(file)
+    return sorted(list(set(persons)))
+
+# TOPLIST - MOST CHATTED WITHIN A DAY - who is the one you talked the most within a day
+def getTopMessagesWithinDAy():
+    max = 0
+    person = ""
+    day = ""
+    for x in os.walk(FOLDER_GEN_HTML):
+        files = x[2]
+        for file in files:
+            name = file.split("_")[0]
+            count = int((file.split("_")[1]).split(".")[0])
+            if count > max:
+                max = count
+                day = x[0]
+                person = name
+    print("The person you chatted the most within a day was " + person + " , and you changed " + str(max) + " messages on " + str(day))
+
+
 listOfAllPersonsInDayFiles = getListOfAllPersonsInDayFiles(FOLDER_GEN_HTML)
 print(listOfAllPersonsInDayFiles)
 print(len(listOfAllPersonsInDayFiles))
@@ -266,7 +296,14 @@ samplePath = "json\\petrajungwirth_mbdiyp0hpq" # asus
 
 #functions.processTxtFilesToDailyFiles(samplePath)
 #listOfAllThePersons = getListOfAllPersonsInDayFiles(FOLDER_GEN_HTML)
-buildPersonFiles(listOfAllPersonsInDayFiles)
+#buildPersonFiles(listOfAllPersonsInDayFiles)
+
+limitedPeople = getListOfAllPersonsInDayFilesWithLimit(2000)
+print(limitedPeople)
+print(len(limitedPeople))
+getTopMessagesWithinDAy()
+
+# idea : get the top ten or twenty persons max count within a day, and order by date on a graph
 
 exit()
 

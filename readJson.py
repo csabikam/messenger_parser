@@ -19,6 +19,7 @@ FOLDER_ABC = "ABC_NAME_TO_DATE"
 FOLDER_JSON = "c:\\Users\\abasc\\Documents\\_csaba\\my_fb_data_20200823\\messages\\inbox"   # dell
 #FOLDER_JSON = "c:\\Users\\abasc\\Documents\\_code\\messenger_parser\\my_fb_data_20200823\\messages\\inbox\\"  # asus
 FOLDER_BIG_FILES = "BIG_HTML_FILES"
+FOLDER_HTML = "html"
 FOLDER_PER_NAME_STATS = "perNameStats"
 FOLDER_TXTS_FROM_JSON_OR_XML = "txtsFromJsonOrXml"
 FOLDER_LOG = "log"
@@ -189,8 +190,13 @@ def analyzeByMonthsAll(dayToCount):
         else:
             yearMonthToCount[yearMonth] = val
     print(yearMonthToCount)
+    return yearMonthToCount
 
-analyzeByMonthsAll(dayToCount)
+yearMonthToCount = analyzeByMonthsAll(dayToCount)
+print(yearMonthToCount)
+print("szar")
+labels = yearMonthToCount
+
 
 
 
@@ -291,17 +297,188 @@ def buildPersonFiles(listOfAllThePersons):
         buildOnePersonFile(person)
 
 
-# samplePath = "c:\\Users\\abasc\\Documents\\_csaba\\my_fb_data_20200823\\messages\\inbox\\CarlottaMiranda_eyNgLLttpw\\" # dell
-samplePath = "json\\petrajungwirth_mbdiyp0hpq" # asus
-
 #functions.processTxtFilesToDailyFiles(samplePath)
 #listOfAllThePersons = getListOfAllPersonsInDayFiles(FOLDER_GEN_HTML)
 #buildPersonFiles(listOfAllPersonsInDayFiles)
 
+# expects always a list, even if it has only one element
+def getDatasets(datasetList):
+
+    ds1 = { "label" : '"Elso dataset label"', "backgroundColor" : "'rgb(255, 99, 132)'", "data" : "[0, 10, 5, 2, 20, 10, 45]"}
+    ds2 = {"label": '"Masodik dataset label"', "backgroundColor": "'rgb(55, 99, 132)'", "data": "[10, 16, 25, 24, 20, 10, 5]"}
+    dsList = [ds1, ds2]
+    if datasetList:
+        dsList = datasetList
+
+    datasetsResult = ""
+
+    for dataset in dsList:
+        datasetJs = """
+{
+    label: %s,
+    backgroundColor: %s,
+    borderColor: 'rgb(255, 99, 132)',
+    data: %s,
+}
+        
+        """ % (dataset["label"], dataset["backgroundColor"], dataset["data"] )
+        if datasetsResult:
+            datasetsResult = datasetsResult + "," + datasetJs
+        else:
+            datasetsResult = datasetJs
+
+
+
+    return datasetsResult
+    datasets = """
+{
+    label: 'My First dataset',
+    backgroundColor: 'rgb(255, 99, 132)',
+    borderColor: 'rgb(255, 99, 132)',
+    data: [0, 10, 5, 2, 20, 10, 45],
+  },
+  {
+    label: 'My second dataset',
+    backgroundColor: 'rgb(255, 99, 132)',
+    borderColor: 'rgb(55, 99, 132)',
+    data: [45, 20, 5, 30, 20, 30, 40],
+  }
+    """
+    return datasets
+
+
+def getLabels(labels):
+    if labels:
+        return labels
+    else:
+        return """'January',
+      'February',
+      'March',
+      'April',
+      'May',
+      'June',
+      'July'"""
+
+
+def getDiv(labels, datasetList):
+    myDiv = """
+    
+<div class="row">
+    <canvas id="myChart"></canvas>
+  </div>
+
+  <script>
+
+
+const labels = 
+  %s
+;
+const data = {
+  labels: labels,
+  datasets: [
+  %s
+  ]
+};
+
+const config = {
+  type: 'line',
+  data,
+  options: {}
+};
+
+  // === include 'setup' then 'config' above ===
+
+
+  var myChart = new Chart(
+    document.getElementById('myChart'),
+    config
+  );
+
+</script>
+    """ % (getLabels(labels), getDatasets(datasetList))
+    return myDiv
+
+
+
+def getHtmlFrame(labels, datasetList):
+    sample = """line %d
+          line %d
+          line %d""" % (
+        1,
+        2,
+        3)
+
+    htmlFrame = """
+    <!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+<body>
+
+<h1>Stats</h1>
+<li> %s </li>
+<div class="container">
+    <h3> %s </h3>
+  %s
+
+</div>
+
+
+</body>
+
+</html>
+    
+    
+    
+    """ % ("TOP LIST OF COUNT OF MESSAGES x", "Other text to H3", getDiv(labels, datasetList))
+    return htmlFrame
+
+
+def getKeysInList(dict):
+    list = []
+    for key in dict.keys():
+        list.append(key)
+
+    return list
+
+def getValsInList(dict):
+    list = []
+    for key in dict.values():
+        list.append(key)
+
+    return list
+
+datasetList = getValsInList(labels)
+finalDataset = { "label" : '"Month to message count"', "backgroundColor" : "'rgb(25, 99, 132)'", "data" : str(datasetList)}
+secondfinalDataset = { "label" : '"Month to message count"', "backgroundColor" : "'rgb(25, 99, 132)'", "data" : str(sorted(datasetList))}
+print(str(datasetList))
+
+
+labelsList = getKeysInList(labels)
+
+htmlFrame = getHtmlFrame(labelsList, [finalDataset, secondfinalDataset])
+filename = functions.getDateOfNow() + "_" + functions.getTimeOfNow() + ".html"
+
+
+def createHtml(filename, htmlFrame):
+    fileNameWithPath = FOLDER_HTML + "\\" + filename
+    with open(fileNameWithPath, "w", encoding="utf-8") as newFile:
+        newFile.write(htmlFrame)
+    newFile.close()
+    print(fileNameWithPath + " generated.")
+
+
+createHtml(filename, htmlFrame)
+
 limitedPeople = getListOfAllPersonsInDayFilesWithLimit(2000)
 print(limitedPeople)
 print(len(limitedPeople))
-getTopMessagesWithinDAy()
+
+topMessages = getTopMessagesWithinDAy()
+print(topMessages)
 
 # idea : get the top ten or twenty persons max count within a day, and order by date on a graph
 

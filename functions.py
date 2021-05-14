@@ -322,6 +322,12 @@ def getDateOfNow() -> str:
     result = str(dt_obj).split(" ")[0]
     return result
 
+def getTimeOfNow() -> str:
+    dt_obj = datetime.now()
+    result = str(dt_obj).split(" ")[1]
+    result = (result.split(".")[0]).replace(":", "")
+    return result
+
 def createClearJson(fileName, htmlFileName, abcDaysFile):
     print("Processing " + fileName)
     htmlFileNameWithPath = FOLDER_TXTS_FROM_JSON_OR_XML + "/" + htmlFileName

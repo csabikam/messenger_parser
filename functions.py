@@ -17,6 +17,7 @@ import logging
 FOLDER_GEN_HTML = "generated_html"
 FOLDER_TXTS_FROM_JSON_OR_XML = "txtsFromJsonOrXml"
 FOLDER_ABC = "ABC_NAME_TO_DATE"
+FOLDER_PER_NAME_STATS = "perNameStats"
 FOLDER_JSON = "c:\\Users\\abasc\\Documents\\_csaba\\my_fb_data_20200823\\messages\\inbox"   # dell
 FOLDER_BIG_FILES = "BIG_HTML_FILES"
 FOLDER_LOG = "log"
@@ -41,6 +42,145 @@ def initFolders(initFoldersList):
             logging.info("Creating folder ( initFolder()) : " + foldername + " not neccessary. It already exists.")
 
 #==================== </DONT TOUCH - ITS STABLE - THE END> =========================================
+
+def showFilesInFolders(pathToGenerated):
+    count = 0
+    dayToCountDict = {}
+    for x in os.walk(pathToGenerated):
+        #print(x[0])
+        if not(x[1]):
+            day = x[0]
+            count += 1
+            sumOfAllLines = 0
+            for chat in x[2]:
+                #print(chat)
+                #print(sumOfAllLines)
+                try:
+                    numOfLines = int((chat.split("_")[1]).split(".")[0])
+                    sumOfAllLines = numOfLines + sumOfAllLines
+                except IndexError:
+                    print("Oops!  That was no valid number.  Try again..." + chat)
+
+                #print(numOfLines)
+
+
+            #print("sum of all: " + str(sumOfAllLines))
+            if len(day.split("\\")) == 4:
+                month = day.split("\\")[2]
+                thatDay = day.split("\\")[3]
+                date = day.split("\\")[1] + "-" + month + "-" + thatDay
+                dayToCountDict[date] = sumOfAllLines
+            #print(day)
+            #print(str(x))
+            #print(len(x[2]))
+            #print(count)
+    #print(count)
+    dictionary_items = dayToCountDict.items()
+    sorted_items = sorted(dictionary_items)
+    #print(sorted_items)
+    #print(type(sorted_items))
+
+    return dayToCountDict
+
+def analyzeByYearAll(dayToCount):
+    #print(dayToCount)
+    yearToCount = {}
+    for date, val in dayToCount.items():
+        #print(date + " " + str(val))
+        year = date.split("-")[0]
+        if year in yearToCount:
+            yearToCount[year] = yearToCount[year] + val
+        else:
+            yearToCount[year] = val
+    print(yearToCount)
+
+def getListOfAllPersonsInDayFiles(pathToGenerated):
+    persons = []
+    for x in os.walk(pathToGenerated):
+        files = x[2]
+        for file in files:
+            name = file.split("_")[0]
+            persons.append(name)
+    return sorted(list(set(persons)))
+
+def getLabels(labels):
+    if labels:
+        return labels
+    else:
+        return """'January',
+      'February',
+      'March',
+      'April',
+      'May',
+      'June',
+      'July'"""
+
+# TOPLIST - MOST CHATTED WITHIN A DAY - who is the one you talked the most within a day
+def getTopMessagesWithinDAy():
+    max = 0
+    person = ""
+    day = ""
+    for x in os.walk(FOLDER_GEN_HTML):
+        files = x[2]
+        for file in files:
+            name = file.split("_")[0]
+            count = int((file.split("_")[1]).split(".")[0])
+            if count > max:
+                max = count
+                day = x[0]
+                person = name
+    print("The person you chatted the most within a day was " + person + " , and you changed " + str(max) + " messages on " + str(day))
+
+def getListOfAllPersonsInDayFilesWithLimit(limit):
+    persons = []
+    for x in os.walk(FOLDER_GEN_HTML):
+        files = x[2]
+        for file in files:
+            name = file.split("_")[0]
+            count = int((file.split("_")[1]).split(".")[0])
+            if count > limit:
+                persons.append(name)
+                print(x)
+                print(file)
+    return sorted(list(set(persons)))
+
+
+
+def analyzeByMonthsAll(dayToCount):
+    #print(dayToCount)
+    yearMonthToCount = {}
+    for date, val in dayToCount.items():
+        #print(date + " " + str(val))
+        year = date.split("-")[0]
+        month = date.split("-")[1]
+        yearMonth = year + "-" + month
+        if yearMonth in yearMonthToCount:
+            yearMonthToCount[yearMonth] = yearMonthToCount[yearMonth] + val
+        else:
+            yearMonthToCount[yearMonth] = val
+    print(yearMonthToCount)
+    return yearMonthToCount
+
+def createTxtFilesFromFolders(dirsToProcessInJsonFolder):
+    for folderPath in dirsToProcessInJsonFolder:
+        print(folderPath)
+        filesOrFoldersInFolder = os.listdir(folderPath)
+        print(filesOrFoldersInFolder)
+        exit()
+        jsonFiles = list(filter(lambda x: (str(x).endswith('.json')), filesOrFoldersInFolder))
+        xmlFiles = list(filter(lambda x: (str(x).endswith('.xml')), filesOrFoldersInFolder))
+        logging.info("List of json files " + str(jsonFiles))
+        logging.info("List of xml files " + str(xmlFiles))
+        print("List of json files " + str(jsonFiles))
+        print("List of xml files " + str(xmlFiles))
+        counter = 0
+        if jsonFiles != []:
+            logging.info("Json files : " + str(jsonFiles))
+            for file in jsonFiles:
+                file = folderPath + '/' + file
+                # volt: counter = counter +
+                functions.processJson(file)
+        pass
 
 def correctFolderDates():
     count = 0
@@ -327,6 +467,66 @@ def getTimeOfNow() -> str:
     result = str(dt_obj).split(" ")[1]
     result = (result.split(".")[0]).replace(":", "")
     return result
+
+def getProperDateFormat(filesPerDay):
+    month = filesPerDay.split("\\")[2]
+    day = filesPerDay.split("\\")[3]
+    result = filesPerDay.split("\\")[1] + "-" + month + "-" + day
+    return result
+
+
+def buildPersonFiles(listOfAllThePersons):
+    for person in listOfAllThePersons:
+        print("Building PERSON(DATE:COUNT) file for person : " + person)
+        buildOnePersonFile(person)
+
+def buildOnePersonFile(person):
+    dayToCountList = []
+    print("person is " + person)
+    sum = 0
+    for filesPerDay in os.walk(FOLDER_GEN_HTML):
+        files = filesPerDay[2]
+        for file in files:
+            name = file.split("_")[0]
+            if (name == person):
+                thatDate = getProperDateFormat(filesPerDay[0])
+                count = (file.split("_")[1]).split(".")[0]
+                sum = sum + int(count)
+                recentDayToCountDict = {}
+                recentDayToCountDict[thatDate] =  count
+                dayToCountList.append(recentDayToCountDict)
+    fileNameWithPath = FOLDER_PER_NAME_STATS + "\\" + person + "_" + str(sum) + ".stat"
+    print(dayToCountList)
+    with open(fileNameWithPath, "w", encoding="utf-8") as newFile:
+        for record in dayToCountList:
+            key = list(record.keys())[0]
+            newFile.write(key + " : " + record[key])
+            newFile.write("\n")
+    newFile.close()
+
+def buildOnePersonFile(person):
+    dayToCountList = []
+    print("person is " + person)
+    sum = 0
+    for filesPerDay in os.walk(FOLDER_GEN_HTML):
+        files = filesPerDay[2]
+        for file in files:
+            name = file.split("_")[0]
+            if (name == person):
+                thatDate = getProperDateFormat(filesPerDay[0])
+                count = (file.split("_")[1]).split(".")[0]
+                sum = sum + int(count)
+                recentDayToCountDict = {}
+                recentDayToCountDict[thatDate] =  count
+                dayToCountList.append(recentDayToCountDict)
+    fileNameWithPath = FOLDER_PER_NAME_STATS + "\\" + person + "_" + str(sum) + ".stat"
+    print(dayToCountList)
+    with open(fileNameWithPath, "w", encoding="utf-8") as newFile:
+        for record in dayToCountList:
+            key = list(record.keys())[0]
+            newFile.write(key + " : " + record[key])
+            newFile.write("\n")
+    newFile.close()
 
 def createClearJson(fileName, htmlFileName, abcDaysFile):
     print("Processing " + fileName)

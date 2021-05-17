@@ -4,6 +4,7 @@ import re as re
 import pyhtml as ph
 import now as now
 import functions
+import operator
 from os.path import isfile, join
 import xmltodict
 import json
@@ -288,6 +289,24 @@ charts.append(chartYearmonthToCount)
 htmlFrame = getHtmlFrame(charts)
 filename = functions.getDateOfNow() + "_" + functions.getTimeOfNow() + ".html"
 
+def getTopMessagesChangedWithPersons(limit):
+    topList = {}
+    for root, dirs, files in os.walk(FOLDER_PER_NAME_STATS, topdown=False):
+        for name in files:
+            justName = name.split("_")[0]
+            count = (name.split("_")[1]).split(".")[0]
+            print(name)
+            print(justName)
+            print(count)
+            topList[justName] = int(count)
+    res = list(dict(sorted(topList.items(), key=operator.itemgetter(1),reverse=True)))[:limit]
+    print(res)
+    print(len(res))
+
+
+getTopMessagesChangedWithPersons(20)
+exit()
+
 
 def createHtml(filename, htmlFrame):
     fileNameWithPath = FOLDER_HTML + "\\" + filename
@@ -299,8 +318,8 @@ def createHtml(filename, htmlFrame):
 
 createHtml(filename, htmlFrame)
 
-limitedPeople = functions.getListOfAllPersonsInDayFilesWithLimit(2000)
-print(limitedPeople)
+limitedPeople = functions.getListOfAllPersonsInDayFilesWithLimit(1000)
+print("LIMITED PEOPLE " + str(limitedPeople))
 print(len(limitedPeople))
 
 topMessages = functions.getTopMessagesWithinDAy()
@@ -309,9 +328,6 @@ print(topMessages)
 # idea : get the top ten or twenty persons max count within a day, and order by date on a graph
 
 exit()
-
-
-
 
 
 #print(listOfAllThePersons)

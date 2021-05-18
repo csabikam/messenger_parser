@@ -196,7 +196,7 @@ const data = {
 };
 
 const config = {
-  type: 'line',
+  type: 'bar',
   data,
   options: {}
 };
@@ -255,12 +255,74 @@ def getValsInList(dict):
 
     return list
 
+
+def getRandomColorString():
+    x = random.randint(0,255)
+    y = random.randint(0,255)
+    z = random.randint(0,255)
+    result = "'" + "rgb(" + str(x) + "," + str(y) + "," + str(z) + ")'"
+    return result
+
+def getTopMessagesChangedWithPersons(limit):
+    topList = {}
+    for root, dirs, files in os.walk(FOLDER_PER_NAME_STATS, topdown=False):
+        for name in files:
+            justName = name.split("_")[0]
+            count = (name.split("_")[1]).split(".")[0]
+            print(name)
+            print(justName)
+            print(count)
+            topList[justName] = int(count)
+    res = list(dict(sorted(topList.items(), key=operator.itemgetter(1),reverse=True)))[:limit]
+    print(res)
+    print(len(res))
+    cleanDict = {}
+    for item in res:
+        cleanDict[item] = topList[item]
+    print(cleanDict)
+    return cleanDict
+
+def prepareChart(labelText, myDict):
+    colorString = getRandomColorString()
+    labelData = getKeysInList(myDict)
+     # "'rgb(25, 99, 132)'"
+    print(colorString)
+    datasetList = getValsInList(myDict)
+    chartInsideData = {"label": "'" + labelText + "'", "backgroundColor": colorString,
+                    "data": str(datasetList)}
+    chart = {
+        "name": "chartYearmonthToCount",
+        "labels": labelData,
+        "datasets": [chartInsideData]
+
+    }
+    return chart
+
+def createHtml(filename, htmlFrame):
+    fileNameWithPath = FOLDER_HTML + "\\" + filename
+    with open(fileNameWithPath, "w", encoding="utf-8") as newFile:
+        newFile.write(htmlFrame)
+    newFile.close()
+    print(fileNameWithPath + " generated.")
+
+
+
+topList = getTopMessagesChangedWithPersons(40)
+print(topList)
+topListChart = prepareChart("Top List 20", topList)
+print(topListChart)
+
+
+
 datasetList = getValsInList(labels)
+print(datasetList)
+
 finalDataset = { "label" : '"Month to message count"', "backgroundColor" : "'rgb(25, 99, 132)'", "data" : str(datasetList)}
 secondfinalDataset = { "label" : '"Month to message count"', "backgroundColor" : "'rgb(25, 99, 132)'", "data" : str(sorted(datasetList))}
 print(str(datasetList))
 
 chartYearmonthToCount_Labels = getKeysInList(labels)
+
 chartYearmonthToCount_datasets = [finalDataset, secondfinalDataset]
 
 
@@ -281,42 +343,27 @@ chartYearmonthToCount_2 = {
 
 }
 
-charts.append(chartYearmonthToCount)
+charts.append(topListChart)
 #charts.append(chartYearmonthToCount_2)
 
 
+print(charts)
 
 htmlFrame = getHtmlFrame(charts)
 filename = functions.getDateOfNow() + "_" + functions.getTimeOfNow() + ".html"
 
-def getTopMessagesChangedWithPersons(limit):
-    topList = {}
-    for root, dirs, files in os.walk(FOLDER_PER_NAME_STATS, topdown=False):
-        for name in files:
-            justName = name.split("_")[0]
-            count = (name.split("_")[1]).split(".")[0]
-            print(name)
-            print(justName)
-            print(count)
-            topList[justName] = int(count)
-    res = list(dict(sorted(topList.items(), key=operator.itemgetter(1),reverse=True)))[:limit]
-    print(res)
-    print(len(res))
 
 
-getTopMessagesChangedWithPersons(20)
-exit()
 
 
-def createHtml(filename, htmlFrame):
-    fileNameWithPath = FOLDER_HTML + "\\" + filename
-    with open(fileNameWithPath, "w", encoding="utf-8") as newFile:
-        newFile.write(htmlFrame)
-    newFile.close()
-    print(fileNameWithPath + " generated.")
+
+
+
+
 
 
 createHtml(filename, htmlFrame)
+exit()
 
 limitedPeople = functions.getListOfAllPersonsInDayFilesWithLimit(1000)
 print("LIMITED PEOPLE " + str(limitedPeople))

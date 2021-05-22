@@ -307,7 +307,67 @@ def createHtml(filename, htmlFrame):
 
 
 
-topList = getTopMessagesChangedWithPersons(40)
+
+
+# topList = getTopMessagesChangedWithPersons(40)
+
+# takes into account the days when we spoke ( daysWeTalked/sumOfMessagesCount )
+def getAbsolutTopMessagesChangedWithPersons(limit, limitOfDays):
+    topList = {}
+    for root, dirs, files in os.walk(FOLDER_PER_NAME_STATS, topdown=False):
+        for filename in files:
+            countOfDays = 0
+            with open(FOLDER_PER_NAME_STATS + '\\' + filename, "r", encoding="utf-8") as recentFile:
+                for line in recentFile:
+                    countOfDays += 1
+            #         doneF.write('%s\n' % line)
+            recentFile.close()
+            print(countOfDays)
+            justName = filename.split("_")[0]
+            count = (filename.split("_")[1]).split(".")[0]
+            if countOfDays > limitOfDays:
+                topList[justName] = int(count)/countOfDays
+    res = list(dict(sorted(topList.items(), key=operator.itemgetter(1), reverse=True)))[:limit]
+    print(res)
+    print(len(res))
+    cleanDict = {}
+    for item in res:
+        cleanDict[item] = topList[item]
+    print(cleanDict)
+    return cleanDict
+
+
+#topList = getAbsolutTopMessagesChangedWithPersons(60, 200)
+
+
+# analysis the time range between the first and the last messages per the count of the messages
+def getTopTimeRangePerMessagesChangedWithPersons(limit, limitOfDays):
+    topList = {}
+    for root, dirs, files in os.walk(FOLDER_PER_NAME_STATS, topdown=False):
+        for filename in files:
+            countOfDays = 0
+            with open(FOLDER_PER_NAME_STATS + '\\' + filename, "r", encoding="utf-8") as recentFile:
+                for line in recentFile:
+                    countOfDays += 1
+            #         doneF.write('%s\n' % line)
+            recentFile.close()
+            print(countOfDays)
+            justName = filename.split("_")[0]
+            count = (filename.split("_")[1]).split(".")[0]
+            if countOfDays > limitOfDays:
+                topList[justName] = int(count) / countOfDays
+    res = list(dict(sorted(topList.items(), key=operator.itemgetter(1), reverse=True)))[:limit]
+    print(res)
+    print(len(res))
+    cleanDict = {}
+    for item in res:
+        cleanDict[item] = topList[item]
+    print(cleanDict)
+    return cleanDict
+
+
+topList = getTopTimeRangePerMessagesChangedWithPersons(60, 200)
+
 print(topList)
 topListChart = prepareChart("Top List 20", topList)
 print(topListChart)
